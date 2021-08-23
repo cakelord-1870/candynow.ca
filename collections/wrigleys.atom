@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/wrigleys.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-03-17T13:45:35-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4565812019285</id>
+    <published>2020-03-17T13:45:35-07:00</published>
+    <updated>2020-03-17T13:45:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hubba-bubba-bubble-tape-original-6ct"/>
+    <title>Hubba Bubba Bubble Tape Original 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hubba_Bubba_Bubble_Tape_Original_44af3526-6f62-4646-b7d2-7fced9093e9a.jpg?v=1584988719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>hubba bubba</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565812019285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009576521</id>
+    <published>2019-01-24T16:08:41-08:00</published>
+    <updated>2019-01-24T16:08:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/wrigley-winterfresh-slim-pack-15-stick-10ct"/>
+    <title>Wrigley Winterfresh Slim Pack 15 Stick 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Wrigley_Winterfresh_Slim_Pack.jpg?v=1579546065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>winterfresh</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009576521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009314377</id>
+    <published>2019-01-24T16:08:37-08:00</published>
+    <updated>2019-01-24T16:08:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/wrigley-extra-15-stick-spearmint-10ct"/>
+    <title>Wrigley Extra 15 Stick Spearmint 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Wrigley_Extra_15_Stick_Spearmint.jpg?v=1579546060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>extra</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>spearmint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009314377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009216073</id>
+    <published>2019-01-24T16:08:35-08:00</published>
+    <updated>2019-01-24T16:08:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/wrigley-extra-15-stick-peppermint-10ct"/>
+    <title>Wrigley Extra 15 Stick Peppermint 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Wrigley_Extra_15_Stick_Peppermint.jpg?v=1579546058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>extra</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009216073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009117769</id>
+    <published>2019-01-24T16:08:34-08:00</published>
+    <updated>2019-01-24T16:08:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/wrigley-doublemint-slim-pack-15-stick-10ct"/>
+    <title>Wrigley Doublemint Slim Pack 15 Stick 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Wrigley_Doublemint_Slim_Pack.jpg?v=1579546057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>double mint</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009117769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009085001</id>
+    <published>2019-01-24T16:08:34-08:00</published>
+    <updated>2019-01-24T16:08:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/wrigley-big-red-slim-pack-15-stick-10ct"/>
+    <title>Wrigley Big Red Slim Pack 15 Stick 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Wrigley_Big_Red_Slim_Pack.jpg?v=1579546056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big red</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009085001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032008986697</id>
+    <published>2019-01-24T16:08:32-08:00</published>
+    <updated>2019-01-24T16:08:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hubba-bubba-bubble-tape-sour-blue-raspberry-2-6-ct"/>
+    <title>Hubba Bubba Bubble Tape Sour Blue Raspberry 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hubba_Bubba_Tape_Sour_Blue_Raspberry.jpg?v=1555354875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>hubba bubba</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032008986697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032008888393</id>
+    <published>2019-01-24T16:08:31-08:00</published>
+    <updated>2019-01-24T16:08:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hubba-bubba-5-piece-gum-max-original-18ct"/>
+    <title>Hubba Bubba 5pc Gum Max Original 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hubba_Bubba_5pc_Gum_Max_Original.png?v=1555354872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>hubba bubba</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032008888393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032008855625</id>
+    <published>2019-01-24T16:08:31-08:00</published>
+    <updated>2019-01-24T16:08:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hubba-bubba-5-pc-gum-max-strawberry-watermelon-18ct"/>
+    <title>Hubba Bubba 5pc Gum Max Strawberry Watermelon 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hubba_Bubba_5pc_Gum_Max_Strawberry_Watermelon.jpg?v=1555354873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>hubba bubba</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032008855625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

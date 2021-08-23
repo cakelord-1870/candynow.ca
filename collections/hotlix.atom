@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/hotlix.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-01-30T15:26:18-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2083953082441</id>
+    <published>2021-01-30T15:26:18-08:00</published>
+    <updated>2021-01-30T15:26:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-chili-lix-assorted-36ct"/>
+    <title>Hotlix Chili Lix Assorted 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Chili_Lix_Assorted.jpg?v=1555354867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            46.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chili</s:tag>
+    <s:tag>hotlix</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2083953082441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2084030218313</id>
+    <published>2021-01-30T15:26:08-08:00</published>
+    <updated>2021-01-30T15:26:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-earthwoormz-real-worms-24ct"/>
+    <title>Hotlix Earthwoormz Real Worms 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Earthwoormz.jpg?v=1555354868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>worm</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2084030218313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.26</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2084020355145</id>
+    <published>2019-02-20T20:29:31-08:00</published>
+    <updated>2019-02-20T20:29:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-crickettes-assorted-24ct"/>
+    <title>Hotlix Crickettes Real Crickets Assorted 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Crickettes_Assorted.jpg?v=1555354868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cricket</s:tag>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2084020355145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2084010983497</id>
+    <published>2019-02-20T20:08:34-08:00</published>
+    <updated>2019-02-20T20:08:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-larvets-assorted-24ct"/>
+    <title>Hotlix Larvets Assorted 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Larvets_Assorted.jpg?v=1555354869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>larvet</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2084010983497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2083989127241</id>
+    <published>2019-02-20T20:00:10-08:00</published>
+    <updated>2019-02-20T20:00:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-amber-brittle-insectnside-24ct"/>
+    <title>Hotlix Amber Brittle InsectNside 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Amber_Insect_Candy.jpg?v=1555354866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amber</s:tag>
+    <s:tag>brittle</s:tag>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2083989127241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2083949314121</id>
+    <published>2019-02-20T19:32:47-08:00</published>
+    <updated>2019-02-20T19:32:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-real-ant-lix-sucker-assorted-36ct"/>
+    <title>Hotlix Real Ant Lix Sucker Assorted 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Real_Ant_Lix_Sucker.jpg?v=1555354870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ant</s:tag>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2083949314121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2083946397769</id>
+    <published>2019-02-20T19:22:28-08:00</published>
+    <updated>2019-02-20T19:22:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-real-cricket-sucker-assorted-36ct"/>
+    <title>Hotlix Real Cricket Sucker Assorted 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Real_Cricket_Sucker_Assorted.jpg?v=1555354871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cricket</s:tag>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2083946397769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2083938631753</id>
+    <published>2019-02-20T19:10:18-08:00</published>
+    <updated>2019-02-20T19:10:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-real-worm-sucker-assorted-36ct"/>
+    <title>Hotlix Real Worm Sucker Assorted 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Real_Worm_Sucker_Assorted.jpg?v=1555354872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>worm</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2083938631753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2083927752777</id>
+    <published>2019-02-20T18:59:07-08:00</published>
+    <updated>2019-02-20T18:59:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hotlix-real-scorpion-sucker-assorted-36ct"/>
+    <title>Hotlix Real Scorpion Sucker Assorted 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hotlix_Scorpion_Sucker_Assorted.jpg?v=1555354871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hotlix</s:tag>
+    <s:tag>insect</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>scorpion</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2083927752777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

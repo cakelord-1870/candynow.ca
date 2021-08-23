@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/mexican-candy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-10-28T13:55:39-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4796673196117</id>
+    <published>2020-10-28T13:55:39-07:00</published>
+    <updated>2020-10-28T13:55:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-vero-sandibrochas-sandia-watermelon-40ct-mexico"/>
+    <title>Vero Sandibrochas Sandia Watermelon 40ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Vero_Sandibrochas_Prend_1b7253be-f7a7-43a6-a3c5-fa80d5ce3036.jpg?v=1603918541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lollipop</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>vero</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4796673196117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4796667199573</id>
+    <published>2020-10-28T13:46:29-07:00</published>
+    <updated>2020-10-28T13:46:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-pulparindots-xtra-hot-12ct-mexico"/>
+    <title>PulparinDots Xtra Hot 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PulparinDotsXtraHot12ct.jpg?v=1604976159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>de la rosa</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>pulparindo</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4796667199573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758331424853</id>
+    <published>2020-09-02T12:51:45-07:00</published>
+    <updated>2020-09-02T12:51:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pulparindots-mango-12ct-mexico"/>
+    <title>PulparinDots Mango 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PulparinDotsMango.jpg?v=1599076371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>de la rosa</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>pulparindo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758331424853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4546635104341</id>
+    <published>2020-09-02T12:48:11-07:00</published>
+    <updated>2020-09-02T12:48:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/ricolino-duvalin-vanilla-18ct-mexico"/>
+    <title>Ricolino Duvalin Vanilla Hazelnut 18ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Ricolino_Duvalin_Vanilla.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>recolino</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4546635104341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758316482645</id>
+    <published>2020-09-02T12:38:50-07:00</published>
+    <updated>2020-09-02T12:38:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/ravi-crazy-fresa-12ct-mexico"/>
+    <title>Ravi Crazy Jelly Fresa 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RAV64587.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>ravi</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758316482645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758313795669</id>
+    <published>2020-09-02T12:36:09-07:00</published>
+    <updated>2020-09-02T12:36:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/ravi-crazy-pina-pineapple-12ct-mexico"/>
+    <title>Ravi Crazy Jelly Pina Pineapple 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RAV64577.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>ravi</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758313795669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758310518869</id>
+    <published>2020-09-02T12:33:31-07:00</published>
+    <updated>2020-09-02T12:33:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/ravi-crazy-sandia-watermelon-12ct-mexico"/>
+    <title>Ravi Crazy Jelly Sandia Watermelon 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RAV64277.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>ravi</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758310518869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758309929045</id>
+    <published>2020-09-02T12:32:58-07:00</published>
+    <updated>2020-09-02T12:32:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/ravi-crazy-mango-12ct-mexico"/>
+    <title>Ravi Crazy Jelly Mango 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RaviCrazyMango.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>ravi</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758309929045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758302392405</id>
+    <published>2020-09-02T12:25:36-07:00</published>
+    <updated>2020-09-02T12:25:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-lucas-muecas-sour-10ct-mexico"/>
+    <title>Lucas Muecas Sour 10ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LUC81933.jpg?v=1599263342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>lucas</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758302392405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758291218517</id>
+    <published>2020-09-02T12:16:53-07:00</published>
+    <updated>2020-09-02T12:16:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lucas-gusano-sour-10ct-mexico"/>
+    <title>Lucas Gusano Sour 10ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LUC81923.jpg?v=1599263342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>lucas</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758291218517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4758283485269</id>
+    <published>2020-09-02T12:12:00-07:00</published>
+    <updated>2020-09-02T12:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lucas-salsaghetti-sour-12ct-mexico"/>
+    <title>Lucas Salsaghetti Sour 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LucasSalsaghettiSour.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>lucas</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4758283485269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.67</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757270167637</id>
+    <published>2020-09-01T21:35:30-07:00</published>
+    <updated>2020-09-01T21:35:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/canels-4pc-original-gum-60ct-mexico"/>
+    <title>Canels 4pc Original Gum 60ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Canels4PastillasOriginal.jpg?v=1599021389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>canel</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757270167637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757264957525</id>
+    <published>2020-09-01T21:30:46-07:00</published>
+    <updated>2020-09-01T21:30:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/limon-7-salero-10ct-mexico-1"/>
+    <title>Limon 7 Salero 10ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Limon_7_Salero_fbcc6b88-9a9f-4e9b-addf-285dc81eac31.jpg?v=1599021047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anahuac</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757264957525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757261549653</id>
+    <published>2020-09-01T21:27:32-07:00</published>
+    <updated>2020-09-01T21:27:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-clorets-2-pastillas-menta-100ct-mexico"/>
+    <title>Adams Clorets 2 Pastillas Menta 60ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsCloret_s2PastillasMenta.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>special</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757261549653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757258043477</id>
+    <published>2020-09-01T21:24:16-07:00</published>
+    <updated>2020-09-01T21:24:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-chiclets-2-pastillas-ment-100ct-mexico"/>
+    <title>Adams Chiclets 2 Pastillas Menta 100ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsChiclet_s2PastillasMent.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757258043477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757257519189</id>
+    <published>2020-09-01T21:23:47-07:00</published>
+    <updated>2020-09-01T21:23:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-chiclets-2-pastillas-assorted-100ct-mexico"/>
+    <title>Adams Chiclets 2 Pastillas Assorted 100ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsChiclet_s2PastillasAssorted.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757257519189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757229862997</id>
+    <published>2020-09-01T20:57:21-07:00</published>
+    <updated>2020-09-01T20:57:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-colores-12ct-mexico"/>
+    <title>Halls Colors 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsColores.jpg?v=1599019164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757229862997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757227765845</id>
+    <published>2020-09-01T20:55:46-07:00</published>
+    <updated>2020-09-01T20:55:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-miel-limon-honey-lemon-12ct-mexico"/>
+    <title>Halls Miel Limon Honey Lemon 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsMielLimon.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757227765845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757221277781</id>
+    <published>2020-09-01T20:50:05-07:00</published>
+    <updated>2020-09-01T20:50:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-mora-12ct-mexico"/>
+    <title>Halls Mora Blueberry 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsMora.jpg?v=1599018635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757221277781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757219049557</id>
+    <published>2020-09-01T20:47:30-07:00</published>
+    <updated>2020-09-01T20:47:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-yerbabuena-12ct-mexico"/>
+    <title>Halls Yerbabuena Spearmint 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsYerbabuena.jpg?v=1599018523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757219049557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757216755797</id>
+    <published>2020-09-01T20:44:49-07:00</published>
+    <updated>2020-09-01T20:44:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-cherry-12ct-mexico"/>
+    <title>Halls Cherry 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsCherry.jpg?v=1599018402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757216755797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757213773909</id>
+    <published>2020-09-01T20:39:54-07:00</published>
+    <updated>2020-09-01T20:39:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-halls-menta-12ct-mexico"/>
+    <title>Halls Menta 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsMenta.jpg?v=1599018257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757213773909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757213675605</id>
+    <published>2020-09-01T20:39:31-07:00</published>
+    <updated>2020-09-01T20:39:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-extra-strong-12ct-mexico"/>
+    <title>Halls Extra Strong 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsExtraStrong.jpg?v=1599017971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757213675605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757207613525</id>
+    <published>2020-09-01T20:23:59-07:00</published>
+    <updated>2020-09-01T20:23:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bubbaloo-menta-50ct-mexico"/>
+    <title>Bubbaloo Menta 50ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BubbalooMenta.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubbaloo</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757207613525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4549854855253</id>
+    <published>2020-03-01T13:11:28-08:00</published>
+    <updated>2020-03-01T13:11:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bubbaloo-tutti-frutti-50ct-mexico"/>
+    <title>Bubbaloo Tutti Frutti 50ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Bubbaloo_Tutti_Frutti.jpg?v=1583175040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubbaloo</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4549854855253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

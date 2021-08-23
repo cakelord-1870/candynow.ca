@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/big-league-chew.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-03-11T20:10:29-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6549987393621</id>
+    <published>2021-03-11T20:10:29-08:00</published>
+    <updated>2021-03-11T20:10:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-55ct-minis-to-go-cup-3-7oz-6ct"/>
+    <title>Big League Chew 55ct To Go Cup 3.7oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/66179.png?v=1615522522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6549987393621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4667650703445</id>
+    <published>2020-05-27T15:07:08-07:00</published>
+    <updated>2020-05-27T15:07:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-girl-strawberry-2-12oz-12ct"/>
+    <title>Big League Chew Girl Strawberry 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BigLeagueChewGirlStrawberry2.12oz.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4667650703445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820856221769</id>
+    <published>2018-11-07T10:49:34-08:00</published>
+    <updated>2018-11-07T10:49:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-watermelon-2-12oz-12ct"/>
+    <title>Big League Chew Watermelon 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Big_League_Chew_Watermelon_2.12oz.jpg?v=1544682138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820856221769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820856090697</id>
+    <published>2018-11-07T10:49:33-08:00</published>
+    <updated>2018-11-07T10:49:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-original-2-12oz-12ct"/>
+    <title>Big League Chew Original 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Big_League_Chew_Original_2.12oz.jpg?v=1544682133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820856090697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820855795785</id>
+    <published>2018-11-07T10:49:31-08:00</published>
+    <updated>2018-11-07T10:49:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-curveball-cotton-candy-2-12oz-12ct"/>
+    <title>Big League Chew Curveball Cotton Candy 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Big_League_Chew_Curveball_Cotton_Candy_2.12oz.jpg?v=1544144812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820855795785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820855566409</id>
+    <published>2018-11-07T10:49:29-08:00</published>
+    <updated>2018-11-07T10:49:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-blue-raspberry-2-12oz-12ct"/>
+    <title>Big League Chew Blue Raspberry  2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Big_League_Chew_Blue_Raspberry_2.12oz.jpg?v=1544144795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820855566409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820855533641</id>
+    <published>2018-11-07T10:49:29-08:00</published>
+    <updated>2018-11-07T10:49:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-sour-apple-2-12oz-12ct"/>
+    <title>Big League Chew Sour Apple 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Big_League_Chew_Sour_Apple_2.12oz.jpg?v=1544144791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820855533641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820855402569</id>
+    <published>2018-11-07T10:49:28-08:00</published>
+    <updated>2018-11-07T10:49:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-grape-2-12oz-12ct"/>
+    <title>Big League Chew Grape 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Big_League_Chew_Grape_2.12oz_f823a740-339b-4312-8d60-8ecae45f8150.jpg?v=1544144780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820855402569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

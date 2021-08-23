@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/lemonhead.atom"/>
+  <title>candynow.ca</title>
+  <updated>2019-01-24T16:09:44-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2032015376457</id>
+    <published>2019-01-24T16:09:44-08:00</published>
+    <updated>2019-01-24T16:09:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-chewy-theater-box-berry-5oz-12ct"/>
+    <title>Lemonhead Chewy Theater Box Berry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Chewy_Theater_Box_Berry.jpg?v=1579546486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015376457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862414921</id>
+    <published>2018-11-07T10:50:24-08:00</published>
+    <updated>2018-11-07T10:50:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-chewy-theater-box-asstd-flavors-5oz-12ct"/>
+    <title>Lemonhead Chewy Theater Box Asstd Flavors 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Chewy_Theater_Box_Asstd_Flavors.jpg?v=1542484510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862414921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820859039817</id>
+    <published>2018-11-07T10:49:59-08:00</published>
+    <updated>2018-11-07T10:49:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-theater-box-original-5oz-12ct"/>
+    <title>Lemonhead Theater Box Original 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Theater_Box_Original.jpg?v=1542484511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820859039817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

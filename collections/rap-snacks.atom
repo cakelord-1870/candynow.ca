@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/rap-snacks.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:50:44-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592829980757</id>
+    <published>2021-08-11T14:50:44-07:00</published>
+    <updated>2021-08-11T14:50:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-icon-ramen-noodles-louisana-hot-spicy-2-25oz-12ct"/>
+    <title>Rap Snacks ICON Ramen Noodles Cup Louisana Hot &amp; Spicy Chicken 2.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/717130.png?v=1627079130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>noodles</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592829980757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592829947989</id>
+    <published>2021-08-11T14:50:44-07:00</published>
+    <updated>2021-08-11T14:50:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-icon-ramen-noodles-beef-prime-rib-2-25oz-12ct"/>
+    <title>Rap Snacks ICON Ramen Noodles Cup Beef Prime Rib 2.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/00028.png?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>noodles</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592829947989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592829685845</id>
+    <published>2021-08-11T14:50:44-07:00</published>
+    <updated>2021-08-11T14:50:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-icon-ramen-noodles-creamy-chicken-gumbo-2-25oz-12ct"/>
+    <title>Rap Snacks ICON Ramen Noodles Cup Creamy Chicken Gumbo 2.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/00029.png?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>noodles</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592829685845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609937301589</id>
+    <published>2021-08-04T23:21:00-07:00</published>
+    <updated>2021-08-04T23:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-migos-bbq-ranch-potato-chips-2-50oz-24ct"/>
+    <title>Rap Snacks Migos  BBQ &amp; Ranch Potato Chips 2.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RapSnacksMigosBBQ_RanchPotatoChips.jpg?v=1628144455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609937301589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609937006677</id>
+    <published>2021-08-04T23:17:58-07:00</published>
+    <updated>2021-08-04T23:17:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-cardi-b-cheddar-bbq-potato-chips-2-50oz-24ct"/>
+    <title>Rap Snacks Cardi B Cheddar BBQ Potato Chips 2.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RapSnackCheddarBB.jpg?v=1628144236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609937006677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592831881301</id>
+    <published>2021-06-19T20:59:04-07:00</published>
+    <updated>2021-06-19T20:59:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-lil-boosies-jerk-bbq-wavy-potato-chips-2-75oz-24ct"/>
+    <title>Rap Snacks Lil Boosie&apos;s Louisiana Heat Wavy Potato Chips 2.75oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/26833.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592831881301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592831815765</id>
+    <published>2021-06-19T20:59:03-07:00</published>
+    <updated>2021-06-19T20:59:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-cardi-b-jerk-bbq-wavy-potato-chips-2-75oz-24ct"/>
+    <title>Rap Snacks Cardi B Jerk BBQ Wavy Potato Chips 2.75oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JerkBBQ.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592831815765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592831684693</id>
+    <published>2021-06-19T20:59:03-07:00</published>
+    <updated>2021-06-19T20:59:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-romeo-honey-bbq-potato-chips-2-50oz-24ct"/>
+    <title>Rap Snacks Romeo Honey BBQ Potato Chips 2.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RapSnacks2.5ozHoneyBBQ.jpg?v=1627079131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592831684693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592831455317</id>
+    <published>2021-06-19T20:59:03-07:00</published>
+    <updated>2021-06-19T20:59:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-migos-sour-cream-with-ranch-potato-chips-2-50oz-24ct"/>
+    <title>Rap Snacks Migos Sour Cream with Ranch Potato Chips 2.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/26836.png?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592831455317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592831324245</id>
+    <published>2021-06-19T20:59:02-07:00</published>
+    <updated>2021-06-19T20:59:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-notorious-big-cookout-bbq-sauce-potato-chips-2-75oz-24ct"/>
+    <title>Rap Snacks Notorious Big Cookout BBQ Sauce Potato Chips 2.75oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RapSnacksNotoriousBigCookoutBBQ.jpg?v=1624160888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592831324245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592831193173</id>
+    <published>2021-06-19T20:59:02-07:00</published>
+    <updated>2021-06-19T20:59:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-notorious-big-honey-jalapeno-potato-chips-2-50oz-24ct"/>
+    <title>Rap Snacks Notorious Big Honey Jalapeno Potato Chips 2.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/26824.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592831193173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592830799957</id>
+    <published>2021-06-19T20:59:02-07:00</published>
+    <updated>2021-06-19T20:59:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rap-snacks-maple-bbq-slutty-vegan-1-88oz-30ct"/>
+    <title>Rap Snacks Slutty Vegan Maple BBQ Kettle Chips 1.88oz 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1.88oz.jpg?v=1627079131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chips</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>rap snacks</s:tag>
+    <s:tag>salty</s:tag>
+    <s:tag>savory</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592830799957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/lifesavers.atom"/>
+  <title>candynow.ca</title>
+  <updated>2019-05-07T21:53:36-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2170064240713</id>
+    <published>2019-05-07T21:53:36-07:00</published>
+    <updated>2019-05-07T21:53:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lifesavers-peg-bag-mints-sugar-free-wintogreen-2-75oz-12ct"/>
+    <title>Lifesavers Peg Bag Mints Sugar Free Wintogreen 2.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lifesavers_Peg_Bag_Mints_Sugar_Free_Wintogreen.jpg?v=1583780272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>lifesavers</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wintergreen</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170064240713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010068041</id>
+    <published>2019-01-24T16:08:46-08:00</published>
+    <updated>2019-01-24T16:08:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lifesavers-roll-14-piece-mints-wintogreen-84oz-20ct"/>
+    <title>Lifesavers Roll 14pc Mints Wintogreen .84oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lifesavers_Roll_14pc_Mints_Wintogreen.jpg?v=1579546495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lifesavers</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010068041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010035273</id>
+    <published>2019-01-24T16:08:46-08:00</published>
+    <updated>2019-01-24T16:08:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lifesavers-roll-14-piece-mints-pepomint-84oz-20ct"/>
+    <title>Lifesavers Roll 14pc Mints Pepomint .84oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lifesavers_Roll_14pc_Mints_Pepomint.jpg?v=1579546494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lifesavers</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010035273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009969737</id>
+    <published>2019-01-24T16:08:45-08:00</published>
+    <updated>2019-01-24T16:08:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lifesavers-roll-14-piece-hard-butterrum-1-14oz-20ct"/>
+    <title>Lifesavers Roll 14pc Hard Butter Rum 1.14oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lifesavers_Roll_14pc_Hard_Butter_Rum_1.14oz.jpg?v=1579546493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butter</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lifesavers</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>rum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009969737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009936969</id>
+    <published>2019-01-24T16:08:45-08:00</published>
+    <updated>2019-01-24T16:08:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lifesavers-roll-14-piece-hard-5-flavor-1-14oz-20ct"/>
+    <title>Lifesavers Roll 14pc Hard 5 Flavor 1.14oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lifesavers_Roll_14pc_Hard_5_Flavor_1.14oz.jpg?v=1579546493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fruit</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lifesavers</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009936969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2137993707593</id>
+    <published>2019-01-24T16:08:44-08:00</published>
+    <updated>2019-01-24T16:08:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lifesavers-peg-bag-mints-sugar-free-5-peppomint-2-75oz-12ct"/>
+    <title>Lifesavers Peg Bag Mints Sugar Free Pepomint 2.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lifesavers_Peg_Bag_Mints_Sugar_Free_Peppomint.jpg?v=1583780271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lifesavers</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2137993707593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

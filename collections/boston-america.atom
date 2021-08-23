@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/boston-america.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T19:41:37-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6612655734869</id>
+    <published>2021-08-11T19:41:37-07:00</published>
+    <updated>2021-08-11T19:41:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-friday-the-13th-jason-mask-12ct"/>
+    <title>Boston America Friday The 13th Jason Mask 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17611.jpg?v=1628734693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612655734869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612653998165</id>
+    <published>2021-08-11T19:41:37-07:00</published>
+    <updated>2021-08-11T19:41:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-it-pennywise-12ct"/>
+    <title>Boston America IT Pennywise 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17610.jpg?v=1628734605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612653998165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612650754133</id>
+    <published>2021-08-11T19:41:37-07:00</published>
+    <updated>2021-08-11T19:41:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-avatar-sours-candy-12ct"/>
+    <title>Boston America Avatar Sours Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17597.jpg?v=1628734476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612650754133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612647936085</id>
+    <published>2021-08-11T19:41:36-07:00</published>
+    <updated>2021-08-11T19:41:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jaws-amity-island-sours-12ct"/>
+    <title>Boston America Jaws Amity Island Sours 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AmityIslandSours.jpg?v=1628734296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612647936085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6568619606101</id>
+    <published>2021-04-14T21:07:57-07:00</published>
+    <updated>2021-04-14T21:07:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-bob-ross-diy-gummy-kit-1ct"/>
+    <title>Boston America Bob Ross DIY Gummy Kit 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaBobRossDIYGummyKit.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6568619606101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6568613150805</id>
+    <published>2021-04-14T21:01:08-07:00</published>
+    <updated>2021-04-14T21:01:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-office-dundee-award-candy-9ct"/>
+    <title>Boston America The Office Dundee Award Candy 9ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BOSTONAMERICATHEOFFICEDUNDEEAWARD.jpg?v=1620859596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6568613150805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840507867221</id>
+    <published>2021-02-08T15:50:38-08:00</published>
+    <updated>2021-02-08T15:50:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-office-gummy-stapler-6ct"/>
+    <title>Boston America The Office  Stapler Gummy 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTheOfficeGummyStapler.jpg?v=1612925947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840507867221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792075485269</id>
+    <published>2020-10-19T11:42:46-07:00</published>
+    <updated>2020-10-19T11:42:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-tokidoki-unicorno-magical-candy-12ct"/>
+    <title>Boston America Tokidoki Unicorno Magical Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTokidokiUnicorno.jpg?v=1603132896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792075485269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792074272853</id>
+    <published>2020-10-19T11:42:37-07:00</published>
+    <updated>2020-10-19T11:42:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-golden-girls-mints-18ct"/>
+    <title>Boston America The Golden Girls Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTheGoldenGirlsMints.jpg?v=1603132739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792074272853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792073519189</id>
+    <published>2020-10-19T11:37:23-07:00</published>
+    <updated>2020-10-19T11:37:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-office-shrute-farms-mints-18ct"/>
+    <title>Boston America The Office Shrute Farms Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTheOfficeShruteFarmsMints.jpg?v=1603247838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792073519189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792072831061</id>
+    <published>2020-10-19T11:35:14-07:00</published>
+    <updated>2020-10-19T11:35:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-boston-jaws-quints-mints-18ct"/>
+    <title>Boston America Jaws Quint&apos;s Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaJawsQuint_sMints.jpg?v=1603132505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792072831061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1933437173833</id>
+    <published>2020-09-07T12:28:09-07:00</published>
+    <updated>2020-09-07T12:28:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-hello-kitty-sours-18ct"/>
+    <title>Boston America Hello Kitty sours 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Hello_Kitty_sours.jpg?v=1555352903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>hello kitty</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1933437173833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4754373050453</id>
+    <published>2020-08-27T12:31:38-07:00</published>
+    <updated>2020-08-27T12:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-halloween-ii-slasher-sour-candy-12ct"/>
+    <title>Boston America Halloween II Slasher Sour Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaHalloweenIISlasherSour.jpg?v=1598556864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4754373050453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4754365415509</id>
+    <published>2020-08-27T12:19:09-07:00</published>
+    <updated>2020-08-27T12:19:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-dungeons-dragons-candy-12ct"/>
+    <title>Boston America Dungeons &amp; Dragons Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaDungeons_Dragons.jpg?v=1598556123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4754365415509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505775341653</id>
+    <published>2020-08-06T17:37:28-07:00</published>
+    <updated>2020-08-06T17:37:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-teenage-mutant-ninja-turtles-16ct"/>
+    <title>Boston America Teenage Mutant Ninja Turtles 16ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Teenage_Mutant_Ninja_Turtles_16ct.jpg?v=1580149332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505775341653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4723070337109</id>
+    <published>2020-07-06T13:09:43-07:00</published>
+    <updated>2020-07-06T13:09:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-nintendo-mario-kart-mistery-18ct"/>
+    <title>Boston America Nintendo Mario Kart Mistery 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17565.jpg?v=1596760151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4723070337109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4723068993621</id>
+    <published>2020-07-06T13:04:50-07:00</published>
+    <updated>2020-07-06T13:04:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-dragon-ball-z-senzu-beans-candy-12ct"/>
+    <title>Boston America Dragon Ball Z Senzu Beans Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17568.jpg?v=1596760151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nintendo</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4723068993621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4554866655317</id>
+    <published>2020-03-05T12:44:39-08:00</published>
+    <updated>2020-03-05T12:44:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-game-boy-candy-12ct"/>
+    <title>Boston America Game Boy Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Game_Boy.jpg?v=1588668873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nintendo</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4554866655317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535234592853</id>
+    <published>2020-02-18T17:29:29-08:00</published>
+    <updated>2020-02-18T17:29:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-hello-kitty-mermaid-candy-12ct"/>
+    <title>Boston America Hello Kitty Mermaid Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Hello_Kitty_mermaid.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hello kitty</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535234592853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535230562389</id>
+    <published>2020-02-18T17:23:34-08:00</published>
+    <updated>2020-02-18T17:23:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-hello-kitty-burger-candy-12ct"/>
+    <title>Boston America Hello Kitty Burger Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Hello_Kitty_Burger_Candy.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hello kitty</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535230562389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1933438386249</id>
+    <published>2020-01-21T21:01:07-08:00</published>
+    <updated>2020-01-21T21:01:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-dragon-ball-candy-12ct"/>
+    <title>Boston America Dragon Ball Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Dragon_Ball_Candy.jpg?v=1555352895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>nintendo</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1933438386249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2037758132297</id>
+    <published>2020-01-18T13:59:08-08:00</published>
+    <updated>2020-01-18T13:59:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-bob-ross-happy-little-tree-mints-18ct"/>
+    <title>Boston America Bob Ross Happy Little Tree Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Bob_Ross_Happy_Little_Tree_Mints.jpg?v=1555352893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2037758132297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4262736592969</id>
+    <published>2019-10-15T13:36:20-07:00</published>
+    <updated>2019-10-15T13:36:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-bob-ross-paintbrush-dipping-candy-18ct"/>
+    <title>Boston America Bob Ross Paintbrush Dipping Candy 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Bob_Ross_Paintbrush_Dipping_Candy.jpg?v=1579544565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4262736592969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4262757924937</id>
+    <published>2019-10-15T13:28:22-07:00</published>
+    <updated>2019-10-15T13:28:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-man-eater-shark-bait-candy-12ct"/>
+    <title>Boston America Man Eater Shark Bait Candy 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_America_Man_Eater_Shark_Bait_Candy.jpg?v=1579544566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4262757924937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2222066434121</id>
+    <published>2019-08-01T12:45:45-07:00</published>
+    <updated>2019-08-01T12:45:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-my-hero-acadamia-12ct"/>
+    <title>Boston America My Hero Academia 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/boston_america_my_hero_academia.jpg?v=1572652779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2222066434121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

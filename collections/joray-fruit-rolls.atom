@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/joray-fruit-rolls.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-10-31T22:24:03-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4798711726165</id>
+    <published>2020-10-31T22:24:03-07:00</published>
+    <updated>2020-10-31T22:24:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-pineapple-fruit-rolls-48ct"/>
+    <title>Joray Pineapple Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Joraypineapple.jpg?v=1604205072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798711726165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798711595093</id>
+    <published>2020-10-31T22:24:02-07:00</published>
+    <updated>2020-10-31T22:24:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-watermelon-fruit-rolls-48ct"/>
+    <title>Joray Watermelon Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/joraywatermelon.jpg?v=1604204605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798711595093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798711431253</id>
+    <published>2020-10-31T22:24:02-07:00</published>
+    <updated>2020-10-31T22:24:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-fruit-punch-fruit-rolls-48ct"/>
+    <title>Joray Fruit Punch Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JORAYFRUITPUNCH.jpg?v=1604208211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798711431253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798711103573</id>
+    <published>2020-10-31T22:24:02-07:00</published>
+    <updated>2020-10-31T22:24:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-sour-apple-fruit-rolls-48ct"/>
+    <title>Joray Sour Apple Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/joraysourapple.jpg?v=1604204620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798711103573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798710906965</id>
+    <published>2020-10-31T22:24:02-07:00</published>
+    <updated>2020-10-31T22:24:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-grape-fruit-rolls-48ct"/>
+    <title>Joray Grape Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JORAYGRAPE.jpg?v=1604207831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798710906965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798710644821</id>
+    <published>2020-10-31T22:24:01-07:00</published>
+    <updated>2020-10-31T22:24:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-cherry-fruit-rolls-48ct"/>
+    <title>Joray Cherry Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JORAYCHERRY.jpg?v=1604207815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798710644821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798709170261</id>
+    <published>2020-10-31T22:24:01-07:00</published>
+    <updated>2020-10-31T22:24:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-raspberry-fruit-rolls-48ct"/>
+    <title>Joray Raspberry Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/jorayraspberry.jpg?v=1604204563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798709170261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798708940885</id>
+    <published>2020-10-31T22:24:01-07:00</published>
+    <updated>2020-10-31T22:24:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-strawberry-fruit-rolls-48ct"/>
+    <title>Joray Strawberry Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JORAYSTRAWBERRY.jpg?v=1604207846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Exclusively Distributed in Canada by candy<em>now</em>.ca</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798708940885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4798358323285</id>
+    <published>2020-10-31T22:24:01-07:00</published>
+    <updated>2020-10-31T22:24:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/joray-apricot-fruit-rolls-48ct"/>
+    <title>Joray Apricot Fruit Rolls 48ct (candynow.ca exclusive)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/jorayapricot.jpg?v=1604206872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #ff2a00;">Exclusively Distributed in Canada by candy<em>now</em>.ca</span></strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>The “original” fruit roll since 1953</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Handmade daily from real dried fruit</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Each individual fruit roll is .75 oz.</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Only 70 calories per fruit roll</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Fat free</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1">
+<strong>Real cane sugar used – no sugar substitutes or artificial sweeteners</strong><br data-mce-fragment="1"><strong> </strong>
+</li>
+<li data-mce-fragment="1"><strong>No high fructose corn syrup</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in USA - Brooklyn Made Certified</strong></li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Kosher certified</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>joray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4798358323285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

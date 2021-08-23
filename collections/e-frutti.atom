@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/e-frutti.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-30T20:29:03-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6596453990485</id>
+    <published>2021-06-30T20:29:03-07:00</published>
+    <updated>2021-06-30T20:29:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-cheesecake-81oz-30ct"/>
+    <title>E-Frutti Gummi Cheesecake .81oz 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/5061.jpg?v=1625024406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596453990485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6573077758037</id>
+    <published>2021-04-27T16:28:21-07:00</published>
+    <updated>2021-04-27T16:28:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-bakery-shoppe-bag-2-7oz-12ct"/>
+    <title>E-Frutti Gummi Bakery Shoppe Bag 2.7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/55101.jpg?v=1619565907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6573077758037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793401409621</id>
+    <published>2020-10-21T17:56:37-07:00</published>
+    <updated>2020-10-21T17:56:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-e-frutti-gummi-mini-burgers-wrapped-101pc-bulk-2lb-8ct"/>
+    <title>E-frutti Gummi Mini Burgers Wrapped (101pc) Bulk 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/363310.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793401409621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793399672917</id>
+    <published>2020-10-21T17:55:00-07:00</published>
+    <updated>2020-10-21T17:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/efrutti-gummi-hot-dogs-wrapped-101pc-bulk-2lb-8ct"/>
+    <title>E-frutti Gummi Hot Dogs Wrapped (101pc) Bulk 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/efruttiGummiHotDogsIndWrapped.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793399672917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728490328149</id>
+    <published>2020-07-14T20:34:31-07:00</published>
+    <updated>2020-07-14T20:34:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-donuts-share-bags-1-40oz-12ct"/>
+    <title>E-frutti Gummi Donuts Share Bags 1.40oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-fruttiGummiDonutsShareBags.jpg?v=1594784180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728490328149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728487575637</id>
+    <published>2020-07-14T20:30:00-07:00</published>
+    <updated>2020-07-14T20:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-unicorns-share-bags-1-40oz-12ct"/>
+    <title>E-frutti Gummi Unicorns Share Bags 1.40oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-fruttiGummiUnicornsShareBags.jpg?v=1594783965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728487575637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4410511392853</id>
+    <published>2019-11-29T09:44:36-08:00</published>
+    <updated>2019-11-29T09:44:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-sour-lunch-bag-2-7oz-12ct"/>
+    <title>E-Frutti Gummi Sour Lunch Bag 2.7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_Sour_Lunch.jpg?v=1579546774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4410511392853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101146804297</id>
+    <published>2019-09-19T15:18:05-07:00</published>
+    <updated>2019-09-19T15:18:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/efrutti-gummi-sea-critters-32oz-60ct"/>
+    <title>Efrutti Gummi Sea Creatures .32oz 60ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Efrutti_Gummi_Sea_Critters.jpg?v=1569264639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>critters</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101146804297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170210123849</id>
+    <published>2019-05-08T01:22:11-07:00</published>
+    <updated>2019-05-08T01:22:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-classic-bag-gummi-mini-burger-7pc-2-2oz-12ct"/>
+    <title>E-Frutti Classic Bag Gummi Mini Burger 7pc  2.2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Classic_Bag_Gummi_Mini_Burger_7pc.jpg?v=1557772369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burger</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170210123849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170192429129</id>
+    <published>2019-05-08T01:09:24-07:00</published>
+    <updated>2019-05-08T01:09:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-mexican-dinner-shelf-tray-2-70z-12ct"/>
+    <title>E-Frutti Gummi Mexican Dinner Shelf Tray 2.70z 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_Mexican_Dinner.jpg?v=1557772369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170192429129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170166575177</id>
+    <published>2019-05-08T00:39:38-07:00</published>
+    <updated>2019-05-08T00:39:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummiverse-shelf-tray-2-7oz-12ct"/>
+    <title>E-Frutti Gummiverse Shelf Tray 2.7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_verse.jpg?v=1557772371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>efrutti</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170166575177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014884937</id>
+    <published>2019-01-24T16:09:39-08:00</published>
+    <updated>2019-01-24T16:09:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-hanging-bags-gummi-movie-tray-pack-2-7oz-12ct"/>
+    <title>E-Frutti Hanging Bags Gummi Movie Pack 2.7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Hanging_Bags_Gummi_Movie_Pack.jpg?v=1555354803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014884937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014000201</id>
+    <published>2019-01-24T16:09:29-08:00</published>
+    <updated>2019-01-24T16:09:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-cupcakes-28oz-60ct"/>
+    <title>E-Frutti Gummi Cupcakes .28oz 60ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_Cupcakes.jpg?v=1555354802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cup cake</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014000201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863889481</id>
+    <published>2018-11-07T10:50:37-08:00</published>
+    <updated>2018-11-07T10:50:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-mini-gummi-burgers-32oz-60ct"/>
+    <title>E-Frutti Mini Gummi Burgers .32oz 60ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Mini_Gummi_Burgers.jpg?v=1542484452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burger</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863889481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863856713</id>
+    <published>2018-11-07T10:50:36-08:00</published>
+    <updated>2018-11-07T10:50:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-mini-gummi-sour-burger-32oz-60ct"/>
+    <title>E-Frutti Mini Gummi Sour Burger  .32oz 60ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Mini_Gummi_Sour_Burger.jpg?v=1544682620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burger</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863856713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.68</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863823945</id>
+    <published>2018-11-07T10:50:36-08:00</published>
+    <updated>2018-11-07T10:50:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-hot-dogs-32oz-60ct"/>
+    <title>E-Frutti Gummi Hot Dogs .32oz 60ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_Hot_Dogs.jpg?v=1542484451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hotdogs</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863823945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.68</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863791177</id>
+    <published>2018-11-07T10:50:36-08:00</published>
+    <updated>2018-11-07T10:50:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-pizza-55oz-48ct"/>
+    <title>E-Frutti Gummi Pizza .55oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_Pizza.jpg?v=1544682615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>pizza</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863791177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863725641</id>
+    <published>2018-11-07T10:50:35-08:00</published>
+    <updated>2018-11-07T10:50:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/e-frutti-gummi-lunch-shelf-tray-2-7oz-12ct"/>
+    <title>E-Frutti Gummi Lunch Bag 2.7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/E-Frutti_Gummi_Lunch_Shelf_Tray.jpg?v=1544682610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>efrutti</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863725641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/milka.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T21:28:35-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4770097659989</id>
+    <published>2021-06-19T21:28:35-07:00</published>
+    <updated>2021-06-19T21:28:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-white-100g-22ct-europe"/>
+    <title>Milka White 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaWhite100g.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770097659989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588683157589</id>
+    <published>2021-06-08T21:25:38-07:00</published>
+    <updated>2021-06-08T21:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-triple-cocoa-90g-20ct-europe"/>
+    <title>Milka Triple Cocoa 90g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cocoa.jpg?v=1623212718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588683157589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588682567765</id>
+    <published>2021-06-08T21:23:56-07:00</published>
+    <updated>2021-06-08T21:23:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-cream-biscuit-100g-18ct-europe"/>
+    <title>Milka Cream &amp; Biscuit 100g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cream.jpg?v=1623212605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588682567765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588681945173</id>
+    <published>2021-06-08T21:21:20-07:00</published>
+    <updated>2021-06-08T21:21:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-cow-spot-milk-white-100g-23ct-europe"/>
+    <title>Milka Cow Spot Milk &amp; White 100g 23ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CowSpot.jpg?v=1623212431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588681945173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6541026099285</id>
+    <published>2021-03-01T19:38:20-08:00</published>
+    <updated>2021-03-01T19:38:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-choco-wafer-30g-30ct-europe"/>
+    <title>Milka Choco Wafer 30g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/14264.jpg?v=1614656280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brownie</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6541026099285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6541023477845</id>
+    <published>2021-03-01T19:33:30-08:00</published>
+    <updated>2021-03-01T19:33:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-oreo-brownie-100g-22ct-europe"/>
+    <title>Milka Oreo Brownie 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22402.jpg?v=1614656002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brownie</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6541023477845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840825225301</id>
+    <published>2021-02-09T17:38:44-08:00</published>
+    <updated>2021-02-09T17:38:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-oreo-white-100g-22ct-europe"/>
+    <title>Milka Oreo White 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaOreoWhite100g.jpg?v=1612921116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840825225301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840824635477</id>
+    <published>2021-02-09T17:33:31-08:00</published>
+    <updated>2021-02-09T17:33:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-milkinis-87-5g-20ct-europe"/>
+    <title>Milka Milkinis 87.5g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/4694.jpg?v=1612925947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840824635477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.54</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840819949653</id>
+    <published>2021-02-09T17:27:16-08:00</published>
+    <updated>2021-02-09T17:27:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-bubbly-white-95g-15ct-europe"/>
+    <title>Milka Bubbly White 95g 15ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaBubblyWhite95g.jpg?v=1612920382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840819949653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4804640473173</id>
+    <published>2020-11-09T17:02:03-08:00</published>
+    <updated>2020-11-09T17:02:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-strawberry-100g-22ct-europe"/>
+    <title>Milka Strawberry 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5016.jpg?v=1604968257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4804640473173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4804639391829</id>
+    <published>2020-11-09T17:02:02-08:00</published>
+    <updated>2020-11-09T17:02:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-hazelnut-100g-22ct-europe"/>
+    <title>Milka Hazelnut 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5011.png?v=1604976159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4804639391829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4804635066453</id>
+    <published>2020-11-09T17:02:02-08:00</published>
+    <updated>2020-11-09T17:02:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-caramel100g-13ct-europe"/>
+    <title>Milka Caramel 100g 23ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5004.png?v=1604976159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4804635066453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4804633034837</id>
+    <published>2020-11-09T17:02:02-08:00</published>
+    <updated>2020-11-09T17:02:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-alpine-milk-100g-24ct-europe"/>
+    <title>Milka Alpine Milk Tablet 100g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5000.png?v=1604976159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4804633034837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770112077909</id>
+    <published>2020-09-18T12:45:37-07:00</published>
+    <updated>2020-09-18T12:45:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-triple-caramel-90g-20ct-europe"/>
+    <title>Milka Triple Caramel 90g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5025.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770112077909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770111324245</id>
+    <published>2020-09-18T12:41:55-07:00</published>
+    <updated>2020-09-18T12:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-oreo-sandwich-92g-15ct-europe"/>
+    <title>Milka Oreo Sandwich 92g 15ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5022.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770111324245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770110406741</id>
+    <published>2020-09-18T12:40:10-07:00</published>
+    <updated>2020-09-18T12:40:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-confetti-100g-22ct-europe"/>
+    <title>Milka Confetti 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaConfetti100g.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770110406741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770108080213</id>
+    <published>2020-09-18T12:38:29-07:00</published>
+    <updated>2020-09-18T12:38:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-oreo-100g-22ct-europe"/>
+    <title>Milka Oreo 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/oreo.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770108080213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770105393237</id>
+    <published>2020-09-18T12:36:35-07:00</published>
+    <updated>2020-09-18T12:36:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-lu-87g-18ct-europe"/>
+    <title>Milka LU 87g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaLU87g.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770105393237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770103492693</id>
+    <published>2020-09-18T12:35:10-07:00</published>
+    <updated>2020-09-18T12:35:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-daim-100g-22ct-europe"/>
+    <title>Milka Daim 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaDaim100g.png?v=1600458746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>daim</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770103492693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770100772949</id>
+    <published>2020-09-18T12:33:21-07:00</published>
+    <updated>2020-09-18T12:33:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-chips-ahoy-100g-22ct-europe"/>
+    <title>Milka Cookies 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/milkacookies.jpg?v=1605213103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chip ahoy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770100772949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770098118741</id>
+    <published>2020-09-18T12:30:26-07:00</published>
+    <updated>2020-09-18T12:30:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-bubbly-100g-13ct-europe"/>
+    <title>Milka Bubbly 90g 14ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZX5003.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770098118741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

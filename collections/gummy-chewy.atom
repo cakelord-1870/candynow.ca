@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/gummy-chewy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-12T21:02:16-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6613748940885</id>
+    <published>2021-08-12T21:02:16-07:00</published>
+    <updated>2021-08-12T21:02:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pikatchu-daisuki-gummy-candy-28g-24ct-japan"/>
+    <title>Pokemon Pikatchu Daisuki! Gummy Candy 28g 16ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/pikatshu.jpg?v=1628826480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lotte</s:tag>
+    <s:tag>pokemon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6613748940885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4809512714325</id>
+    <published>2021-08-11T14:54:33-07:00</published>
+    <updated>2021-08-11T14:54:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-ooze-chewz-3-5oz-12ct"/>
+    <title>Warheads Theater Box Ooze Chewz 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/21295.png?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809512714325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098047573</id>
+    <published>2021-08-01T10:13:33-07:00</published>
+    <updated>2021-08-01T10:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-rainbow-rolls-41g-20ct-europe"/>
+    <title>Fruittella Rainbow Rolls 41g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0239.png?v=1627837956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098047573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609097982037</id>
+    <published>2021-08-01T10:13:33-07:00</published>
+    <updated>2021-08-01T10:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-citrus-mix-rolls-41g-20ct-europe"/>
+    <title>Fruittella Citrus Mix Rolls 41g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruittellaCitrusMixRolls.png?v=1627837822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609097982037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605745487957</id>
+    <published>2021-07-19T23:36:46-07:00</published>
+    <updated>2021-07-19T23:36:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-sour-orange-78oz-24ct"/>
+    <title>Mike &amp; Ike Orange .78oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/49110.png?v=1627079163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605745487957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605742080085</id>
+    <published>2021-07-19T22:45:08-07:00</published>
+    <updated>2021-07-19T22:45:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rip-rolls-cherry-1-4oz-24ct"/>
+    <title>Rip Rolls Cherry 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ripcherry.jpg?v=1626759981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605742080085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605741981781</id>
+    <published>2021-07-19T22:45:07-07:00</published>
+    <updated>2021-07-19T22:45:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rip-rolls-blue-raspberry-1-4oz-24ct"/>
+    <title>Rip Rolls Blue Raspberry 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RipRollsBlueRaspberry.jpg?v=1626759783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605741981781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605741883477</id>
+    <published>2021-07-19T22:45:07-07:00</published>
+    <updated>2021-07-19T22:45:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rip-rolls-watermelon-1-4oz-24ct"/>
+    <title>Rip Rolls Watermelon 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/34973.jpg?v=1627079167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605741883477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605741785173</id>
+    <published>2021-07-19T22:45:07-07:00</published>
+    <updated>2021-07-19T22:45:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rip-rolls-strawberry-1-4oz-24ct"/>
+    <title>Rip Rolls Strawberry 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RipRollsStrawberry.jpg?v=1627079176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605741785173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605741686869</id>
+    <published>2021-07-19T22:45:06-07:00</published>
+    <updated>2021-07-19T22:45:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rip-rolls-green-apple-1-4oz-24ct"/>
+    <title>Rip Rolls Green Apple 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/34971.jpg?v=1627079174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605741686869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605741654101</id>
+    <published>2021-07-19T22:45:06-07:00</published>
+    <updated>2021-07-19T22:45:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rip-rolls-rainbow-reaction-1-4oz-24ct"/>
+    <title>Rip Rolls Rainbow Reaction 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/36279.png?v=1627079155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605741654101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605739655253</id>
+    <published>2021-07-19T22:15:59-07:00</published>
+    <updated>2021-07-19T22:15:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-unicorn-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Unicorn Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1020.png?v=1627079168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605739655253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605738999893</id>
+    <published>2021-07-19T22:09:47-07:00</published>
+    <updated>2021-07-19T22:09:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-mint-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Mint Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsMintToffee150g.jpg?v=1626757764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738999893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605738672213</id>
+    <published>2021-07-19T22:07:02-07:00</published>
+    <updated>2021-07-19T22:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-coffee-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Coffee Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsCoffeeToffee150g.jpg?v=1627079177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738672213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971829801033</id>
+    <published>2021-07-10T20:47:28-07:00</published>
+    <updated>2021-07-10T20:47:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cororo-muscat-gummy-candy-40g-6ct-japan"/>
+    <title>Cororo Muscat Gummy Candy 40g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cororo_muscat_Gummy_Candy_40g_6ct_Japan.jpg?v=1555354780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cororo</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>muscat</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971829801033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599860093013</id>
+    <published>2021-07-07T21:59:53-07:00</published>
+    <updated>2021-07-07T21:59:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-livewires-sour-tongue-painters-1-4kg-1ct"/>
+    <title>Koala Livewires Sour Tongue Painters 1.4kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Livewires-Tongue-Painters-Sour-Tub-web-300x300.jpg?v=1625719980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599860093013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599860060245</id>
+    <published>2021-07-07T21:59:52-07:00</published>
+    <updated>2021-07-07T21:59:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-livewires-bubble-gum-flavored-1-8kg-1ct"/>
+    <title>Koala Livewires Bubble Gum Flavored 1.2kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LW_Tub-BubbleGum-300x300.jpg?v=1625719843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599860060245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599859961941</id>
+    <published>2021-07-07T21:59:52-07:00</published>
+    <updated>2021-07-07T21:59:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-livewire-orange-1-8kg-1ct"/>
+    <title>Koala Livewires Orange Cream 1.2kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LW_Tub-Orange-300x300.jpg?v=1625719716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599859961941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599859863637</id>
+    <published>2021-07-07T21:59:52-07:00</published>
+    <updated>2021-07-07T21:59:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-jumbo-gummy-cola-bottles-1kg-1ct"/>
+    <title>Koala Jumbo Gummy Cola Bottles 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/koala-bulk_JumboBottle-O-Pop_Cola-300x300.jpg?v=1625719558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599859863637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599859634261</id>
+    <published>2021-07-07T21:59:51-07:00</published>
+    <updated>2021-07-07T21:59:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-jumbo-gummy-sour-cherry-cola-1kg-1ct"/>
+    <title>Koala Jumbo Gummy Sour Cherry Cola 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/koala-bulk_JumboSrCherryCola-300x300.jpg?v=1625719443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599859634261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599859503189</id>
+    <published>2021-07-07T21:59:51-07:00</published>
+    <updated>2021-07-07T21:59:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-jumbo-sour-bubble-gummy-1kg-1ct"/>
+    <title>Koala Jumbo Sour Bubble Gummy 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/koala-bulk_JumboBubbleGummy-300x300.jpg?v=1625719328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599859503189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599859273813</id>
+    <published>2021-07-07T21:59:51-07:00</published>
+    <updated>2021-07-07T21:59:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-assorted-gummy-sours-1kg-1ct"/>
+    <title>Koala Assorted Gummy Sours 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RedBand_AsrtdSours-bulk-300x300.jpg?v=1625719198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599859273813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599859208277</id>
+    <published>2021-07-07T21:59:50-07:00</published>
+    <updated>2021-07-07T21:59:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-gummy-sour-watermelon-slices-1kg-1ct"/>
+    <title>Koala Gummy Sour Watermelon Slices 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koala_Watermelon_bulk-300x300.jpg?v=1625719103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599859208277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599858782293</id>
+    <published>2021-07-07T21:59:50-07:00</published>
+    <updated>2021-07-07T21:59:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-gummy-sour-cherry-cola-1kg-1ct"/>
+    <title>Koala Gummy Sour Cherry Cola 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/koala-bulk_SourCherryCola-300x300.jpg?v=1625719009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599858782293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6599858651221</id>
+    <published>2021-07-07T21:59:50-07:00</published>
+    <updated>2021-07-07T21:59:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/koala-gummy-cream-soda-float-1kg-1ct"/>
+    <title>Koala Gummy Cream Soda Float 1kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/koala-bulk_CreamSodaFloat-300x300.jpg?v=1625718864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>koala</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>tosuta</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6599858651221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

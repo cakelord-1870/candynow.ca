@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/lion-japan.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-29T13:34:49-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6585313984597</id>
+    <published>2021-05-29T13:34:49-07:00</published>
+    <updated>2021-05-29T13:34:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-sour-candy-9g-30ct-japan"/>
+    <title>Orion Mini Sour Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/OrionMiniSourCandy9g.jpg?v=1622320467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313984597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313591381</id>
+    <published>2021-05-29T13:30:57-07:00</published>
+    <updated>2021-05-29T13:30:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-grape-candy-9g-30ct-japan"/>
+    <title>Orion Mini Grape Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/grape.png?v=1622320246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313591381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313394773</id>
+    <published>2021-05-29T13:26:21-07:00</published>
+    <updated>2021-05-29T13:26:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-peach-candy-9g-30ct-japan"/>
+    <title>Orion Mini Peach Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/peach.png?v=1622319972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313394773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313198165</id>
+    <published>2021-05-29T13:24:39-07:00</published>
+    <updated>2021-05-29T13:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-cola-candy-9g-30ct-japan"/>
+    <title>Orion Mini Cola Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/orioncola.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313198165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585312608341</id>
+    <published>2021-05-29T13:20:17-07:00</published>
+    <updated>2021-05-29T13:20:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lion-janijkaya-soda-candy-6ct-japan"/>
+    <title>Lion Janijkaya Assorted Soda Candy 152g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/lion.jpg?v=1622319525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>ramune</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585312608341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971797557321</id>
+    <published>2018-12-12T20:53:33-08:00</published>
+    <updated>2018-12-12T20:53:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lion-cola-candy-40g-10ct"/>
+    <title>Lion Cola Candy 40g 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lion_Fizzy_Cola_Candy_40g_10ct.jpg?v=1579546496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971797557321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971795656777</id>
+    <published>2018-12-12T20:45:04-08:00</published>
+    <updated>2018-12-12T20:45:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lion-ramune-fizzy-soda-candy-40g-10ct"/>
+    <title>Lion Ramune Fizzy Soda Candy 40g 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lion_Ramune_Fizzy_Soda_Candy_40g_10ct.jpg?v=1579546496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:tag>ramune</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971795656777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/japanese-candy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-12T21:02:58-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6613750317141</id>
+    <published>2021-08-12T21:02:58-07:00</published>
+    <updated>2021-08-12T21:02:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/doraemon-chocolate-cup-38g-10ct-japan"/>
+    <title>Doraemon Chocolate Cup 38g 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/doremon.gif?v=1628826726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lotte</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6613750317141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6613754380373</id>
+    <published>2021-08-12T21:02:17-07:00</published>
+    <updated>2021-08-12T21:02:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-hie-hie-pineapple-gum-20ct-japan"/>
+    <title>Marukawa Hie Hie Pineapple Gum 20ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/marukawa.jpg?v=1628827193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6613754380373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6613748940885</id>
+    <published>2021-08-12T21:02:16-07:00</published>
+    <updated>2021-08-12T21:02:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pikatchu-daisuki-gummy-candy-28g-24ct-japan"/>
+    <title>Pokemon Pikatchu Daisuki! Gummy Candy 28g 16ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/pikatshu.jpg?v=1628826480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lotte</s:tag>
+    <s:tag>pokemon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6613748940885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971829801033</id>
+    <published>2021-07-10T20:47:28-07:00</published>
+    <updated>2021-07-10T20:47:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cororo-muscat-gummy-candy-40g-6ct-japan"/>
+    <title>Cororo Muscat Gummy Candy 40g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cororo_muscat_Gummy_Candy_40g_6ct_Japan.jpg?v=1555354780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cororo</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>muscat</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971829801033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313984597</id>
+    <published>2021-05-29T13:34:49-07:00</published>
+    <updated>2021-05-29T13:34:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-sour-candy-9g-30ct-japan"/>
+    <title>Orion Mini Sour Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/OrionMiniSourCandy9g.jpg?v=1622320467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313984597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313591381</id>
+    <published>2021-05-29T13:30:57-07:00</published>
+    <updated>2021-05-29T13:30:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-grape-candy-9g-30ct-japan"/>
+    <title>Orion Mini Grape Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/grape.png?v=1622320246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313591381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313394773</id>
+    <published>2021-05-29T13:26:21-07:00</published>
+    <updated>2021-05-29T13:26:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-peach-candy-9g-30ct-japan"/>
+    <title>Orion Mini Peach Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/peach.png?v=1622319972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313394773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585313198165</id>
+    <published>2021-05-29T13:24:39-07:00</published>
+    <updated>2021-05-29T13:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/orion-mini-cola-candy-9g-30ct-japan"/>
+    <title>Orion Mini Cola Candy 9g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/orioncola.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585313198165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585312608341</id>
+    <published>2021-05-29T13:20:17-07:00</published>
+    <updated>2021-05-29T13:20:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lion-janijkaya-soda-candy-6ct-japan"/>
+    <title>Lion Janijkaya Assorted Soda Candy 152g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/lion.jpg?v=1622319525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lion</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>ramune</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585312608341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6585312444501</id>
+    <published>2021-05-29T13:13:29-07:00</published>
+    <updated>2021-05-29T13:13:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bandai-dragon-ball-super-warrior-figure-4-12ct-japan"/>
+    <title>Bandai Dragon Ball Super Warrior Figure 4 12ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/bandai.jpg?v=1622319143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            87.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>nintendo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6585312444501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2158248919113</id>
+    <published>2021-04-21T15:03:59-07:00</published>
+    <updated>2021-04-21T15:03:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kanro-pure-gummy-muscat-56g-6ct-japan"/>
+    <title>Kanro Pure Gummy Muscat 56g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kanro_Pure_Gummy_muscat_56g_6ct_Japan.jpg?v=1579546441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>muscat</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2158248919113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6568020508757</id>
+    <published>2021-04-12T23:14:50-07:00</published>
+    <updated>2021-04-12T23:14:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/tirol-white-cookie-chocolate-9-5g-30ct-japan"/>
+    <title>Tirol White &amp; Cookie Chocolate 10g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/whiteandcookietirol.jpg?v=1618460748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6568020508757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6568020312149</id>
+    <published>2021-04-12T23:13:09-07:00</published>
+    <updated>2021-04-12T23:13:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/tirol-strawberry-milk-chocolate-9-5g-30ct-japan"/>
+    <title>Tirol Strawberry Milk Chocolate 10.6g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/tirolstrawberry.jpg?v=1618294349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>japan</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6568020312149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6568020082773</id>
+    <published>2021-04-12T23:11:03-07:00</published>
+    <updated>2021-04-12T23:11:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/tirol-milk-chocolate-9-5g-30ct"/>
+    <title>Tirol Milk Chocolate 10.3g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/tirolmilk.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>japan</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6568020082773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6568020017237</id>
+    <published>2021-04-12T23:08:44-07:00</published>
+    <updated>2021-04-12T23:08:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/tirol-coffee-chocolate-9-5g-30ct"/>
+    <title>Tirol Coffee Chocolate 9.5g 30ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/tirolcoffee.jpg?v=1618460748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>japan</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6568020017237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2200005738569</id>
+    <published>2021-04-12T22:18:40-07:00</published>
+    <updated>2021-04-12T22:18:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-tanoshii-omatsuri-ya-san-holiday-candy-kit-28-5g-5ct-japan"/>
+    <title>Kracia Tanoshii Omatsuri-Ya San Holiday Candy Kit 28.5g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Untitled_now.png?v=1579546484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2200005738569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6553809911893</id>
+    <published>2021-03-17T19:32:30-07:00</published>
+    <updated>2021-03-17T19:32:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pokemon-chewing-candy-21g-20ct-japan"/>
+    <title>Pokemon Chewing Candy 21g 20ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/pokemon.jpg?v=1616033737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lotte</s:tag>
+    <s:tag>pokemon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6553809911893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6553821511765</id>
+    <published>2021-03-17T19:31:21-07:00</published>
+    <updated>2021-03-17T19:31:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fizzy-ramune-cola-20ct-japan"/>
+    <title>Hi Chew Fizzy Ramune Cola 20ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/4902888245299.png?v=1616034637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>japan</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6553821511765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836826677333</id>
+    <published>2021-01-28T21:12:38-08:00</published>
+    <updated>2021-01-28T21:12:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pocky-matcha-green-tea-2-47oz-10ct"/>
+    <title>Pocky Matcha Green Tea 2.47oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/GU15253.png?v=1612925947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>glico</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>pocky</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836826677333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4695061495893</id>
+    <published>2021-01-26T16:43:25-08:00</published>
+    <updated>2021-01-26T16:43:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cororo-strawberry-gummy-candy-40g-6ct-japan"/>
+    <title>Cororo Strawberry Gummy Candy 40g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CororoStrawberryGummyCandy.jpg?v=1591759416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cororo</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4695061495893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836109582421</id>
+    <published>2021-01-26T16:41:47-08:00</published>
+    <updated>2021-01-26T16:41:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cororo-soda-gummy-candy-40g-6ct-japan"/>
+    <title>Cororo Soda Gummy Candy 40g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CororosodaGummyCandy40g.jpg?v=1611708104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cororo</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>soda</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836109582421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836109353045</id>
+    <published>2021-01-26T16:40:25-08:00</published>
+    <updated>2021-01-26T16:40:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cororo-cola-gummy-candy-40g-6ct-japan"/>
+    <title>Cororo Cola Gummy Candy 40g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CororoColaGummyCandy40g.jpg?v=1611708011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>cororo</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836109353045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4825866895445</id>
+    <published>2020-12-24T19:18:58-08:00</published>
+    <updated>2020-12-24T19:18:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-hoshi-no-kirby-maze-maze-mix-gum-10ct-japan"/>
+    <title>Marukawa Hoshi No Kirby Maze Maze Mix Gum 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/marukawahoshi.jpg?v=1609569419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4825866895445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971757678665</id>
+    <published>2020-12-16T17:42:53-08:00</published>
+    <updated>2020-12-16T17:42:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-lemon-55-2g-12ct-japan"/>
+    <title>Hi Chew Lemon 55.2g 12ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Lemon_55.2g_12ct_Japan.jpg?v=1555354861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971757678665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4800855900245</id>
+    <published>2020-11-04T17:17:36-08:00</published>
+    <updated>2020-11-04T17:17:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-suppai-lemon-gum-10ct-japan"/>
+    <title>Marukawa Suppai Sour Lemon Gum 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MarukawaSuppaiLemonGum.png?v=1604539347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4800855900245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

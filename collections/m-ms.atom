@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/m-ms.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-06-15T18:13:35-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2032011313225</id>
+    <published>2020-06-15T18:13:35-07:00</published>
+    <updated>2020-06-15T18:13:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-crispy-1-35oz-24ct"/>
+    <title>M&amp;M&apos;s Single Bag Crispy 1.35oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_s_Crispy_1.35oz.jpg?v=1579546520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>crispy</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011313225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4702729830485</id>
+    <published>2020-06-15T18:09:38-07:00</published>
+    <updated>2020-06-15T18:09:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-crispy-king-size-2-83oz-24ct"/>
+    <title>M&amp;M&apos;s Crispy King Size 2.83oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_sCrispyKingSize.jpg?v=1592269870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4702729830485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4625806295125</id>
+    <published>2020-05-05T01:17:10-07:00</published>
+    <updated>2020-05-05T01:17:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-fudge-brownie-1-41oz-24ct"/>
+    <title>M&amp;M&apos;s Fudge Brownie 1.41oz  24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_sFudgeBrownie1.41oz.jpg?v=1589223464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fudge</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4625806295125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010920009</id>
+    <published>2019-09-28T18:04:12-07:00</published>
+    <updated>2019-09-28T18:04:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-peanut-coffee-nut-share-size-3-27-oz-24ct"/>
+    <title>M&amp;M&apos;s Peanut Coffee Nut Share Size 3.27oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_s_Peanut_Coffee_Nut_Share_Size_3.27oz.jpg?v=1579546520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>nut</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010920009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208760266825</id>
+    <published>2019-07-07T19:06:04-07:00</published>
+    <updated>2019-07-07T19:06:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-share-size-white-chocolate-2-47oz-24ct"/>
+    <title>M&amp;M Share Size White Chocolate 2.47oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Share_Size_White_Chocolate.jpg?v=1580756309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208760266825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011280457</id>
+    <published>2019-01-24T16:09:00-08:00</published>
+    <updated>2019-01-24T16:09:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-theater-box-milk-choc-3-10oz-12ct"/>
+    <title>M&amp;M Theater Box Milk Chocolate  3.10oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Theater_Box_Milk_Chocolate_3.10oz.jpg?v=1579546514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011280457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.33</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011182153</id>
+    <published>2019-01-24T16:08:59-08:00</published>
+    <updated>2019-01-24T16:08:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-single-bag-white-chocolate-1-5oz-24ct"/>
+    <title>M&amp;M Single Bag White Chocolate 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Single_Bag_White_Chocolate_1.5oz.jpg?v=1579546512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011182153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011149385</id>
+    <published>2019-01-24T16:08:58-08:00</published>
+    <updated>2019-01-24T16:08:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-single-bag-pretzel-1-14oz-24ct"/>
+    <title>M&amp;M Single Bag Pretzel 1.14oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Single_Bag_Pretzel_1.14oz.jpg?v=1579546511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011149385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010887241</id>
+    <published>2019-01-24T16:08:55-08:00</published>
+    <updated>2019-01-24T16:08:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-theater-box-peanut-butter-3oz-12ct"/>
+    <title>M&amp;M Theater Box Peanut Butter 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Theater_Box_Peanut_Butter_3oz.jpg?v=1579546515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010887241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.33</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010854473</id>
+    <published>2019-01-24T16:08:55-08:00</published>
+    <updated>2019-01-24T16:08:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-theater-box-peanut-3-1oz-12ct"/>
+    <title>M&amp;M Theater Box Peanut 3.1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Theater_Box_Peanut_3.1oz.jpg?v=1579546514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010854473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.33</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010756169</id>
+    <published>2019-01-24T16:08:54-08:00</published>
+    <updated>2019-01-24T16:08:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-king-size-bag-almond-2-83oz-18ct"/>
+    <title>M&amp;M King Size Bag Almond 2.83oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_King_Size_Bag_Almond_2.83oz.jpg?v=1579546509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>almond</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010756169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032009609289</id>
+    <published>2019-01-24T16:08:41-08:00</published>
+    <updated>2019-01-24T16:08:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-share-size-white-chocolate-peanut-2-80-oz-24ct"/>
+    <title>M&amp;M Share Size White Chocolate Peanut 2.80oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Share_Size_White_Chocolate_Peanut_2.80oz.jpg?v=1581359533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032009609289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

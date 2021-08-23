@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/mccormicks.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-04-29T21:56:42-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6574809022549</id>
+    <published>2021-04-29T21:56:42-07:00</published>
+    <updated>2021-04-29T21:56:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-marshmallow-strawberries-800g"/>
+    <title>McCormicks Marshmallow Strawberries 800g</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-marshmallow-strawberries-1kg-bulk.jpg?v=1619758203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574809022549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574808891477</id>
+    <published>2021-04-29T21:56:42-07:00</published>
+    <updated>2021-04-29T21:56:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-marshmallow-bananas-1kg"/>
+    <title>McCormicks Marshmallow Bananas 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-marshmallow-bananas.jpg?v=1619758101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574808891477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574808727637</id>
+    <published>2021-04-29T21:56:42-07:00</published>
+    <updated>2021-04-29T21:56:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-blue-whales-2-5kg"/>
+    <title>McCormicks Blue Whales 2.5kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-blue-whales-candy.jpg?v=1619757917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574808727637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574808596565</id>
+    <published>2021-04-29T21:56:42-07:00</published>
+    <updated>2021-04-29T21:56:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-cherry-twists-2-5kg"/>
+    <title>McCormicks Cherry Twists 2.5kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-cherry-twists-1-8-kg.jpg?v=1619757819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574808596565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574807941205</id>
+    <published>2021-04-29T21:56:41-07:00</published>
+    <updated>2021-04-29T21:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-dino-sours-2-5kg"/>
+    <title>McCormicks Dino Sours 2.5kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/dinosours_e4d8989e-85ca-4a99-b7ee-bed1aa4d6475.jpg?v=1619757591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574807941205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574807679061</id>
+    <published>2021-04-29T21:56:41-07:00</published>
+    <updated>2021-04-29T21:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-puzzle-gummies-2-5kg"/>
+    <title>McCormicks Puzzle Gummies 2.5kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-puzzle-gummy-candies-candy.jpg?v=1619757037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574807679061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574807384149</id>
+    <published>2021-04-29T21:56:41-07:00</published>
+    <updated>2021-04-29T21:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-aloha-gummies-12ct-1kg"/>
+    <title>McCormicks Aloha Gummies 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-aloha-gummy-candy-1kg.jpg?v=1619756813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574807384149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574807318613</id>
+    <published>2021-04-29T21:56:40-07:00</published>
+    <updated>2021-04-29T21:56:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-desert-gummies-12ct-1kg"/>
+    <title>McCormicks Desert Gummies 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-desert-gummy-candy-1kg.jpg?v=1619756746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574807318613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574807285845</id>
+    <published>2021-04-29T21:56:40-07:00</published>
+    <updated>2021-04-29T21:56:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-ocean-gummies-12ct-1kg"/>
+    <title>McCormicks Ocean Gummies 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-ocean-gummy-candy-1kg.jpg?v=1619756675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574807285845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574807253077</id>
+    <published>2021-04-29T21:56:40-07:00</published>
+    <updated>2021-04-29T21:56:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccormicks-unicorn-gummies-12ct-1kg"/>
+    <title>McCormicks Unicorn Gummies 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mccormicks-unicorns-gummy-candy-1kg.jpg?v=1619756622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mccormicks</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574807253077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

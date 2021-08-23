@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/sweetarts.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-01-28T20:03:06-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4836819468373</id>
+    <published>2021-01-28T20:03:06-08:00</published>
+    <updated>2021-01-28T20:03:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-rope-collision-watermelon-berry-5oz-12ct"/>
+    <title>Sweetarts Rope Collision Watermelon Berry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SweetartsRopeCollisionWatermelonBerry.jpg?v=1611892949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836819468373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827919286357</id>
+    <published>2021-01-01T16:44:50-08:00</published>
+    <updated>2021-01-01T16:44:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-ropes-collision-share-size-3-5oz-12ct"/>
+    <title>Sweetarts Ropes Collision Share Size 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SweettartsRopesCollisionSharepack.jpg?v=1609534765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827919286357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4822245048405</id>
+    <published>2020-12-16T15:58:01-08:00</published>
+    <updated>2020-12-16T15:58:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-ropes-tangy-strawberry-5oz-12ct"/>
+    <title>Sweetarts Ropes Tangy Strawberry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SweetartsRopesTangyStrawberry5oz.jpg?v=1608163042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4822245048405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4702690902101</id>
+    <published>2020-06-15T17:09:33-07:00</published>
+    <updated>2020-06-15T17:09:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetart-ropes-bites-share-size-twisted-rainbow-3-5oz-12ct"/>
+    <title>Sweetart Ropes Twisted Rainbow Share Size 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SweetartRopesBitesShareSizeTwistedRainbow.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4702690902101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867461193</id>
+    <published>2020-06-15T13:10:50-07:00</published>
+    <updated>2020-06-15T13:10:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-chewy-ropes-tangy-straw-share-pack-3-5oz-12ct"/>
+    <title>Sweetarts Chewy Ropes Tangy Share Pack 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sweetarts_Chewy_Ropes_Tangy_Straw_Share_Pack.jpg?v=1544682841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867461193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4702432264277</id>
+    <published>2020-06-15T12:20:52-07:00</published>
+    <updated>2020-06-15T12:20:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-ropes-twisted-rainbow-punch-5oz-12ct"/>
+    <title>Sweetarts Ropes Twisted Rainbow Punch 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SweetartsRopesTwistedRainbowPunch5oz12ct.jpg?v=1592250532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4702432264277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820869853257</id>
+    <published>2018-11-07T10:51:28-08:00</published>
+    <updated>2018-11-07T10:51:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-chewy-mini-video-box-3-75-oz-12ct"/>
+    <title>Sweetarts Chewy Mini Theater Box 3.75 Oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sweetarts_Chewy_Mini_Theater_Box.jpg?v=1548400992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820869853257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866576457</id>
+    <published>2018-11-07T10:51:00-08:00</published>
+    <updated>2018-11-07T10:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-roll-36ct"/>
+    <title>Sweetarts Roll 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sweetarts_Roll.png?v=1544682792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866576457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820861268041</id>
+    <published>2018-11-07T10:50:15-08:00</published>
+    <updated>2018-11-07T10:50:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-chewy-sours-1-65oz-24ct"/>
+    <title>Sweetarts Chewy Sours Roll 1.65oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sweetarts_Chewy_Sours.png?v=1581359535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820861268041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858875977</id>
+    <published>2018-11-07T10:49:57-08:00</published>
+    <updated>2018-11-07T10:49:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sweetarts-video-box-5oz-10ct"/>
+    <title>Sweetarts Theater Box 5oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sweetarts_Theater_Box.jpg?v=1542486283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sweetarts</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858875977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/mints.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-25T21:27:44-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6584006082645</id>
+    <published>2021-05-25T21:27:44-07:00</published>
+    <updated>2021-05-25T21:27:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-close-talker-mints-0-85oz-12ct"/>
+    <title>Archie McPhee Close Talker Mints 0.85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12916.png?v=1622003054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584006082645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584005623893</id>
+    <published>2021-05-25T21:27:43-07:00</published>
+    <updated>2021-05-25T21:27:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-super-genius-mints-0-85oz-12ct"/>
+    <title>Archie McPhee Super Genius Mints 0.85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12913.png?v=1622002939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584005623893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584005427285</id>
+    <published>2021-05-25T21:27:43-07:00</published>
+    <updated>2021-05-25T21:27:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-rubber-chickent-mints-0-85oz-12ct"/>
+    <title>Archie McPhee Rubber Chicken Mints 0.85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12873.png?v=1622002815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584005427285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584005263445</id>
+    <published>2021-05-25T21:27:43-07:00</published>
+    <updated>2021-05-25T21:27:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-cat-astronaut-mints-0-85oz-12ct"/>
+    <title>Archie McPhee Cat Astronaut Mints 0.85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12824.png?v=1622002731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584005263445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584004968533</id>
+    <published>2021-05-25T21:27:42-07:00</published>
+    <updated>2021-05-25T21:27:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-unicorn-mints-0-85oz-12ct"/>
+    <title>Archie McPhee Unicorn Mints 0.85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12762.jpg?v=1622002562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584004968533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584004804693</id>
+    <published>2021-05-25T21:27:42-07:00</published>
+    <updated>2021-05-25T21:27:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-big-foot-mints-0-85oz-12ct"/>
+    <title>Archie McPhee Big Foot Mints 0.85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12672.jpg?v=1622002472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584004804693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584002871381</id>
+    <published>2021-05-25T21:27:41-07:00</published>
+    <updated>2021-05-25T21:27:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-archie-mcphee-fugu-mints-1oz-12ct"/>
+    <title>Archie McPhee Fugu Mints 1oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12128.jpg?v=1622002085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584002871381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6584000348245</id>
+    <published>2021-05-25T21:27:41-07:00</published>
+    <updated>2021-05-25T21:27:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/archie-mcphee-cupcake-mints-1oz-12ct"/>
+    <title>Archie McPhee Cupcake Mints 1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/11854.jpg?v=1622001979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Archie McPhee</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6584000348245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562819244117</id>
+    <published>2021-04-01T22:28:29-07:00</published>
+    <updated>2021-04-01T22:28:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/regal-crown-peg-bags-sour-lemon-4oz-12ct"/>
+    <title>Regal Crown Peg Bag Sour Lemon 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RegalCrownPegBagsSourLemon12ct4oz.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562819244117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562806038613</id>
+    <published>2021-04-01T22:28:26-07:00</published>
+    <updated>2021-04-01T22:28:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/richardson-pastel-mints-bag-12oz-12ct"/>
+    <title>Richardson Pastel Mints Bag 12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/01211.png?v=1618460748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562806038613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843162370133</id>
+    <published>2021-02-19T17:01:41-08:00</published>
+    <updated>2021-02-19T17:01:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/richardson-butter-mints-bag-yellow-12oz-12ct"/>
+    <title>Richardson Butter Mints Bag Yellow 12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RichardsonBagButterMints12oz.png?v=1614830029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butter mint</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843162370133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840507867221</id>
+    <published>2021-02-08T15:50:38-08:00</published>
+    <updated>2021-02-08T15:50:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-office-gummy-stapler-6ct"/>
+    <title>Boston America The Office  Stapler Gummy 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTheOfficeGummyStapler.jpg?v=1612925947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840507867221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4838202802261</id>
+    <published>2021-02-01T17:09:08-08:00</published>
+    <updated>2021-02-01T17:09:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/clawhammer-black-licorice-organic-mints-12ct"/>
+    <title>Clawhammer Black Licorice Organic Mints 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ClawhammerBlackLicoriceOrganicMints_da5bb807-c493-4177-971d-887c0987cfd8.jpg?v=1612228133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>clawhammer</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4838202802261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827922169941</id>
+    <published>2021-01-01T13:28:10-08:00</published>
+    <updated>2021-01-01T13:28:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/regal-crown-rolls-sour-grape-24ct"/>
+    <title>Regal Crown Rolls Sour Grape 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/regalcrowngrape.jpg?v=1609569419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827922169941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827921743957</id>
+    <published>2021-01-01T13:23:48-08:00</published>
+    <updated>2021-01-01T13:23:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/regal-crown-sour-apple-24ct"/>
+    <title>Regal Crown Rolls Sour Apple 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RegalCrownSourApple1.01oz.jpg?v=1609536104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827921743957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793446137941</id>
+    <published>2020-10-21T20:37:23-07:00</published>
+    <updated>2020-10-21T20:37:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeds-peg-bag-root-beer-4oz-12ct"/>
+    <title>Reeds Peg Bag Root Beer 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1010.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793446137941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793445679189</id>
+    <published>2020-10-21T20:34:12-07:00</published>
+    <updated>2020-10-21T20:34:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeds-peg-bag-butterscotch-4oz-12ct"/>
+    <title>Reeds Peg Bag Butterscotch 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1009.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793445679189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793444827221</id>
+    <published>2020-10-21T20:33:00-07:00</published>
+    <updated>2020-10-21T20:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeds-cinnamon-peg-bag-4oz-12ct"/>
+    <title>Reeds Cinnamon Peg Bag 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1011.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793444827221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792074272853</id>
+    <published>2020-10-19T11:42:37-07:00</published>
+    <updated>2020-10-19T11:42:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-golden-girls-mints-18ct"/>
+    <title>Boston America The Golden Girls Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTheGoldenGirlsMints.jpg?v=1603132739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792074272853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792073519189</id>
+    <published>2020-10-19T11:37:23-07:00</published>
+    <updated>2020-10-19T11:37:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-the-office-shrute-farms-mints-18ct"/>
+    <title>Boston America The Office Shrute Farms Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaTheOfficeShruteFarmsMints.jpg?v=1603247838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792073519189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4792072831061</id>
+    <published>2020-10-19T11:35:14-07:00</published>
+    <updated>2020-10-19T11:35:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-boston-jaws-quints-mints-18ct"/>
+    <title>Boston America Jaws Quint&apos;s Mints 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BostonAmericaJawsQuint_sMints.jpg?v=1603132505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4792072831061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783598764117</id>
+    <published>2020-10-04T16:08:06-07:00</published>
+    <updated>2020-10-04T16:08:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/money-mints-rolls-100ct"/>
+    <title>Money Mints Rolls 100ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MoneyMintsRolls.jpg?v=1603247837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783598764117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757229862997</id>
+    <published>2020-09-01T20:57:21-07:00</published>
+    <updated>2020-09-01T20:57:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-colores-12ct-mexico"/>
+    <title>Halls Colors 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsColores.jpg?v=1599019164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757229862997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757227765845</id>
+    <published>2020-09-01T20:55:46-07:00</published>
+    <updated>2020-09-01T20:55:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-miel-limon-honey-lemon-12ct-mexico"/>
+    <title>Halls Miel Limon Honey Lemon 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsMielLimon.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757227765845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757221277781</id>
+    <published>2020-09-01T20:50:05-07:00</published>
+    <updated>2020-09-01T20:50:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/halls-mora-12ct-mexico"/>
+    <title>Halls Mora Blueberry 12ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsHallsMora.jpg?v=1599018635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>halls</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>mints</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757221277781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

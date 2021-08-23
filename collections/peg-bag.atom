@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/peg-bag.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-19T20:47:08-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6616564826197</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-fruit-loops-6oz-pouch-4ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Fruit Loops 6oz Pouch 4ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jumbosnacksloops.jpg?v=1629430565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564826197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564367445</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-tiger-paws-6oz-pouch-4ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Tiger Paws 6oz Pouch 4ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/jumbosnackspaw.jpg?v=1629430231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564367445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605739655253</id>
+    <published>2021-07-19T22:15:59-07:00</published>
+    <updated>2021-07-19T22:15:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-unicorn-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Unicorn Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1020.png?v=1627079168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605739655253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605738999893</id>
+    <published>2021-07-19T22:09:47-07:00</published>
+    <updated>2021-07-19T22:09:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-mint-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Mint Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsMintToffee150g.jpg?v=1626757764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738999893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605738672213</id>
+    <published>2021-07-19T22:07:02-07:00</published>
+    <updated>2021-07-19T22:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-coffee-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Coffee Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsCoffeeToffee150g.jpg?v=1627079177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738672213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971829801033</id>
+    <published>2021-07-10T20:47:28-07:00</published>
+    <updated>2021-07-10T20:47:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cororo-muscat-gummy-candy-40g-6ct-japan"/>
+    <title>Cororo Muscat Gummy Candy 40g 6ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cororo_muscat_Gummy_Candy_40g_6ct_Japan.jpg?v=1555354780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cororo</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>muscat</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971829801033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596470800469</id>
+    <published>2021-06-30T20:29:07-07:00</published>
+    <updated>2021-06-30T20:29:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-lovable-lobster-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Lovable Lobster Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/361015.png?v=1627079147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596470800469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596457332821</id>
+    <published>2021-06-30T20:29:06-07:00</published>
+    <updated>2021-06-30T20:29:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-sour-rainbow-belts-peg-bag-halal-4-5oz-12ct"/>
+    <title>Yumy Yumy Sour Rainbow Belts Peg Bag (Halal) 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1138.jpg?v=1627079149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596457332821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596457103445</id>
+    <published>2021-06-30T20:29:06-07:00</published>
+    <updated>2021-06-30T20:29:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-ice-cream-cones-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Ice Cream Cones Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1021_3a8a35c7-7d8c-4531-854e-3d9c63bd8abf.jpg?v=1627079147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596457103445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596457005141</id>
+    <published>2021-06-30T20:29:06-07:00</published>
+    <updated>2021-06-30T20:29:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-watermelon-slices-peg-bag-halal-4-5oz-12ct"/>
+    <title>Yumy Yumy Watermelon Slices Peg Bag (Halal) 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1000.jpg?v=1627079150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596457005141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596456775765</id>
+    <published>2021-06-30T20:29:05-07:00</published>
+    <updated>2021-06-30T20:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-sour-neon-worms-peg-bag-halal-4-5oz-12ct"/>
+    <title>Yumy Yumy Sour Neon Worms Peg Bag (Halal) 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1009_83b60ca0-0cf6-4687-a7f9-34633041cb85.jpg?v=1625026081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596456775765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596456284245</id>
+    <published>2021-06-30T20:29:05-07:00</published>
+    <updated>2021-06-30T20:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-wonder-worms-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Wonder Worms Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1008.jpg?v=1625025896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596456284245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596456087637</id>
+    <published>2021-06-30T20:29:05-07:00</published>
+    <updated>2021-06-30T20:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-cola-bottles-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Cola Bottles Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1006_890b0607-9a57-4145-9184-e9f052ca8fd8.jpg?v=1627079167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596456087637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596455891029</id>
+    <published>2021-06-30T20:29:05-07:00</published>
+    <updated>2021-06-30T20:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-s-peach-rings-peg-bag-halal-4-5oz-12ct"/>
+    <title>Yumy Yumy Peach Rings Peg Bag (Halal) 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1005.jpg?v=1627079148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596455891029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596455694421</id>
+    <published>2021-06-30T20:29:04-07:00</published>
+    <updated>2021-06-30T20:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-funny-bears-peg-bag-halal-4oz-12ct"/>
+    <title>Yumy Yumy Funny Bears Peg Bag (Halal) 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1004.jpg?v=1627079157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596455694421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596454973525</id>
+    <published>2021-06-30T20:29:04-07:00</published>
+    <updated>2021-06-30T20:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yumy-yumy-peg-bag-groovy-bananas-4-5oz-12ct"/>
+    <title>Yumy Yumy Groovy Bananas Peg Bag (Halal) 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/1001.jpg?v=1625025470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>kervan</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596454973525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595557425237</id>
+    <published>2021-06-29T20:07:30-07:00</published>
+    <updated>2021-06-29T20:07:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-alien-tongue-in-blister-assorted-grape-cherry-cola-4-5oz-128g-12ct"/>
+    <title>Giant Gummy Alien Tongue in Blister Assorted Grape, Cherry Cola 4.5oz (128g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/c7wbhftA.jpg?v=1627079156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Grape</p>
+<p>6 Cherry Cola</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595557425237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595557261397</id>
+    <published>2021-06-29T20:07:29-07:00</published>
+    <updated>2021-06-29T20:07:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-witch-tongu-in-blister-assorted-sour-apple-cola-4-5oz-128g-12ct"/>
+    <title>Giant Gummy Witch Tongue in Blister Assorted Sour Apple, Cola 4.5oz (128g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/tkPjFnUT.jpg?v=1627079176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Sour Apple</p>
+<p>6 Cola</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595557261397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595556966485</id>
+    <published>2021-06-29T20:07:29-07:00</published>
+    <updated>2021-06-29T20:07:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-viper-tongue-assorted-sour-apple-orange-4-5oz-128g-12ct"/>
+    <title>Giant Gummy Viper Tongue in Blister Assorted Sour Apple, Orange 4.5oz (128g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/UEtcv4DU.jpg?v=1627079141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Sour Apple</p>
+<p>6 Orange</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595556966485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595556016213</id>
+    <published>2021-06-29T20:07:28-07:00</published>
+    <updated>2021-06-29T20:07:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-joker-tongue-cherry-blue-raspberry-4-5oz-128g-12ct"/>
+    <title>Giant Gummy Joker Tongue In Blister Assorted Cherry, Blue Raspberry 4.5oz (128g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/zE4fyh05.jpg?v=1627079139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Cherry</p>
+<p>6 Blue Raspberry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595556016213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595552116821</id>
+    <published>2021-06-29T20:07:28-07:00</published>
+    <updated>2021-06-29T20:07:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-snake-assorted-flavors-16oz-454g-12ct"/>
+    <title>Giant Gummy Snake Blister Assorted Flavors 16oz (454g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HNDgrWEz.jpg?v=1627079139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">4 cherry/blue raspberry</div>
+<div data-mce-fragment="1">4 blue raspberry/sour apple</div>
+<div data-mce-fragment="1">4 sour apple/orange<br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595552116821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595551658069</id>
+    <published>2021-06-29T20:07:27-07:00</published>
+    <updated>2021-06-29T20:07:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-apple-with-worm-in-blister-sour-apple-cherry-7oz-198g-12ct"/>
+    <title>Giant Gummy Apple With Worm in Blister - Sour Apple/Cherry 7oz (198g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/APPLE-0301.jpg?v=1627079155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595551658069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595551363157</id>
+    <published>2021-06-29T20:07:27-07:00</published>
+    <updated>2021-06-29T20:07:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-apple-with-worm-in-blister-cherry-sour-apple-7oz-198g-12ct"/>
+    <title>Giant Gummy Apple With Worm in Blister - Cherry/Sour Apple 7oz (198g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NOBcLtzR.jpg?v=1627079135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595551363157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595550937173</id>
+    <published>2021-06-29T20:07:27-07:00</published>
+    <updated>2021-06-29T20:07:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-apple-sour-apple-in-blister-7oz-198g-12ct"/>
+    <title>Giant Gummy Apple in Blister - Sour Apple 7oz (198g) 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cz-xLlwe.jpg?v=1627079179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595550937173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595550707797</id>
+    <published>2021-06-29T20:07:26-07:00</published>
+    <updated>2021-06-29T20:07:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gummy-cola-bottle-blister-cherry-cola-12-8oz-363g-8ct"/>
+    <title>Giant Gummy Cola Bottle Blister - Cherry Cola 12.8oz (363g) 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/bottleCherry_499.1.jpg?v=1627079150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            86.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ggb</s:tag>
+    <s:tag>giant</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>largest</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595550707797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">86.71</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

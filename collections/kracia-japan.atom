@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/kracia-japan.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-04-12T22:18:40-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2200005738569</id>
+    <published>2021-04-12T22:18:40-07:00</published>
+    <updated>2021-04-12T22:18:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-tanoshii-omatsuri-ya-san-holiday-candy-kit-28-5g-5ct-japan"/>
+    <title>Kracia Tanoshii Omatsuri-Ya San Holiday Candy Kit 28.5g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Untitled_now.png?v=1579546484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2200005738569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2082146123849</id>
+    <published>2019-02-19T18:43:41-08:00</published>
+    <updated>2019-02-19T18:43:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-candy-kit-42g-5ct-japan"/>
+    <title>Kracia Candy Kit 42g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kracia_Candy_Kit_42g_5ct_Japan.jpg?v=1579546480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2082146123849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2082142158921</id>
+    <published>2019-02-19T18:38:28-08:00</published>
+    <updated>2019-02-19T18:38:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-dessert-candy-kit-26g-5ct-japan"/>
+    <title>Kracia Dessert Candy Kit 26g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kracia_Dessert_Candy_Kit.jpg?v=1579546481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2082142158921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1988508516425</id>
+    <published>2018-12-26T16:40:19-08:00</published>
+    <updated>2018-12-26T16:40:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-happy-kitchen-hamburger-candy-kit-22g-5ct-japan"/>
+    <title>Kracia Happy Kitchen Hamburger Candy Kit 22g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kracia_Happy_Kitchen_Hamburger_Candy_Kit.jpg?v=1579546482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1988508516425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971881705545</id>
+    <published>2018-12-12T21:56:41-08:00</published>
+    <updated>2018-12-12T21:56:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-osushi-ya-sushi-candy-kit-28-5g-5ct-japan"/>
+    <title>Kracia Osushi-Ya Sushi Candy Kit 28.5g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kraciasushi_5ct_Japan.jpg?v=1579546483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:tag>sushi</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971881705545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971876298825</id>
+    <published>2018-12-12T21:41:36-08:00</published>
+    <updated>2018-12-12T21:41:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kracia-happy-kitchen-donut-kit-41g-5ct-japan"/>
+    <title>Kracia Happy Kitchen Donut Candy Kit 41g 5ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kracia_Happy_Kitchen_Donut_Kit_41g_5ct_Japan.jpg?v=1579546482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>kracia</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971876298825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

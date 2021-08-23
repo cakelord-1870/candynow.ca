@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/sugar-free.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:54:56-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2032012263497</id>
+    <published>2021-08-11T14:54:56-07:00</published>
+    <updated>2021-08-11T14:54:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-mint-sweet-twist-14pc-12ct"/>
+    <title>Trident Single Mint Sweet Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Mint_Sweet_Twist.jpg?v=1579545451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012263497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594784854101</id>
+    <published>2021-06-24T22:17:04-07:00</published>
+    <updated>2021-06-24T22:17:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/margaritaville-strawberry-daiquiri-singles-to-go-0-65oz-12ct"/>
+    <title>Margaritaville - Strawberry Daiquiri Singles To Go 0.65oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MARG-392335.png?v=1624597951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594784854101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594784690261</id>
+    <published>2021-06-24T22:17:04-07:00</published>
+    <updated>2021-06-24T22:17:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/margaritaville-margarita-singles-to-go-0-58oz-12ct"/>
+    <title>Margaritaville - Margarita Singles To Go 0.58oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Margaritaville-MargaritaSinglesToGo.png?v=1624597895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594784690261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594784559189</id>
+    <published>2021-06-24T22:17:03-07:00</published>
+    <updated>2021-06-24T22:17:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/margaritaville-pina-colada-singles-to-go-0-70oz-12ct"/>
+    <title>Margaritaville - Pina Colada Singles To Go 0.70oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Margaritaville-PinaColadaSinglesToGo.jpg?v=1624597723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594784559189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6589939351637</id>
+    <published>2021-06-10T22:39:01-07:00</published>
+    <updated>2021-06-10T22:39:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-taffy-lite-assorted-sugar-free-salt-water-taffy-bag-141g-12ct"/>
+    <title>Taffy Town Taffy Lite Assorted Sugar Free Salt Water Taffy Bag 113g 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CT00310.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6589939351637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6589937549397</id>
+    <published>2021-06-10T22:31:18-07:00</published>
+    <updated>2021-06-10T22:31:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-assorted-sugar-free-salt-water-taffy-5lb-1ct"/>
+    <title>Taffy Town Assorted Sugar Free Salt Water Taffy 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/811-asst-lite-1_400x_9584840d-4747-4a90-b6c7-de7977903747.png?v=1623389109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6589937549397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550041067605</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-york-patties-peppermint-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s York Peppermint Patties Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sYorkPeppermintPattiesZeroSugar.jpg?v=1615521480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550041067605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550038184021</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-milk-chocolate-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s Milk Chocolate Candy Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93837.jpg?v=1615521299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550038184021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550034448469</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-special-dark-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s Special Dark Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sZeroSugarSpecialDark.jpg?v=1615521145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550034448469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550017441877</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-mini-cups-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Reese&apos;s Mini Cups Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sZeroSugarReese.jpg?v=1615518648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550017441877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550016426069</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-peg-bag-hard-candy-zero-sugar-6-1oz-8ct"/>
+    <title>Jolly Rancher Zero Sugar Pouch 6.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZeroSugarJollyRancher.jpg?v=1615517810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550016426069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4841046933589</id>
+    <published>2021-02-10T16:41:43-08:00</published>
+    <updated>2021-02-10T16:41:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/starburst-cherry-singles-to-go-0-59oz-12ct"/>
+    <title>Starburst Cherry Singles to Go 0.59oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/StarburstCherrySinglestoGo.jpg?v=1613004065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>starburst</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4841046933589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4841046835285</id>
+    <published>2021-02-10T16:41:42-08:00</published>
+    <updated>2021-02-10T16:41:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/starburst-fruit-punch-singles-to-go-0-59oz-12ct"/>
+    <title>Starburst Fruit Punch Singles to Go 0.59oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/StarburstFruitPunchSinglestoGo.jpg?v=1613003972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>starburst</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4841046835285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4841046671445</id>
+    <published>2021-02-10T16:41:42-08:00</published>
+    <updated>2021-02-10T16:41:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/starburst-lemon-singles-to-go-0-48oz-12ct"/>
+    <title>Starburst Lemon Singles to Go 0.48oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/StarburstLemonSinglestoGo.png?v=1613003886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>starburst</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4841046671445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4841046474837</id>
+    <published>2021-02-10T16:41:42-08:00</published>
+    <updated>2021-02-10T16:41:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/starburst-blue-raspberry-singles-to-go-0-68oz-12ct"/>
+    <title>Starburst Blue Raspberry Singles to Go 0.68oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/StarburstBlueRaspberrySinglestoGo.jpg?v=1613003782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>starburst</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4841046474837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4841046212693</id>
+    <published>2021-02-10T16:41:41-08:00</published>
+    <updated>2021-02-10T16:41:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/starburst-all-pink-strawberry-singles-to-go-0-43oz-12ct"/>
+    <title>Starburst All Pink Strawberry Singles to Go 0.43oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/StarburstAllPinkStrawberrySinglestoGo.jpg?v=1613003682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>starburst</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4841046212693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793448726613</id>
+    <published>2020-10-21T20:49:01-07:00</published>
+    <updated>2020-10-21T20:49:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-brachs-sugar-free-peppermint-disks-3-5oz-10ct"/>
+    <title>Brach&apos;s Sugar Free Star Brites Peppermint Disks 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Brach_sSugarFreePegPeppermint.jpg?v=1603338762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brach</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793448726613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752450289749</id>
+    <published>2020-08-24T11:34:11-07:00</published>
+    <updated>2020-08-24T11:34:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-c-grabbin-grape-singles-to-go-0-63oz-12ct"/>
+    <title>Hi-C - Grabbin&apos; Grape Singles To Go 0.63oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-C_Grape-website.png?v=1598489887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752450289749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752449929301</id>
+    <published>2020-08-24T11:32:49-07:00</published>
+    <updated>2020-08-24T11:32:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-c-mashin-mango-melon-singles-to-go-0-72oz-12ct"/>
+    <title>Hi-C - Mashin&apos; Mango Melon Singles To Go 0.72oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-C_Mango-website.png?v=1598489887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752449929301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752449306709</id>
+    <published>2020-08-24T11:31:35-07:00</published>
+    <updated>2020-08-24T11:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-c-blazin-blueberry-singles-to-go-0-60oz-12ct"/>
+    <title>Hi-C - Blazin&apos; Blueberry Singles To Go 0.60oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-C_Blueberry-website.png?v=1598489888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752449306709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752448192597</id>
+    <published>2020-08-24T11:29:26-07:00</published>
+    <updated>2020-08-24T11:29:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-c-flashin-fruit-punch-singles-to-go-0-61oz-12ct"/>
+    <title>Hi-C - Flashin&apos; Fruit Punch Singles To Go 0.61oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-C_Fruit-Punch-website.png?v=1598489887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752448192597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752447504469</id>
+    <published>2020-08-24T11:27:52-07:00</published>
+    <updated>2020-08-24T11:27:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-blue-raspberry-singles-to-go-1oz-12ct"/>
+    <title>Jolly Rancher - Blue Raspberry Singles To Go 1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JollyRancher-STG-6ct-Blue-Raspberry-3.png?v=1598293705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752447504469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752446980181</id>
+    <published>2020-08-24T11:26:11-07:00</published>
+    <updated>2020-08-24T11:26:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-cherry-singles-to-go-1-05oz-12ct"/>
+    <title>Jolly Rancher - Cherry Singles To Go 1.05oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JollyRancher-STG-6ct-Cherry-2.png?v=1598293633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752446980181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752446586965</id>
+    <published>2020-08-24T11:24:47-07:00</published>
+    <updated>2020-08-24T11:24:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-green-apple-singles-to-go-0-96oz-12ct"/>
+    <title>Jolly Rancher - Green Apple Singles To Go 0.96oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JollyRancher-STG-6ct-Green-Apple-2.png?v=1598293531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752446586965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4752445145173</id>
+    <published>2020-08-24T11:19:59-07:00</published>
+    <updated>2020-08-24T11:19:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-watermelon-stick-pack-1oz-12ct"/>
+    <title>Jolly Rancher - Watermelon Singles To Go 1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JollyRancher-STG-6ct-Watermelon-2.png?v=1598293327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>jel sert</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4752445145173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

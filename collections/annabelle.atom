@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/annabelle.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-08-06T12:16:50-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4742949601365</id>
+    <published>2020-08-06T12:16:50-07:00</published>
+    <updated>2020-08-06T12:16:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-abba-zaba-mystery-flavor-1-25oz-24ct"/>
+    <title>Abba Zaba Mystery Flavor 1.25oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AnnabelleAbba-ZabaMysteryFlavor.png?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abba zaba</s:tag>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4742949601365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4704267632725</id>
+    <published>2020-06-16T20:31:02-07:00</published>
+    <updated>2020-06-16T20:31:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-hunk-chocolate-covered-1-5oz-24ct"/>
+    <title>Big Hunk Chocolate Covered 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BigHunkChocolateCovered.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>annabelle</s:tag>
+    <s:tag>big hunk</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nougat</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4704267632725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032017145929</id>
+    <published>2019-01-24T16:10:04-08:00</published>
+    <updated>2019-01-24T16:10:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-rocky-roaddark-chocolate-with-sea-salt-1-82oz-24ct"/>
+    <title>Rocky Road Dark Chocolate with Sea Salt 1.82oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Annabelle_Rocky_Road_Dark_Chocolate_with_Sea_Salt_1.82oz_24ct.jpg?v=1579545399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>rocky road</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032017145929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016359497</id>
+    <published>2019-01-24T16:09:55-08:00</published>
+    <updated>2019-01-24T16:09:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-rocky-road-1-82oz-24ct"/>
+    <title>Rocky Road 1.82oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Annabelle_Rocky_Road.jpg?v=1579545398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>rocky road</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016359497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016031817</id>
+    <published>2019-01-24T16:09:51-08:00</published>
+    <updated>2019-01-24T16:09:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-rocky-road-smores-1-64oz-24ct"/>
+    <title>Rocky Road S&apos;Mores 1.64oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Annabelle_Rocky_Road_S_Mores.jpg?v=1579545399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>rocky road</s:tag>
+    <s:tag>s&apos;mores</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016031817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015900745</id>
+    <published>2019-01-24T16:09:50-08:00</published>
+    <updated>2019-01-24T16:09:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-abba-zaba-2oz-24ct"/>
+    <title>Abba Zaba 2oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Annabelle_Abba_Zaba_2oz_24ct.jpg?v=1555352828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abba zaba</s:tag>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015900745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015441993</id>
+    <published>2019-01-24T16:09:45-08:00</published>
+    <updated>2019-01-24T16:09:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-big-hunk-2oz-24ct"/>
+    <title>Big Hunk 2oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Annabelle_Big_Hunk_2oz_24ct.jpg?v=1555352881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>annabelle</s:tag>
+    <s:tag>big hunk</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nougat</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015441993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

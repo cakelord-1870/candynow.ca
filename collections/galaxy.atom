@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/galaxy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-11-13T17:23:53-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4807023362133</id>
+    <published>2020-11-13T17:23:53-08:00</published>
+    <updated>2020-11-13T17:23:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/galaxy-counters-pouch-78g-20ct-uk"/>
+    <title>Galaxy Counters Pouch 78g 20ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/GalaxyCountersPouch78g.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4807023362133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035655409737</id>
+    <published>2019-01-27T12:00:57-08:00</published>
+    <updated>2019-01-27T12:00:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-standard-42g-24ct-uk"/>
+    <title>Mars Galaxy Standard 42g 24ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_Standard_24_x_42g.jpg?v=1579546529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035655409737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035651051593</id>
+    <published>2019-01-27T11:56:21-08:00</published>
+    <updated>2019-01-27T11:56:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-minstrels-standard-42g-40ct-uk"/>
+    <title>Mars Galaxy Minstrels Standard 42g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_Minstrels_Standard_40_x_42g.jpg?v=1579546528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035651051593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457868361</id>
+    <published>2018-12-05T17:50:47-08:00</published>
+    <updated>2018-12-05T17:50:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-ripple-36-x-33g"/>
+    <title>Mars Galaxy Ripple 33g 36ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_Ripple_33g.jpg?v=1579546529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457868361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457835593</id>
+    <published>2018-12-05T17:50:46-08:00</published>
+    <updated>2018-12-05T17:50:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-caramel-standard-24-x-48g"/>
+    <title>Mars Galaxy Caramel Standard 48g 24ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_Caramel_Standard_48g.jpg?v=1579546527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457835593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457770057</id>
+    <published>2018-12-05T17:50:46-08:00</published>
+    <updated>2018-12-05T17:50:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-24-x-110g"/>
+    <title>Mars Galaxy 110g 24ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_110g.jpg?v=1579546526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457770057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

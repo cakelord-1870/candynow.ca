@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/warheads.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:54:33-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4809512714325</id>
+    <published>2021-08-11T14:54:33-07:00</published>
+    <updated>2021-08-11T14:54:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-ooze-chewz-3-5oz-12ct"/>
+    <title>Warheads Theater Box Ooze Chewz 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/21295.png?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809512714325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562809544789</id>
+    <published>2021-04-01T22:28:27-07:00</published>
+    <updated>2021-04-01T22:28:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-galactic-cubes-4-5oz-12ct"/>
+    <title>Warheads Galactic Cubes 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/23900.png?v=1618460749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562809544789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6549989163093</id>
+    <published>2021-03-12T08:42:40-08:00</published>
+    <updated>2021-03-12T08:42:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-super-sour-10-ball-tube-2oz-12ct"/>
+    <title>Warheads Super Sour 10 Gum Ball Tube 2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/65585.jpg?v=1615522523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6549989163093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836801871957</id>
+    <published>2021-01-28T18:50:36-08:00</published>
+    <updated>2021-01-28T18:50:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-ooze-chewz-sachet-1-76oz-12ct"/>
+    <title>Warheads Ooze Chewz Sachet 1.76oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WarheadsOozeChewzSachet.jpg?v=1611898237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836801871957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836801052757</id>
+    <published>2021-01-28T18:48:01-08:00</published>
+    <updated>2021-01-28T18:48:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-lil-worms-sachet-1-41oz-12ct"/>
+    <title>Warheads Lil Worms Sachet 1.41oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WarheadswormsSachet.jpg?v=1611888664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836801052757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836798791765</id>
+    <published>2021-01-28T18:39:32-08:00</published>
+    <updated>2021-01-28T18:39:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-ooze-chewz-ropes-peg-bag-3oz-12ct"/>
+    <title>Warheads Ooze Chewz Ropes Peg Bag 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WarheadsOozeChewzRopesPegBag.jpg?v=1611887953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836798791765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4776406220885</id>
+    <published>2020-09-23T18:01:00-07:00</published>
+    <updated>2020-09-23T18:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-squeeze-candy-tube-sour-watermelon-2-25oz-12ct"/>
+    <title>Warheads Squeeze Candy Tube Sour Watermelon 2.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Watermelon2.25oz.png?v=1603247838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4776406220885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535329587285</id>
+    <published>2020-02-18T19:51:35-08:00</published>
+    <updated>2020-02-18T19:51:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-all-mixed-up-peg-bag-5oz-12ct"/>
+    <title>Warheads All Mixed Up Peg Bag 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_All_Mixed_Up_Peg_Bag_5oz.jpg?v=1582569592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535329587285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101040439369</id>
+    <published>2019-09-19T11:13:06-07:00</published>
+    <updated>2019-09-19T11:13:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-sour-booms-assorted-flavors-1-75oz-18ct"/>
+    <title>Warheads Sour Booms Assorted Flavors 1.75oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warhead_Sour_Booms_Assorted_Flavors.jpg?v=1579546049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101040439369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106259308617</id>
+    <published>2019-03-06T10:11:01-08:00</published>
+    <updated>2019-03-06T10:11:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-sour-chewy-cubes-2-5oz-15ct"/>
+    <title>Warheads Sour Chewy Cubes 2.5oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Sour_Chewy_Cubes_2.5oz.jpg?v=1579546049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106259308617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870082633</id>
+    <published>2018-11-07T10:51:29-08:00</published>
+    <updated>2018-11-07T10:51:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-chewy-cubes-4oz-12ct"/>
+    <title>Warheads Theater Box Chewy Cubes 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Theater_Box_Chewy_Cubes_4oz.jpg?v=1548401010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870082633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866871369</id>
+    <published>2018-11-07T10:51:03-08:00</published>
+    <updated>2018-11-07T10:51:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-peg-bag-2oz-12ct"/>
+    <title>Warheads Peg Bag 2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Peg_Bag_2oz.jpg?v=1544682814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866871369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866838601</id>
+    <published>2018-11-07T10:51:03-08:00</published>
+    <updated>2018-11-07T10:51:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-sour-twists-4-oz-peg-bag-12ct"/>
+    <title>Warheads Sour Twists 4 Oz Peg Bag 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Sour_Twists_4_Oz_Peg_Bag.jpg?v=1544682810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866838601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866773065</id>
+    <published>2018-11-07T10:51:02-08:00</published>
+    <updated>2018-11-07T10:51:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-peg-bag-sour-pucker-packs-3oz-12ct"/>
+    <title>Warheads Peg Bag Sour Pucker Packs 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Peg_Bag_Sour_Pucker_Packs_3oz.jpg?v=1542486294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pucker</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866773065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865200201</id>
+    <published>2018-11-07T10:50:49-08:00</published>
+    <updated>2018-11-07T10:50:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-sour-jelly-beans-4oz-12ct"/>
+    <title>Warheads Theater Box Sour Jelly Beans 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Theater_Box_Sour_Jelly_Beans_4oz.jpg?v=1544682704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>jelly beans</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865200201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865167433</id>
+    <published>2018-11-07T10:50:48-08:00</published>
+    <updated>2018-11-07T10:50:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-dbl-drops-liquid-1oz-24ct"/>
+    <title>Warheads Double Drops Liquid 1oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Double_Drops_Liquid.jpg?v=1542486290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865167433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865134665</id>
+    <published>2018-11-07T10:50:48-08:00</published>
+    <updated>2018-11-07T10:50:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-sour-twists-3-5oz-12ct"/>
+    <title>Warheads Theater Box Sour Twists 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Theater_Box_Sour_Twists_3.5oz.jpg?v=1544682699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865134665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865036361</id>
+    <published>2018-11-07T10:50:47-08:00</published>
+    <updated>2018-11-07T10:50:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-peg-bag-chewy-cubes-5oz-12ct"/>
+    <title>Warheads Peg Bag Chewy Cubes 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Peg_Bag_Chewy_Cubes_5oz.jpg?v=1544682691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865036361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865003593</id>
+    <published>2018-11-07T10:50:47-08:00</published>
+    <updated>2018-11-07T10:50:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-peg-bag-worms-5oz-12ct"/>
+    <title>Warheads Peg Bag Worms 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Peg_Bag_Worms_5oz.jpg?v=1542486294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865003593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864970825</id>
+    <published>2018-11-07T10:50:46-08:00</published>
+    <updated>2018-11-07T10:50:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-extreme-sour-smash-ups-peg-bag-2oz-12ct"/>
+    <title>Warheads Extreme Sour Smash Ups Peg Bag 2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/warheads_smash_ups_2oz.jpg?v=1579546048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864970825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863496265</id>
+    <published>2018-11-07T10:50:33-08:00</published>
+    <updated>2018-11-07T10:50:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-extreme-sour-hard-candy-minis-1-75oz-18ct"/>
+    <title>Warheads Extreme Sour Hard Candy Minis 1.75oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Extreme_Sour_Hard_Candy_Minis_1.75oz.jpg?v=1544682596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863496265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863463497</id>
+    <published>2018-11-07T10:50:33-08:00</published>
+    <updated>2018-11-07T10:50:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-upright-box-spray-68oz-12ct"/>
+    <title>Warheads Spray .68oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Upright_Box_Spray_.68oz.jpg?v=1544682586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warhaeds</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863463497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863397961</id>
+    <published>2018-11-07T10:50:32-08:00</published>
+    <updated>2018-11-07T10:50:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-worms-4oz-12ct"/>
+    <title>Warheads Theater Box Worms 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Theater_Box_Worms_4oz.jpg?v=1544682581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863397961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863332425</id>
+    <published>2018-11-07T10:50:32-08:00</published>
+    <updated>2018-11-07T10:50:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-display-box-1oz-12ct"/>
+    <title>Warheads Display Box 1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Warheads_Display_Box_1oz.jpg?v=1542486290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863332425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/hi-chew.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-03-17T19:31:21-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6553821511765</id>
+    <published>2021-03-17T19:31:21-07:00</published>
+    <updated>2021-03-17T19:31:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fizzy-ramune-cola-20ct-japan"/>
+    <title>Hi Chew Fizzy Ramune Cola 20ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/4902888245299.png?v=1616034637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cola</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>japan</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6553821511765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971757678665</id>
+    <published>2020-12-16T17:42:53-08:00</published>
+    <updated>2020-12-16T17:42:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-lemon-55-2g-12ct-japan"/>
+    <title>Hi Chew Lemon 55.2g 12ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Lemon_55.2g_12ct_Japan.jpg?v=1555354861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971757678665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4667672199253</id>
+    <published>2020-05-27T15:45:10-07:00</published>
+    <updated>2020-05-27T15:45:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-bag-fruit-combo-3-00oz-6ct"/>
+    <title>Hi Chew Bag Fruit Combos 3.00oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-ChewBagFruitCombo3.00oz.jpg?v=1590619768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4667672199253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535322312789</id>
+    <published>2020-02-18T19:13:30-08:00</published>
+    <updated>2020-02-18T19:13:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-bag-soda-pop-2-82oz-6ct"/>
+    <title>Hi Chew Soda Pop Bag 2.82oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/hi_chew_soda.jpg?v=1582569636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535322312789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535321788501</id>
+    <published>2020-02-18T19:09:43-08:00</published>
+    <updated>2020-02-18T19:09:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-watermelon-1-76oz-15ct"/>
+    <title>Hi Chew Fruit Chews Watermelon Sweet &amp; Sour 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Watermelon_1.76oz.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535321788501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101062557769</id>
+    <published>2019-09-19T12:02:34-07:00</published>
+    <updated>2019-09-19T12:02:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-super-fruit-mix-bag-3-17oz-6ct"/>
+    <title>Hi Chew Super Fruit Mix Bag 3.17oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Super_Fruit_Mix_Bag.jpg?v=1579544917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101062557769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2226989072457</id>
+    <published>2019-08-10T13:42:10-07:00</published>
+    <updated>2019-08-10T13:42:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-kiwi-1-76oz-15ct"/>
+    <title>Hi Chew Fruit Chews Kiwi 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-Chew_Fruit_Chews_Kiwi_1.76oz_72aebbec-2ff3-4698-bfb1-0a91bb3a9e9a.jpg?v=1579544918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>kiwi</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2226989072457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2226988908617</id>
+    <published>2019-08-10T13:41:00-07:00</published>
+    <updated>2019-08-10T13:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-mango-1-76oz-15ct"/>
+    <title>Hi Chew Fruit Chews Mango 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Mango_1.76oz_27befb2b-f544-49e5-afc8-81d7bf2d8e42.jpg?v=1579544916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2226988908617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2226988580937</id>
+    <published>2019-08-10T13:39:57-07:00</published>
+    <updated>2019-08-10T13:39:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-green-apple-1-76oz-15ct"/>
+    <title>Hi Chew Fruit Chews Green Apple 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Green_Apple_1.76oz_4e69b945-fa1e-4d93-a26b-e124b7248ea6.jpg?v=1579544916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2226988580937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2226987925577</id>
+    <published>2019-08-10T13:35:39-07:00</published>
+    <updated>2019-08-10T13:35:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-grape-1-76oz-10ct-1"/>
+    <title>Hi Chew Fruit Chews Grape 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Grape_1.76oz_b1271e3e-e784-4b25-ad99-d0598678a480.jpg?v=1579544915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2226987925577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208764035145</id>
+    <published>2019-07-07T19:39:11-07:00</published>
+    <updated>2019-07-07T19:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-bag-sweet-sour-mix-3-17-oz-6ct"/>
+    <title>Hi Chew Bag Sweet &amp; Sour Mix 3.17 oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-Chew_Bag_Sweet_Sour_Mix.jpg?v=1579544918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208764035145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1971754074185</id>
+    <published>2018-12-12T19:56:12-08:00</published>
+    <updated>2018-12-12T19:56:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-strawberry-55-2g-12ct-japan"/>
+    <title>Hi Chew Strawberry 55.2g 12ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Strawberry_55.2g_12ct_Japan.jpg?v=1555354862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1971754074185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858253385</id>
+    <published>2018-11-07T10:49:51-08:00</published>
+    <updated>2018-11-07T10:49:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-strawberry-1-76oz-10ct"/>
+    <title>Hi Chew Fruit Chews Strawberry 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Strawberry_1.76oz.jpg?v=1564425546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858253385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858220617</id>
+    <published>2018-11-07T10:49:51-08:00</published>
+    <updated>2018-11-07T10:49:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-banana-1-76-oz-10ct"/>
+    <title>Hi Chew Fruit Chews Banana 1.76 oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Banana_1.76_oz.jpg?v=1559588045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858220617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858122313</id>
+    <published>2018-11-07T10:49:50-08:00</published>
+    <updated>2018-11-07T10:49:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-fruit-chews-acai-1-76oz-10ct"/>
+    <title>Hi Chew Fruit Chews Acai 1.76oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi_Chew_Fruit_Chews_Acai_1.76oz.jpg?v=1559588044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acai</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858122313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858056777</id>
+    <published>2018-11-07T10:49:49-08:00</published>
+    <updated>2018-11-07T10:49:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-original-peg-bag-3-53oz-6ct"/>
+    <title>Hi Chew Original Peg bag 3.53oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-Chew_Original_Peg_bag_3.53oz.jpg?v=1544682282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858056777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858024009</id>
+    <published>2018-11-07T10:49:49-08:00</published>
+    <updated>2018-11-07T10:49:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hi-chew-tropical-mix-peg-bag-3-53oz-6ct"/>
+    <title>Hi Chew Tropical Mix Peg bag 3.53oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hi-Chew_Tropical_Mix_Peg_bag_3.53oz.jpg?v=1544682278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hi chew</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858024009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/mike-ike.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-07-19T23:36:46-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6605745487957</id>
+    <published>2021-07-19T23:36:46-07:00</published>
+    <updated>2021-07-19T23:36:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-sour-orange-78oz-24ct"/>
+    <title>Mike &amp; Ike Orange .78oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/49110.png?v=1627079163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605745487957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583897227349</id>
+    <published>2021-05-25T15:23:39-07:00</published>
+    <updated>2021-05-25T15:23:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-sour-watermelon-78oz-24ct"/>
+    <title>Mike &amp; Ike Sour Watermelon .78oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mike.jpg?v=1621981248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583897227349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995337813</id>
+    <published>2021-04-18T21:27:40-07:00</published>
+    <updated>2021-04-18T21:27:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-root-beer-float-5oz-12ct-1"/>
+    <title>Mike &amp; Ike Theater Box Root Beer Float 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_IkeTheaterBoxRootBeerFloat_d57ed5ca-31e7-412d-9517-5fdb625476d7.jpg?v=1618806399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995337813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995173973</id>
+    <published>2021-04-18T21:25:34-07:00</published>
+    <updated>2021-04-18T21:25:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-mike-ike-theater-box-cotton-candy-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Cotton Candy 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_IkeTheaterBoxCottonCandyLE5oz_b2627d32-b941-4228-b098-afc629c1acf3.jpg?v=1618806258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995173973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820860514377</id>
+    <published>2021-04-01T22:27:33-07:00</published>
+    <updated>2021-04-01T22:27:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-jolly-joes-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Jolly Joes 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Jolly_Joes.jpg?v=1542484515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>jolly joes</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820860514377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550004269141</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-sour-mega-mix-bulk-2-04kg-4-5lb-1ct"/>
+    <title>Mike &amp; Ike Sour Mega Mix Bulk 2.04kg (4.5lb) 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/49722.jpg?v=1615515230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550004269141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035682771017</id>
+    <published>2021-02-21T19:30:42-08:00</published>
+    <updated>2021-02-21T19:30:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hot-tamales-bulk-bag-2-04kg-1ct"/>
+    <title>Hot Tamales Bulk Bag 2.04kg (4.5lb) 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hot_Tamales_Bulk_Bag_2.04kg.jpg?v=1579544919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>hot tamales</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035682771017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4822258122837</id>
+    <published>2020-12-16T16:50:14-08:00</published>
+    <updated>2020-12-16T16:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-mega-mix-bulk-2-04kg-4-5lb-1ct"/>
+    <title>Mike &amp; Ike Mega Mix Bulk 2.04kg (4.5lb) 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/467734.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4822258122837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864905289</id>
+    <published>2020-12-16T16:50:14-08:00</published>
+    <updated>2020-12-16T16:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-redrageous-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Redrageous 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Redrageous.jpg?v=1542484516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>redrageous</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864905289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864774217</id>
+    <published>2020-12-16T16:50:14-08:00</published>
+    <updated>2020-12-16T16:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-tropical-typhoon-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Tropical Typhoon 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Tropical_Typhoon.jpg?v=1542484516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>typhoon</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864774217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864708681</id>
+    <published>2020-12-16T16:50:13-08:00</published>
+    <updated>2020-12-16T16:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-berry-blast-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Berry Blast  5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Berry_Blast.jpg?v=1544682682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864708681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035684573257</id>
+    <published>2019-01-27T12:28:55-08:00</published>
+    <updated>2019-01-27T12:28:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-bulk-bag-2-04kg-1ct"/>
+    <title>Mike &amp; Ike Original Bulk Bag 2.04kg (4.5lb) 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Bulk_Bag.jpg?v=1579547055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035684573257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015147081</id>
+    <published>2019-01-24T16:09:42-08:00</published>
+    <updated>2019-01-24T16:09:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-mega-mix-sour-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Mega Mix Sour 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Mega_Mix_Sour_5oz.jpg?v=1579547057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015147081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864839753</id>
+    <published>2018-11-07T10:50:45-08:00</published>
+    <updated>2018-11-07T10:50:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-original-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Original 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Original.jpg?v=1542484516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864839753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820860743753</id>
+    <published>2018-11-07T10:50:11-08:00</published>
+    <updated>2018-11-07T10:50:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-mega-mix-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Mega Mix 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Mega_Mix.jpg?v=1544682430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mega mix</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820860743753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

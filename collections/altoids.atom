@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/altoids.atom"/>
+  <title>candynow.ca</title>
+  <updated>2019-10-04T13:05:19-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4169207742537</id>
+    <published>2019-10-04T13:05:19-07:00</published>
+    <updated>2019-10-04T13:05:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-small-wintergreen-10-5g-9ct"/>
+    <title>Altoids Small Wintergreen 10.5g 9ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Small_Wintergreen.jpg?v=1572652780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4169207742537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4169206333513</id>
+    <published>2019-10-04T13:00:42-07:00</published>
+    <updated>2019-10-04T13:00:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-small-peppermint-10-5g-9ct"/>
+    <title>Altoids Small Peppermint 10.5g 9ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Small_Peppermint.jpg?v=1572652769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4169206333513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456361033</id>
+    <published>2018-12-05T17:50:30-08:00</published>
+    <updated>2018-12-05T17:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-wintergreen-6-x-50g"/>
+    <title>Altoids Wintergreen 50g 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Wintergreen_50g.jpg?v=1555352874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>wintergreen</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456361033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456328265</id>
+    <published>2018-12-05T17:50:30-08:00</published>
+    <updated>2018-12-05T17:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-spearmint-6-x-50g"/>
+    <title>Altoids Spearmint 50g 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Spearmint_50g.jpg?v=1555352874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>spearmint</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456328265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456295497</id>
+    <published>2018-12-05T17:50:30-08:00</published>
+    <updated>2018-12-05T17:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-small-cinnamon-9-x-10-5g"/>
+    <title>Altoids Small Cinnamon 10.5g 9ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Small_Cinnamon_10.5g.jpg?v=1555352873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456295497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456262729</id>
+    <published>2018-12-05T17:50:29-08:00</published>
+    <updated>2018-12-05T17:50:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-peppermint-6-x-50g"/>
+    <title>Altoids Peppermint 50g 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Peppermint_50g.jpg?v=1555352873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456262729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456229961</id>
+    <published>2018-12-05T17:50:29-08:00</published>
+    <updated>2018-12-05T17:50:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-cinnamon-6-x-50g"/>
+    <title>Altoids Cinnamon 50g 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Cinnamon_50g.jpg?v=1555352872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456229961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456197193</id>
+    <published>2018-12-05T17:50:28-08:00</published>
+    <updated>2018-12-05T17:50:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-arctic-wintergreen-tins-8-x-34g"/>
+    <title>Altoids Arctic Wintergreen 34g 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Arctic_Wintergreen_34g_310745f3-0426-442d-852c-be97a9720078.jpg?v=1555352872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>wintergreen</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456197193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958456164425</id>
+    <published>2018-12-05T17:50:28-08:00</published>
+    <updated>2018-12-05T17:50:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/altoids-arctic-peppermint-tins-8-x-34g"/>
+    <title>Altoids Arctic Peppermint 34g 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Altoids_Arctic_Peppermint_34g.jpg?v=1555352871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altoids</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958456164425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

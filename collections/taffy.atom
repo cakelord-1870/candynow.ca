@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/taffy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-04-01T22:35:15-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6562843820117</id>
+    <published>2021-04-01T22:35:15-07:00</published>
+    <updated>2021-04-01T22:35:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccraws-assorted-old-fashion-flat-taffy-21g-24ct"/>
+    <title>McCraw&apos;s Assorted Old Fashion Flat Taffy 21g 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/McCraw_sAssortedOldFashionFlatTaffy.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562843820117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843713364053</id>
+    <published>2021-02-22T16:35:31-08:00</published>
+    <updated>2021-02-22T16:35:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mccraws-neapolitan-giant-taffy-21g-24ct"/>
+    <title>McCraw&apos;s Neapolitan Old Fashion Flat Taffy 21g 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/downloadtaffy.jpg?v=1614040477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843713364053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836817862741</id>
+    <published>2021-01-28T19:59:14-08:00</published>
+    <updated>2021-01-28T19:59:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-laff-bites-banana-peg-bag-4-2oz-12ct"/>
+    <title>Laffy Taffy Laff Bites Banana Peg Bag 4.2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LaffyTaffyLaffBitesBanana.jpg?v=1611892738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836817862741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4742949601365</id>
+    <published>2020-08-06T12:16:50-07:00</published>
+    <updated>2020-08-06T12:16:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-abba-zaba-mystery-flavor-1-25oz-24ct"/>
+    <title>Abba Zaba Mystery Flavor 1.25oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AnnabelleAbba-ZabaMysteryFlavor.png?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abba zaba</s:tag>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4742949601365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565842329685</id>
+    <published>2020-03-17T14:10:58-07:00</published>
+    <updated>2020-03-17T14:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-peg-bag-6-oz-12ct-1"/>
+    <title>Laffy Taffy Peg Bag 6 oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Peg_Bag_6_oz_271dc3a6-0bca-4089-b0a3-c8088e18d212.jpg?v=1584988917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565842329685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535324213333</id>
+    <published>2020-02-18T19:26:29-08:00</published>
+    <updated>2020-02-18T19:26:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-laff-bites-2-0oz-24ct"/>
+    <title>Laffy Taffy Laff Bites 2.0oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Laff_Bites_2.0oz.jpg?v=1582570588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535324213333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535301701717</id>
+    <published>2020-02-18T18:19:08-08:00</published>
+    <updated>2020-02-18T18:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-laff-bites-peg-bag-4-2oz-12ct"/>
+    <title>Laffy Taffy Laff Bites Peg Bag 4.2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Laff_Bites_Peg_Bag_4.2oz.jpg?v=1582570588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535301701717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208800899145</id>
+    <published>2019-07-07T20:23:09-07:00</published>
+    <updated>2019-07-07T20:23:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-theater-box-3-3oz-12ct"/>
+    <title>Airheads Theater Box 3.3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Theater_Box.jpg?v=1563134305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208800899145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106258948169</id>
+    <published>2019-03-06T10:10:56-08:00</published>
+    <updated>2019-03-06T10:10:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-assorted-rope-tub-48ct"/>
+    <title>Laffy Taffy Assorted Rope Tub 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Assorted_Rope_Tub.jpg?v=1579546485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258948169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015900745</id>
+    <published>2019-01-24T16:09:50-08:00</published>
+    <updated>2019-01-24T16:09:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/annabelle-abba-zaba-2oz-24ct"/>
+    <title>Abba Zaba 2oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Annabelle_Abba_Zaba_2oz_24ct.jpg?v=1555352828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abba zaba</s:tag>
+    <s:tag>annabelle</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015900745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014360649</id>
+    <published>2019-01-24T16:09:33-08:00</published>
+    <updated>2019-01-24T16:09:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bit-o-honey-jar-190ct"/>
+    <title>Bit-O-Honey Jar 190ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Bit-O-Honey_Jar_190ct.jpg?v=1555352886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bit-o-honey</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>honey</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014360649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013869129</id>
+    <published>2019-01-24T16:09:28-08:00</published>
+    <updated>2019-01-24T16:09:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sugar-daddy-1-7oz-24ct"/>
+    <title>Sugar Daddy 1.7oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sugar_Daddy_1.7oz_24ct.jpg?v=1579545429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>sugar daddy</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>tootsie</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013869129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870049865</id>
+    <published>2018-11-07T10:51:29-08:00</published>
+    <updated>2018-11-07T10:51:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-orange-55oz-36ct"/>
+    <title>Airheads Singles Orange .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Orange.jpg?v=1542484409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870049865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820869820489</id>
+    <published>2018-11-07T10:51:27-08:00</published>
+    <updated>2018-11-07T10:51:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-strawberry-55oz-36ct"/>
+    <title>Airheads Singles Strawberry .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Strawberry.jpg?v=1542484409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820869820489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868902985</id>
+    <published>2018-11-07T10:51:20-08:00</published>
+    <updated>2018-11-07T10:51:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-banana-24ct"/>
+    <title>Laffy Taffy Banana 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Banana.png?v=1548400925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868902985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868870217</id>
+    <published>2018-11-07T10:51:20-08:00</published>
+    <updated>2018-11-07T10:51:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-big-bar-strawberry-watermelon-1-5oz-24ct"/>
+    <title>Airheads Big Bar Strawberry/Watermelon 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Big_Bar_Strawberry_Watermelon_1.5oz.jpg?v=1542484405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868870217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868837449</id>
+    <published>2018-11-07T10:51:19-08:00</published>
+    <updated>2018-11-07T10:51:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-white-mystery-55oz-36ct"/>
+    <title>Airheads Singles White Mystery .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_White_Mystery.jpg?v=1542484410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>mystery</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868837449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868280393</id>
+    <published>2018-11-07T10:51:15-08:00</published>
+    <updated>2018-11-07T10:51:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-cherry-24ct"/>
+    <title>Laffy Taffy Cherry 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Cherry.jpg?v=1544682885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868280393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868247625</id>
+    <published>2018-11-07T10:51:14-08:00</published>
+    <updated>2018-11-07T10:51:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-cherry-55oz-36ct"/>
+    <title>Airheads Singles Cherry .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Cherry.jpg?v=1542484408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868247625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867788873</id>
+    <published>2018-11-07T10:51:11-08:00</published>
+    <updated>2018-11-07T10:51:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-grape-1-5oz-24ct"/>
+    <title>Laffy Taffy Grape 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Grape.jpg?v=1544682867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867788873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867690569</id>
+    <published>2018-11-07T10:51:11-08:00</published>
+    <updated>2018-11-07T10:51:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-peg-dulceria-guava-pineapple-3-05oz-12ct"/>
+    <title>Laffy Taffy Tropical Guava Pineapple Peg Bag 3.05oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/laffy_taffy_tropical.jpg?v=1579546486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>guava</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pineapple</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867690569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.37</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867625033</id>
+    <published>2018-11-07T10:51:10-08:00</published>
+    <updated>2018-11-07T10:51:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-strawberry-24ct"/>
+    <title>Laffy Taffy Strawberry 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Strawberry.jpg?v=1544682859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867625033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867592265</id>
+    <published>2018-11-07T10:51:10-08:00</published>
+    <updated>2018-11-07T10:51:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-watermelon-1-5oz-24ct"/>
+    <title>Laffy Taffy Watermelon 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Watermelon.jpg?v=1544682854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867592265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866052169</id>
+    <published>2018-11-07T10:50:55-08:00</published>
+    <updated>2018-11-07T10:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-big-bar-blue-rasp-cherry-1-5oz-24ct"/>
+    <title>Airheads Big Bar Blue Rasp/Cherry 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Big_Bar_Blue_Rasp_Cherry_1.5oz.jpg?v=1544682748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866052169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865921097</id>
+    <published>2018-11-07T10:50:55-08:00</published>
+    <updated>2018-11-07T10:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-watermelon-55oz-36ct"/>
+    <title>Airheads Singles Watermelon .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Watermelon.jpg?v=1542484410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865921097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

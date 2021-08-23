@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/hersheys.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-04T22:02:22-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6609926914133</id>
+    <published>2021-08-04T22:02:22-07:00</published>
+    <updated>2021-08-04T22:02:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kit-kat-fruity-cereal-1-5oz-24ct"/>
+    <title>Kit Kat Fruity Cereal 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/31874.jpg?v=1628139732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>kit kat</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609926914133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583927504981</id>
+    <published>2021-05-25T18:32:14-07:00</published>
+    <updated>2021-05-25T18:32:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-dark-chocolate-dipped-pretzels-pouch-8-5oz-6ct"/>
+    <title>Reese&apos;s Dark Chocolate Dipped Pretzels Pouch 8.5oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/44440.jpg?v=1621992714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583927504981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.61</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2137833504841</id>
+    <published>2021-05-25T18:29:41-07:00</published>
+    <updated>2021-05-25T18:29:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-cookies-n-creme-dipped-pretzels-pouch-8-5oz-6ct"/>
+    <title>Hershey&apos;s Cookies N Creme Dipped Pretzels Pouch 8.5oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_s_Cookies_N_Creme_Dipped_Pretzels_Pouch_8.5oz.jpg?v=1555354850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2137833504841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.61</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032017670217</id>
+    <published>2021-05-25T18:29:02-07:00</published>
+    <updated>2021-05-25T18:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-milk-chocolate-dipped-pretzels-pouch-8-5oz-6ct"/>
+    <title>Hershey&apos;s Milk Chocolate Dipped Pretzels Pouch 8.5oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_s_Milk_Chocolate_Dipped_Pretzels_Pouch_8.5oz.jpg?v=1555354854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032017670217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.61</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583926554709</id>
+    <published>2021-05-25T18:27:36-07:00</published>
+    <updated>2021-05-25T18:27:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-crunchy-peanut-bar-king-size-3-2oz-18ct"/>
+    <title>Reese&apos;s Crunchy Peanut Bar King Size 3.2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22901.jpg?v=1621992384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583926554709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2137823739977</id>
+    <published>2021-05-25T18:18:04-07:00</published>
+    <updated>2021-05-25T18:18:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-dipped-pretzels-pouch-8-5oz-6ct"/>
+    <title>Reese&apos;s Dipped Pretzels Pouch 8.5oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Dipped_Pretzels_Pouch_8.5oz.jpg?v=1579545385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2137823739977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.61</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574817280085</id>
+    <published>2021-04-29T23:01:55-07:00</published>
+    <updated>2021-04-29T23:01:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kit-kat-key-lime-1-5oz-24ct"/>
+    <title>Kit Kat Key Lime 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/40292.jpg?v=1619762490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>kit kat</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574817280085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562839986261</id>
+    <published>2021-04-01T22:28:32-07:00</published>
+    <updated>2021-04-01T22:28:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-white-creme-with-almonds-1-45oz-36ct"/>
+    <title>Hershey&apos;s White Creme With Almonds 1.45oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/24132.jpg?v=1617338805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562839986261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562839101525</id>
+    <published>2021-04-01T22:28:31-07:00</published>
+    <updated>2021-04-01T22:28:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-kisses-straw-ice-cream-cone-9oz-8ct"/>
+    <title>Hershey&apos;s Kisses Strawberry Ice Cream Cone 9oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/939771.jpg?v=1617338477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562839101525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562839035989</id>
+    <published>2021-04-01T22:28:31-07:00</published>
+    <updated>2021-04-01T22:28:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-hersheys-organic-milk-chocolate-bar-1-55oz-12ct"/>
+    <title>Hershey&apos;s Organic Milk Chocolate Bar 1.55oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93858.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562839035989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562838839381</id>
+    <published>2021-04-01T22:28:31-07:00</published>
+    <updated>2021-04-01T22:28:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-organic-dark-chocolate-bar-1-55oz-12ct"/>
+    <title>Hershey&apos;s Organic Dark Chocolate Bar 1.55oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93861.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562838839381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562838347861</id>
+    <published>2021-04-01T22:28:30-07:00</published>
+    <updated>2021-04-01T22:28:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-white-creme-with-almonds-king-size-2-60oz-18ct"/>
+    <title>Hershey&apos;s White Creme With Almonds King Size 2.60oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22104.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562838347861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562837790805</id>
+    <published>2021-04-01T22:28:30-07:00</published>
+    <updated>2021-04-01T22:28:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-ultimate-peanut-butter-lovers-king-size-2-8oz-24ct"/>
+    <title>Reese&apos;s Ultimate Peanut Butter Lovers King Size 2.8oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93893.jpg?v=1617337184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562837790805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562836774997</id>
+    <published>2021-04-01T22:28:29-07:00</published>
+    <updated>2021-04-01T22:28:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-ultimate-peanut-butter-lovers-1-50oz-24ct"/>
+    <title>Reese&apos;s Ultimate Peanut Butter Lovers 1.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/reeseult.jpg?v=1617336869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562836774997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728585289813</id>
+    <published>2021-04-01T21:21:27-07:00</published>
+    <updated>2021-04-01T21:21:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-peanut-butter-lovers-king-size-2-8oz-24ct"/>
+    <title>Reese&apos;s Peanut Butter Lovers King Size 2.8oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sCPeanutButterLoversKingSize.png?v=1594797474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728585289813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2171027456073</id>
+    <published>2021-03-12T08:42:39-08:00</published>
+    <updated>2021-03-12T08:42:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/twizzlers-orange-cream-pop-twists-11oz-12ct"/>
+    <title>Twizzlers Orange Cream Pop Twists 11oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Twizzlers_Orange_Cream_Pop_Twists_11oz.jpg?v=1579545465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>twizzlers</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2171027456073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550041296981</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-kisses-birthday-cake-white-with-sprinkle-pouch-10oz-8ct"/>
+    <title>Hershey&apos;s Kisses Birthday Cake White with Sprinkle Pouch 10oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93921.jpg?v=1615521597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550041296981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550041067605</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-york-patties-peppermint-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s York Peppermint Patties Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sYorkPeppermintPattiesZeroSugar.jpg?v=1615521480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550041067605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550038184021</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-milk-chocolate-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s Milk Chocolate Candy Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93837.jpg?v=1615521299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550038184021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550034448469</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-special-dark-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s Special Dark Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sZeroSugarSpecialDark.jpg?v=1615521145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550034448469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550027927637</id>
+    <published>2021-03-11T20:10:31-08:00</published>
+    <updated>2021-03-11T20:10:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-whozeewhatzit-king-size-2-60oz-18ct"/>
+    <title>Hershey&apos;s Whozeewhatzit King Size 2.60oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/44379.jpg?v=1615520910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>whatchamacallit</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550027927637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550019506261</id>
+    <published>2021-03-11T20:10:31-08:00</published>
+    <updated>2021-03-11T20:10:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-whozeewhatzit-1-70oz-12-36ct36ct"/>
+    <title>Hershey&apos;s Whozeewhatzit 1.70oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/44378.jpg?v=1615520676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>whatchamacallit</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550019506261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550018031701</id>
+    <published>2021-03-11T20:10:31-08:00</published>
+    <updated>2021-03-11T20:10:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-dark-organic-peanut-butter-cup-1-4oz-12ct"/>
+    <title>Reese&apos;s Dark Organic Peanut Butter Cup 1.4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93866.jpg?v=1615519245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550018031701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550017671253</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-organic-peanut-butter-cup-1-4oz-12ct"/>
+    <title>Reese&apos;s Organic Peanut Butter Cup 1.4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sOrganicPeanutButter.jpg?v=1615522521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550017671253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550017441877</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-mini-cups-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Reese&apos;s Mini Cups Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sZeroSugarReese.jpg?v=1615518648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550017441877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

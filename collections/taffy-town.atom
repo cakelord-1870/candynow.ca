@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/taffy-town.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-10T22:39:01-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6589939351637</id>
+    <published>2021-06-10T22:39:01-07:00</published>
+    <updated>2021-06-10T22:39:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-taffy-lite-assorted-sugar-free-salt-water-taffy-bag-141g-12ct"/>
+    <title>Taffy Town Taffy Lite Assorted Sugar Free Salt Water Taffy Bag 113g 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CT00310.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6589939351637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6589937549397</id>
+    <published>2021-06-10T22:31:18-07:00</published>
+    <updated>2021-06-10T22:31:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-assorted-sugar-free-salt-water-taffy-5lb-1ct"/>
+    <title>Taffy Town Assorted Sugar Free Salt Water Taffy 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/811-asst-lite-1_400x_9584840d-4747-4a90-b6c7-de7977903747.png?v=1623389109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6589937549397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812017991765</id>
+    <published>2021-02-09T18:34:20-08:00</published>
+    <updated>2021-02-09T18:34:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-assorted-salt-water-taffy-gift-box-14oz-1ct"/>
+    <title>Taffy Town Assorted Salt Water Taffy Gift Box 14oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/901-14-oz-gift-box-1.png?v=1606185297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812017991765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811994562645</id>
+    <published>2020-11-23T18:44:43-08:00</published>
+    <updated>2020-11-23T18:44:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-banana-cream-pie-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Banana Cream Pie Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BananaCreamPie.png?v=1606178665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811994562645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811994300501</id>
+    <published>2020-11-23T18:44:43-08:00</published>
+    <updated>2020-11-23T18:44:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-apple-pie-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Apple Pie Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TaffyTownApplePie.png?v=1606178556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811994300501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811995152469</id>
+    <published>2020-11-23T18:44:42-08:00</published>
+    <updated>2020-11-23T18:44:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-banana-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Banana Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/417-banana.png?v=1606178829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811995152469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811994955861</id>
+    <published>2020-11-23T18:44:42-08:00</published>
+    <updated>2020-11-23T18:44:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-banana-split-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Banana Split Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/502-banana-split.png?v=1606178749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811994955861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811995971669</id>
+    <published>2020-11-23T18:44:41-08:00</published>
+    <updated>2020-11-23T18:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-bubble-gum-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Bubble Gum Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/463-bubble-gum.png?v=1606179088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811995971669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811995676757</id>
+    <published>2020-11-23T18:44:41-08:00</published>
+    <updated>2020-11-23T18:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-blueberry-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Blueberry Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/488-blueberry.png?v=1606178968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811995676757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811995447381</id>
+    <published>2020-11-23T18:44:41-08:00</published>
+    <updated>2020-11-23T18:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-blueberry-muffin-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Blueberry Muffin Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/476-blueberry-muffin.png?v=1606178900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811995447381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811997282389</id>
+    <published>2020-11-23T18:44:40-08:00</published>
+    <updated>2020-11-23T18:44:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-candy-apple-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Candy Apple Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CandyApple.png?v=1606179367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811997282389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811996987477</id>
+    <published>2020-11-23T18:44:40-08:00</published>
+    <updated>2020-11-23T18:44:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-buttered-popcorn-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Buttered Popcorn Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/450-buttered-popcorn.png?v=1606179288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811996987477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811996561493</id>
+    <published>2020-11-23T18:44:40-08:00</published>
+    <updated>2020-11-23T18:44:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-buckeye-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Buckeye Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/607-Buckeye-NEW.png?v=1606179205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Taffy Town’s </span><strong data-mce-fragment="1">BUCKEYE</strong><span data-mce-fragment="1"> taffy gives you a delightful bite of milky chocolate wrapped around a soft, creamy peanut butter center.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811996561493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811997610069</id>
+    <published>2020-11-23T18:44:39-08:00</published>
+    <updated>2020-11-23T18:44:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-candy-bar-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Candy Bar Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/405-candy-bar-NEW.png?v=1606179426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Taffy Town’s </span><strong data-mce-fragment="1">CANDY BAR</strong><span data-mce-fragment="1"> taffy gives you a delightful bite of milky chocolate wrapped around a soft, caramel with a creamy peanut butter center. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811997610069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811998068821</id>
+    <published>2020-11-23T18:44:38-08:00</published>
+    <updated>2020-11-23T18:44:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-candy-corn-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Candy Corn Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/460-Candy-corn.png?v=1606179550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811998068821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811998953557</id>
+    <published>2020-11-23T18:44:37-08:00</published>
+    <updated>2020-11-23T18:44:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-caramel-cheesecake-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Caramel Cheesecake Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/468-caramel-cheesecake.png?v=1606179767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811998953557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811998330965</id>
+    <published>2020-11-23T18:44:37-08:00</published>
+    <updated>2020-11-23T18:44:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-cantaloupe-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Cantaloupe Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CT00485.png?v=1606179636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811998330965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811999641685</id>
+    <published>2020-11-23T18:44:36-08:00</published>
+    <updated>2020-11-23T18:44:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-caramel-swirls-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Caramel Swirl Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/415-caramel-swirls.png?v=1606179969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811999641685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4811999346773</id>
+    <published>2020-11-23T18:44:36-08:00</published>
+    <updated>2020-11-23T18:44:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-caramel-corn-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Caramel Corn Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/449-caramel-corn.png?v=1606179857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4811999346773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812001116245</id>
+    <published>2020-11-23T18:44:35-08:00</published>
+    <updated>2020-11-23T18:44:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-cherry-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Cherry Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/418-cherry.png?v=1606180171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812001116245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812000198741</id>
+    <published>2020-11-23T18:44:35-08:00</published>
+    <updated>2020-11-23T18:44:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-cherry-cola-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Cherry Cola Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/479-cherry-cola-1.png?v=1606180060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812000198741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812001738837</id>
+    <published>2020-11-23T18:44:34-08:00</published>
+    <updated>2020-11-23T18:44:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-chili-mango-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Chili Mango Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/462-chili-mango.png?v=1606180308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812001738837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812001542229</id>
+    <published>2020-11-23T18:44:34-08:00</published>
+    <updated>2020-11-23T18:44:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-chicken-waffles-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Chicken &amp; Waffles Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/487-chick-n-waff.png?v=1606180246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812001542229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812002525269</id>
+    <published>2020-11-23T18:44:33-08:00</published>
+    <updated>2020-11-23T18:44:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-chocolate-chip-cookie-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Chocolate Chip Cookie Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/444-Chocolate-Chip-Cookie.png?v=1606180407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812002525269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4812002197589</id>
+    <published>2020-11-23T18:44:33-08:00</published>
+    <updated>2020-11-23T18:44:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/taffy-town-chocolate-caramel-mocha-salt-water-taffy-2-5lb-1ct"/>
+    <title>Taffy Town Chocolate Caramel Mocha Salt Water Taffy 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/458-chocolate-caramel-mocha.png?v=1606180354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>salt water taffy</s:tag>
+    <s:tag>taffy town</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4812002197589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

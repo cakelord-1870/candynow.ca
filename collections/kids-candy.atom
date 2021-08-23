@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/kids-candy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-30T20:02:49-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/1820856942665</id>
+    <published>2021-05-30T20:02:49-07:00</published>
+    <updated>2021-05-30T20:02:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-shark-attack-0-25oz-12ct"/>
+    <title>Kidsmania Shark Attack 0.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Shark_Attack.jpg?v=1542484495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820856942665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6540981174357</id>
+    <published>2021-03-01T18:50:44-08:00</published>
+    <updated>2021-03-01T18:50:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/paw-patrol-chocolate-surprise-egg-20g-24ct-europe"/>
+    <title>Paw Patrol Chocolate Surprise Egg 20g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22138.jpg?v=1614830028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>surprise</s:tag>
+    <s:tag>toy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6540981174357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6540980158549</id>
+    <published>2021-03-01T18:44:26-08:00</published>
+    <updated>2021-03-01T18:44:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/barbie-chocolate-surprise-egg-20g-24ct-europe"/>
+    <title>Barbie Chocolate Surprise Egg 20g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gunz-BarbieChocoSurpriseEgg.jpg?v=1614830028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>surprise</s:tag>
+    <s:tag>toy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6540980158549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843155652693</id>
+    <published>2021-02-19T16:22:10-08:00</published>
+    <updated>2021-02-19T16:22:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-mr-squeezy-pop-squeeze-n-lik-1-9oz-12ct"/>
+    <title>Koko&apos;s Mr Squeezy Pop Squeeze-N-Lik 1.9oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sMrSqueezyPopSqueeze-N-Lik.jpg?v=1614830029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843155652693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843155357781</id>
+    <published>2021-02-19T16:19:29-08:00</published>
+    <updated>2021-02-19T16:19:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-alien-twist-n-lik-candy-0-88oz-12ct"/>
+    <title>Koko&apos;s Alien Twist-N-Lik Candy 0.88oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sAlienTwist-N-LikCandy.jpg?v=1613780342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843155357781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843155062869</id>
+    <published>2021-02-19T16:16:36-08:00</published>
+    <updated>2021-02-19T16:16:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-pull-back-spaceship-lolli-53oz-12ct"/>
+    <title>Koko&apos;s Pull-Back Spaceship Lolli .53oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sPull-BackSpaceshipLolli.53oz.jpg?v=1614830029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843155062869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843154604117</id>
+    <published>2021-02-19T16:13:42-08:00</published>
+    <updated>2021-02-19T16:13:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-dip-n-lik-crazy-bird-0-95oz-12ct"/>
+    <title>Koko&apos;s Dip-N-Lik Crazy Bird 0.95oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sDip-N-LikCrazyBird.jpg?v=1613779852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843154604117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836825989205</id>
+    <published>2021-01-28T21:07:17-08:00</published>
+    <updated>2021-01-28T21:07:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/finders-keepers-hot-wheels-surprise-chocolate-1-3oz-6ct"/>
+    <title>Finders Keepers Hot Wheels Surprise Chocolate 1.3oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/960165020.png?v=1611898237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836825989205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836825595989</id>
+    <published>2021-01-28T21:03:54-08:00</published>
+    <updated>2021-01-28T21:03:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/finders-keepers-sponge-bob-squarepants-surprise-1-3oz-6ct"/>
+    <title>Finders Keepers Sponge Bob Squarepants Surprise Chocolate 1.3oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/960139020.png?v=1611896634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>sponge bob</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836825595989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836817535061</id>
+    <published>2021-01-28T19:55:48-08:00</published>
+    <updated>2021-01-28T19:55:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/zoo-skinz-with-smarties-12ct"/>
+    <title>Zoo Skinz with Smarties 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Zoo.jpg?v=1611892545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bee</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836817535061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836816912469</id>
+    <published>2021-01-28T19:54:51-08:00</published>
+    <updated>2021-01-28T19:54:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sea-skinz-with-smarties-12ct"/>
+    <title>Sea Skinz with Smarties 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/3056.jpg?v=1611898237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bee</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836816912469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836816158805</id>
+    <published>2021-01-28T19:51:51-08:00</published>
+    <updated>2021-01-28T19:51:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/farm-skinz-with-smarties-12ct"/>
+    <title>Farm Skinz with Smarties 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/3052.jpg?v=1611892305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bee</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836816158805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836815175765</id>
+    <published>2021-01-28T19:49:28-08:00</published>
+    <updated>2021-01-28T19:49:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dino-skinz-with-smarties-12ct"/>
+    <title>Dino Skinz with Smarties 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BeeDinoSkinz.jpg?v=1611892328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bee</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836815175765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827917910101</id>
+    <published>2021-01-01T12:48:37-08:00</published>
+    <updated>2021-01-01T12:48:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-thumb-shotz-39oz-12ct"/>
+    <title>Kidsmania Thumb Shotz .39oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KidsmaniaThumbShotz.39oz.jpg?v=1609569419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827917910101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728483479637</id>
+    <published>2020-07-14T20:23:17-07:00</published>
+    <updated>2020-07-14T20:23:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-unicorn-duo-12ct"/>
+    <title>Kidsmania Unicorn Doo 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KidsmaniaUnicornDuo12ct.png?v=1596760151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728483479637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728478564437</id>
+    <published>2020-07-14T20:16:28-07:00</published>
+    <updated>2020-07-14T20:16:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-mad-science-mini-chews-2-82-oz-12ct"/>
+    <title>Kidsmania Mad Science Mini Chews 2.82 oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/kidsmanialab.jpg?v=1594783321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728478564437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566044966997</id>
+    <published>2020-03-17T18:13:36-07:00</published>
+    <updated>2020-03-17T18:13:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-cone-zone-road-truck-12ct"/>
+    <title>Kidsmania Cone Zone Road Truck 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KidsmaniaConeZoneRoadTruck.jpg?v=1584988916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566044966997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565870149717</id>
+    <published>2020-03-17T14:41:51-07:00</published>
+    <updated>2020-03-17T14:41:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-flash-poop-0-39oz-12ct"/>
+    <title>Kidsmania Flash Poop 0.39oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KidsmaniaFlashPoop0.39oz.jpg?v=1584988917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565870149717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475590705237</id>
+    <published>2019-12-31T19:14:08-08:00</published>
+    <updated>2019-12-31T19:14:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-punchy-monkey-46oz-12ct"/>
+    <title>Kidsmania Punchy Monkey .46oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Punchy_Monkey.jpg?v=1579546451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475590705237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227068731465</id>
+    <published>2019-08-10T21:17:08-07:00</published>
+    <updated>2019-08-10T21:17:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-pooplets-0-53oz-12ct"/>
+    <title>Kidsmania Pooplets 0.53oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Pooplets_7d2d2796-07dd-43d3-b106-fb2666cb2a48.jpg?v=1579546450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227068731465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227065258057</id>
+    <published>2019-08-10T20:57:12-07:00</published>
+    <updated>2019-08-10T20:57:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-garfield-headbutt-0-60oz-12ct"/>
+    <title>Kidsmania Garfield Headbutt 0.60oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Garfield_Head_Butt.jpg?v=1579546449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>garfield</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227065258057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208797851721</id>
+    <published>2019-07-07T20:14:08-07:00</published>
+    <updated>2019-07-07T20:14:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-pack-toy-story-asstorted-87oz-12ct"/>
+    <title>Pez Blister Pack Toy Story Asstorted .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pez_Blister_Pack_Toy_Story_Asstorted.jpg?v=1579547123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208797851721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870737993</id>
+    <published>2018-11-07T10:51:34-08:00</published>
+    <updated>2018-11-07T10:51:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-sour-blast-candy-spray-2-oz-12ct"/>
+    <title>Kidsmania Sour Blast Candy Spray 2 oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Sour_Blast_Candy_Spray_2_oz.jpg?v=1542484498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870737993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870606921</id>
+    <published>2018-11-07T10:51:33-08:00</published>
+    <updated>2018-11-07T10:51:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-gator-chomp-lollipop-12ct"/>
+    <title>Kidsmania Gator Chomp lollipop 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Gator_Chomp_lollipop.jpg?v=1548401055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870606921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870541385</id>
+    <published>2018-11-07T10:51:33-08:00</published>
+    <updated>2018-11-07T10:51:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kidsmania-icu-cyclops-monster-3-35oz-12ct"/>
+    <title>Kidsmania Icu Cyclops Monster 3.35oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kidsmania_Icu_Cyclops_Monster.jpg?v=1542484490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>jawbreaker</s:tag>
+    <s:tag>kidsmania</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870541385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/mentos.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-25T19:05:29-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6595149201493</id>
+    <published>2021-06-25T19:05:29-07:00</published>
+    <updated>2021-06-25T19:05:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-chocolate-mints-rolls-38g-24ct-europe"/>
+    <title>Mentos Chocolate Mints Rolls 38g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MentosChocolateMints.jpg?v=1624673113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595149201493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595148611669</id>
+    <published>2021-06-25T19:00:03-07:00</published>
+    <updated>2021-06-25T19:00:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-tutti-frutti-40ct-europe"/>
+    <title>Mentos Tutti Frutti 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MentosTuttiFrutti.jpg?v=1624672795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595148611669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595147366485</id>
+    <published>2021-06-25T18:57:37-07:00</published>
+    <updated>2021-06-25T18:57:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-grape-40ct-europe"/>
+    <title>Mentos Grape 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0164.jpg?v=1624672573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595147366485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595147071573</id>
+    <published>2021-06-25T18:54:42-07:00</published>
+    <updated>2021-06-25T18:54:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-grapefruit-40ct-europe"/>
+    <title>Mentos Grapefruit 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MentosGrapefruit.png?v=1624672474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595147071573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6577469259861</id>
+    <published>2021-05-09T21:58:10-07:00</published>
+    <updated>2021-05-09T21:58:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-cherry-40ct-europe"/>
+    <title>Mentos Cherry 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0188.jpg?v=1620622219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6577469259861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4509794467925</id>
+    <published>2020-01-27T12:10:03-08:00</published>
+    <updated>2020-01-27T12:10:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-strawberry-banana-40ct-europe"/>
+    <title>Mentos Strawberry Banana 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Strawberry_Banana.png?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4509794467925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4509786210389</id>
+    <published>2020-01-27T12:05:40-08:00</published>
+    <updated>2020-01-27T12:05:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-say-hello-lemonade-40ct-europe"/>
+    <title>Mentos Say Hello Lemonade 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/mentos_sa.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4509786210389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4357289050197</id>
+    <published>2019-11-08T13:05:54-08:00</published>
+    <updated>2019-11-08T13:05:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-white-chocolate-caramel-rolls-38g-24ct-europe"/>
+    <title>Mentos White Chocolate Caramel Rolls 38g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_White_Chocolate_Caramel_Rolls.jpg?v=1579547054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4357289050197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4357287739477</id>
+    <published>2019-11-08T12:55:10-08:00</published>
+    <updated>2019-11-08T12:55:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-chocolate-caramel-rolls-38g-24ct-europe"/>
+    <title>Mentos Chocolate Caramel Rolls 38g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Chocolate_Caramel_Rolls.jpg?v=1579547045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4357287739477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2248225456201</id>
+    <published>2019-09-12T13:15:51-07:00</published>
+    <updated>2019-09-12T13:15:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-spearmint-40ct-europe"/>
+    <title>Mentos Spearmint 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Spearmint.png?v=1579547052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>spearmint</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2248225456201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2248225030217</id>
+    <published>2019-09-12T13:13:49-07:00</published>
+    <updated>2019-09-12T13:13:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-spice-it-up-40ct-europe"/>
+    <title>Mentos Spice it Up 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Spice_it_Up.jpg?v=1579547052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2248225030217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107672330313</id>
+    <published>2019-07-12T14:21:22-07:00</published>
+    <updated>2019-07-12T14:21:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-mint-40ct-europe"/>
+    <title>Mentos Mint 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Mint.jpg?v=1579547049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107672330313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2211965108297</id>
+    <published>2019-07-12T14:14:58-07:00</published>
+    <updated>2019-07-12T14:14:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-strawberry-mix-40ct-europe"/>
+    <title>Mentos Strawberry Mix 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Strawberry_Mix.jpg?v=1579547053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2211965108297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107678589001</id>
+    <published>2019-07-12T14:04:29-07:00</published>
+    <updated>2019-07-12T14:04:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-drop-40ct-europe"/>
+    <title>Mentos Drop Licorice 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Drop.png?v=1579547046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107678589001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107653455945</id>
+    <published>2019-07-12T14:03:32-07:00</published>
+    <updated>2019-07-12T14:03:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-air-action-40ct-europe"/>
+    <title>Mentos Air-Action 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Air-Action.jpg?v=1579547044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107653455945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107637399625</id>
+    <published>2019-03-07T21:17:53-08:00</published>
+    <updated>2019-03-07T21:17:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-rainbow-40ct-europe"/>
+    <title>Mentos Rainbow 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Rainbow.jpg?v=1579547051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107637399625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107630518345</id>
+    <published>2019-03-07T21:06:26-08:00</published>
+    <updated>2019-03-07T21:06:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-fruits-40ct-europe"/>
+    <title>Mentos Fruits 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Fruits.jpg?v=1579547048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107630518345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107606433865</id>
+    <published>2019-03-07T20:52:05-08:00</published>
+    <updated>2019-03-07T20:52:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-green-apple-40ct-europe"/>
+    <title>Mentos Green Apple 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Green_Apple.jpg?v=1579547049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107606433865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

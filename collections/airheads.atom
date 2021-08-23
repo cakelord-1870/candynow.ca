@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/airheads.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-12-16T17:01:29-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4822260023381</id>
+    <published>2020-12-16T17:01:29-08:00</published>
+    <updated>2020-12-16T17:01:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-filled-ropes-assorted-2oz-18ct"/>
+    <title>Airheads Filled Ropes Assorted 2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AirheadsFilledRopesAssorted2oz.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4822260023381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535329062997</id>
+    <published>2020-02-18T19:47:23-08:00</published>
+    <updated>2020-02-18T19:47:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-xtremes-belts-bluest-raspberry-2oz-18ct"/>
+    <title>Airheads Xtremes Belts Bluest Raspberry 2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Xtremes_Belts_Bluest_Raspberry.jpg?v=1582568557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>belts</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>xtremes</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535329062997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106258718793</id>
+    <published>2020-01-05T19:24:53-08:00</published>
+    <updated>2020-01-05T19:24:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-gummies-peg-3-8oz-12ct"/>
+    <title>Airheads Gummies Peg 3.8oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Gummies_Peg_3.8oz.jpg?v=1555352833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258718793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475583004757</id>
+    <published>2019-12-31T19:00:18-08:00</published>
+    <updated>2019-12-31T19:00:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-bites-paradise-blend-2oz-18ct"/>
+    <title>Airheads Bites Paradise Blend 2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Bites_Paradise_Blend.jpg?v=1579544559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475583004757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475578024021</id>
+    <published>2019-12-31T18:49:15-08:00</published>
+    <updated>2019-12-31T18:49:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-gum-raspberry-lemonade-1-185oz-12-ct"/>
+    <title>Airheads Gum Paradise Blends Raspberry Lemonade 1.185oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Gum_Raspberry_Lemonade.jpg?v=1579544560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475578024021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208800899145</id>
+    <published>2019-07-07T20:23:09-07:00</published>
+    <updated>2019-07-07T20:23:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-theater-box-3-3oz-12ct"/>
+    <title>Airheads Theater Box 3.3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Theater_Box.jpg?v=1563134305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208800899145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870049865</id>
+    <published>2018-11-07T10:51:29-08:00</published>
+    <updated>2018-11-07T10:51:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-orange-55oz-36ct"/>
+    <title>Airheads Singles Orange .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Orange.jpg?v=1542484409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870049865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820869820489</id>
+    <published>2018-11-07T10:51:27-08:00</published>
+    <updated>2018-11-07T10:51:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-strawberry-55oz-36ct"/>
+    <title>Airheads Singles Strawberry .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Strawberry.jpg?v=1542484409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820869820489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868870217</id>
+    <published>2018-11-07T10:51:20-08:00</published>
+    <updated>2018-11-07T10:51:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-big-bar-strawberry-watermelon-1-5oz-24ct"/>
+    <title>Airheads Big Bar Strawberry/Watermelon 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Big_Bar_Strawberry_Watermelon_1.5oz.jpg?v=1542484405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868870217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868837449</id>
+    <published>2018-11-07T10:51:19-08:00</published>
+    <updated>2018-11-07T10:51:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-white-mystery-55oz-36ct"/>
+    <title>Airheads Singles White Mystery .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_White_Mystery.jpg?v=1542484410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>mystery</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868837449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868247625</id>
+    <published>2018-11-07T10:51:14-08:00</published>
+    <updated>2018-11-07T10:51:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-cherry-55oz-36ct"/>
+    <title>Airheads Singles Cherry .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Cherry.jpg?v=1542484408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868247625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868214857</id>
+    <published>2018-11-07T10:51:14-08:00</published>
+    <updated>2018-11-07T10:51:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-xtremes-bites-2-oz-18ct"/>
+    <title>Airheads Xtremes Bites 2 oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Xtremes_Bites_2_oz.jpg?v=1544682881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>xtremes</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868214857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866052169</id>
+    <published>2018-11-07T10:50:55-08:00</published>
+    <updated>2018-11-07T10:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-big-bar-blue-rasp-cherry-1-5oz-24ct"/>
+    <title>Airheads Big Bar Blue Rasp/Cherry 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Big_Bar_Blue_Rasp_Cherry_1.5oz.jpg?v=1544682748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866052169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865921097</id>
+    <published>2018-11-07T10:50:55-08:00</published>
+    <updated>2018-11-07T10:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-watermelon-55oz-36ct"/>
+    <title>Airheads Singles Watermelon .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Watermelon.jpg?v=1542484410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865921097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864217161</id>
+    <published>2018-11-07T10:50:39-08:00</published>
+    <updated>2018-11-07T10:50:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-green-apple-55oz-36ct"/>
+    <title>Airheads Singles Green Apple .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Green_Apple.jpg?v=1542484408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>green apple</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864217161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858843209</id>
+    <published>2018-11-07T10:49:57-08:00</published>
+    <updated>2018-11-07T10:49:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-blue-raspberry-55oz-36ct"/>
+    <title>Airheads Singles Blue Raspberry .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Blue_Raspberry.jpg?v=1542484407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858843209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858810441</id>
+    <published>2018-11-07T10:49:56-08:00</published>
+    <updated>2018-11-07T10:49:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-tray-xtremes-sour-belts-2oz-18ct"/>
+    <title>Airheads Xtremes Sour Belts 2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Tray_Xtremes_Sour_Belts.jpg?v=1542484411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>belts</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>xtremes</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858810441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820857401417</id>
+    <published>2018-11-07T10:49:43-08:00</published>
+    <updated>2018-11-07T10:49:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-singles-grape-55oz-36ct"/>
+    <title>Airheads Singles Grape .55oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Singles_Grape.jpg?v=1542484408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820857401417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820856451145</id>
+    <published>2018-11-07T10:49:35-08:00</published>
+    <updated>2018-11-07T10:49:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-gum-blue-raspberry-1-185oz-12ct"/>
+    <title>Airheads Gum Blue Raspberry 1.185oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Gum_Blue_Raspberry_1.185oz.jpg?v=1544682157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820856451145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820856254537</id>
+    <published>2018-11-07T10:49:34-08:00</published>
+    <updated>2018-11-07T10:49:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-gum-watermelon-1-185oz-12ct"/>
+    <title>Airheads Gum Watermelon 1.185oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Gum_Watermelon.jpg?v=1544682143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820856254537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

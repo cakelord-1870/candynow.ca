@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/european-candy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-01T10:18:22-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6609098178645</id>
+    <published>2021-08-01T10:18:22-07:00</published>
+    <updated>2021-08-01T10:18:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lotus-speculoos-spread-400g-8ct-europe"/>
+    <title>Lotus Speculoos Spread 400g 8ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LotusSpeculoosSpread400g.jpg?v=1627838254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>spread</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098178645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098047573</id>
+    <published>2021-08-01T10:13:33-07:00</published>
+    <updated>2021-08-01T10:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-rainbow-rolls-41g-20ct-europe"/>
+    <title>Fruittella Rainbow Rolls 41g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0239.png?v=1627837956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098047573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609097982037</id>
+    <published>2021-08-01T10:13:33-07:00</published>
+    <updated>2021-08-01T10:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-citrus-mix-rolls-41g-20ct-europe"/>
+    <title>Fruittella Citrus Mix Rolls 41g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruittellaCitrusMixRolls.png?v=1627837822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609097982037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6606076182613</id>
+    <published>2021-07-20T15:39:02-07:00</published>
+    <updated>2021-07-20T15:39:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/chupa-chups-surprise-12g-16ct-europe"/>
+    <title>Chupa Chups Surprise 12g 16ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ChupaChupsSurprise12g16c.jpg?v=1626820730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chupa chups</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6606076182613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595149201493</id>
+    <published>2021-06-25T19:05:29-07:00</published>
+    <updated>2021-06-25T19:05:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-chocolate-mints-rolls-38g-24ct-europe"/>
+    <title>Mentos Chocolate Mints Rolls 38g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MentosChocolateMints.jpg?v=1624673113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595149201493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595148611669</id>
+    <published>2021-06-25T19:00:03-07:00</published>
+    <updated>2021-06-25T19:00:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-tutti-frutti-40ct-europe"/>
+    <title>Mentos Tutti Frutti 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MentosTuttiFrutti.jpg?v=1624672795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595148611669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595147366485</id>
+    <published>2021-06-25T18:57:37-07:00</published>
+    <updated>2021-06-25T18:57:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-grape-40ct-europe"/>
+    <title>Mentos Grape 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0164.jpg?v=1624672573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595147366485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6595147071573</id>
+    <published>2021-06-25T18:54:42-07:00</published>
+    <updated>2021-06-25T18:54:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-grapefruit-40ct-europe"/>
+    <title>Mentos Grapefruit 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MentosGrapefruit.png?v=1624672474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6595147071573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770097659989</id>
+    <published>2021-06-19T21:28:35-07:00</published>
+    <updated>2021-06-19T21:28:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-white-100g-22ct-europe"/>
+    <title>Milka White 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaWhite100g.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770097659989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588683157589</id>
+    <published>2021-06-08T21:25:38-07:00</published>
+    <updated>2021-06-08T21:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-triple-cocoa-90g-20ct-europe"/>
+    <title>Milka Triple Cocoa 90g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cocoa.jpg?v=1623212718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588683157589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588682567765</id>
+    <published>2021-06-08T21:23:56-07:00</published>
+    <updated>2021-06-08T21:23:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-cream-biscuit-100g-18ct-europe"/>
+    <title>Milka Cream &amp; Biscuit 100g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cream.jpg?v=1623212605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588682567765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588681945173</id>
+    <published>2021-06-08T21:21:20-07:00</published>
+    <updated>2021-06-08T21:21:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-cow-spot-milk-white-100g-23ct-europe"/>
+    <title>Milka Cow Spot Milk &amp; White 100g 23ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CowSpot.jpg?v=1623212431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588681945173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587071594581</id>
+    <published>2021-06-03T14:19:57-07:00</published>
+    <updated>2021-06-03T14:19:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-konfekt-200g-24ct-europe"/>
+    <title>Haribo Konfekt - Licorice Allsorts 200g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22894.jpg?v=1622753968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587071594581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587074609237</id>
+    <published>2021-06-03T14:18:12-07:00</published>
+    <updated>2021-06-03T14:18:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-piratos-200g-18ct-europe"/>
+    <title>Haribo Piratos 200g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboPiratos.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587074609237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587074150485</id>
+    <published>2021-06-03T14:16:28-07:00</published>
+    <updated>2021-06-03T14:16:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-weinland-100g-30ct-europe"/>
+    <title>Haribo Weinland 100g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboWeinland.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587074150485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587073986645</id>
+    <published>2021-06-03T14:13:08-07:00</published>
+    <updated>2021-06-03T14:13:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-wine-gums-200g-20ct-europe"/>
+    <title>Haribo Wine Gums 200g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboWineGums.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587073986645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587073560661</id>
+    <published>2021-06-03T14:11:25-07:00</published>
+    <updated>2021-06-03T14:11:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-jelly-beans-175g-30ct-europe"/>
+    <title>Haribo Jelly Beans 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboJellyBeans.jpg?v=1622754673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587073560661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587073331285</id>
+    <published>2021-06-03T14:09:16-07:00</published>
+    <updated>2021-06-03T14:09:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-balla-balla-175g-30ct-europe"/>
+    <title>Haribo Balla Balla 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboBallaBalla.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587073331285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587072905301</id>
+    <published>2021-06-03T14:07:18-07:00</published>
+    <updated>2021-06-03T14:07:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-milch-milpferde-milk-horse-175g-20ct-europe"/>
+    <title>Haribo Milch Milpferde - Milk Hippo 175g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Milpferde.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587072905301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587072479317</id>
+    <published>2021-06-03T14:03:50-07:00</published>
+    <updated>2021-06-03T14:03:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-colorful-wheels-bunte-schnecken-175g-30ct-europe"/>
+    <title>Haribo Colorful Wheels - Bunte Schnecken 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BunteSchnecken.jpg?v=1622754226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587072479317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587071004757</id>
+    <published>2021-06-03T13:55:51-07:00</published>
+    <updated>2021-06-03T13:55:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-sour-pinkie-lilly-200g-30ct-europe"/>
+    <title>Haribo Pinkie &amp; Lilly 200g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboPinkie_Lilly.jpg?v=1622753745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587071004757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587070251093</id>
+    <published>2021-06-03T13:53:52-07:00</published>
+    <updated>2021-06-03T13:53:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-pasta-frutta-fruit-pasta-175g-30ct-europe"/>
+    <title>Haribo Sour Pasta Frutta - Fruit Pasta 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboPastaFrutta.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587070251093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587069857877</id>
+    <published>2021-06-03T13:50:11-07:00</published>
+    <updated>2021-06-03T13:50:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-milch-baren-milk-bears-175g-24ct-europe"/>
+    <title>Haribo Milchbaren - Milk Bears 175g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboMilchBaren.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587069857877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587069104213</id>
+    <published>2021-06-03T13:45:01-07:00</published>
+    <updated>2021-06-03T13:45:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-fruity-bussi-200g-30ct-europe"/>
+    <title>Haribo Fruity Bussi 200g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboFruityBussi200g.jpg?v=1622753090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587069104213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578321850453</id>
+    <published>2021-05-12T15:34:20-07:00</published>
+    <updated>2021-05-12T15:34:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-2-pack-28ct-europe"/>
+    <title>Nestle Lion Bar 2-Pack 28ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/2Pack.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578321850453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

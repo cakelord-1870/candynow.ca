@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/charms.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T18:54:39-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592807665749</id>
+    <published>2021-06-19T18:54:39-07:00</published>
+    <updated>2021-06-19T18:54:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-fluffy-stuff-cotton-candy-2-5oz-12ct"/>
+    <title>Charms Fluffy Stuff Cotton Candy 2.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12325.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charms</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>fluffy stuff</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592807665749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2171032895561</id>
+    <published>2021-06-19T18:46:04-07:00</published>
+    <updated>2021-06-19T18:46:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-fluffy-stuff-birthday-cake-cotton-candy-2-1oz-24ct"/>
+    <title>Charms Fluffy Stuff Birthday Cake Cotton Candy 2.1oz 24ct (Limit 2 Per Order)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Fluffy_Stuff_Birthday_Cake_Cotton_Candy.jpg?v=1557772367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>birthday cake</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fluffy stuff</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2171032895561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565855928405</id>
+    <published>2021-06-19T18:42:58-07:00</published>
+    <updated>2021-06-19T18:42:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-fluffy-stuff-rainbow-sherbert-cotton-candy-2-1oz-24ct"/>
+    <title>Charms Fluffy Stuff Rainbow Sherbert Cotton Candy 2.1oz 24ct (Limit 2 Per order)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CharmsFluffyStuffRainbowSherbertCottonCandy.jpg?v=1584989287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charms</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fluffy stuff</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565855928405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014917705</id>
+    <published>2019-01-24T16:09:39-08:00</published>
+    <updated>2019-01-24T16:09:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-minis-theater-box-3-5oz-12ct"/>
+    <title>Charms Blow Pop Minis Theater Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Minis_Theater_Box_3.5oz_12ct.jpg?v=1555354763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charms</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014917705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870344777</id>
+    <published>2018-11-07T10:51:31-08:00</published>
+    <updated>2018-11-07T10:51:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-what-a-melon-48ct"/>
+    <title>Charms Blow Pop What- A- Melon 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_What-_A-_Melon_48ct.jpg?v=1548401033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870344777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867362889</id>
+    <published>2018-11-07T10:51:08-08:00</published>
+    <updated>2018-11-07T10:51:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-sugar-babies-concession-6-oz-12ct"/>
+    <title>Charms Sugar Babies Theater Box 6 Oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Sugar_Babies_Concession_6_Oz.jpg?v=1544682836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sugar babies</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867362889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863135817</id>
+    <published>2018-11-07T10:50:30-08:00</published>
+    <updated>2018-11-07T10:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-asst-100ct"/>
+    <title>Charms Blow Pop Asst 100ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Asst_100ct.jpg?v=1542484427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863135817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.48</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863037513</id>
+    <published>2018-11-07T10:50:30-08:00</published>
+    <updated>2018-11-07T10:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-pop-sweet-sour-48ct"/>
+    <title>Charms Pop Sweet &amp; Sour 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Pop_Sweet_Sour_48ct.jpg?v=1544682558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863037513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863004745</id>
+    <published>2018-11-07T10:50:29-08:00</published>
+    <updated>2018-11-07T10:50:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-cherry-48ct"/>
+    <title>Charms Blow Pop Cherry 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Cherry_48ct.jpg?v=1544682553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863004745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862939209</id>
+    <published>2018-11-07T10:50:29-08:00</published>
+    <updated>2018-11-07T10:50:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-blue-razz-berry-48ct"/>
+    <title>Charms Blow Pop Blue Razz Berry 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Blue_Razz_Berry_48ct.jpg?v=1544682549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862939209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862873673</id>
+    <published>2018-11-07T10:50:28-08:00</published>
+    <updated>2018-11-07T10:50:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-super-blow-pop-sweet-sour-48ct"/>
+    <title>Charms Super Blow Pop Sweet &amp; Sour 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Super_Blow_Pop_Sweet_Sour_48ct.jpg?v=1542484434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862873673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862840905</id>
+    <published>2018-11-07T10:50:28-08:00</published>
+    <updated>2018-11-07T10:50:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-kiwi-berry-blast-48ct"/>
+    <title>Charms Blow Pop Kiwi Berry Blast 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Kiwi_Berry_Blast_48ct.jpg?v=1544682544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>kiwi</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862840905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862775369</id>
+    <published>2018-11-07T10:50:28-08:00</published>
+    <updated>2018-11-07T10:50:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-black-cherry-48ct"/>
+    <title>Charms Blow Pop Black Cherry 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Black_Cherry_48ct.jpg?v=1544682539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862775369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862742601</id>
+    <published>2018-11-07T10:50:27-08:00</published>
+    <updated>2018-11-07T10:50:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-black-ice-48ct"/>
+    <title>Charms Blow Pop Black Ice 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Black_Ice_48ct.jpg?v=1542484428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862742601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820861104201</id>
+    <published>2018-11-07T10:50:14-08:00</published>
+    <updated>2018-11-07T10:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-bursting-berry-48ct"/>
+    <title>Charms Blow Pop Bursting Berry 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Bursting_Berry_48ct.jpg?v=1544682444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820861104201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820861071433</id>
+    <published>2018-11-07T10:50:14-08:00</published>
+    <updated>2018-11-07T10:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-assorted-squares-20ct"/>
+    <title>Charms Assorted Squares 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Assorted_Squares.jpg?v=1542484426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820861071433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820861038665</id>
+    <published>2018-11-07T10:50:13-08:00</published>
+    <updated>2018-11-07T10:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-cherry-ice-48ct"/>
+    <title>Charms Blow Pop Cherry Ice 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Cherry_Ice_48ct.jpg?v=1542484430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820861038665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820857172041</id>
+    <published>2018-11-07T10:49:42-08:00</published>
+    <updated>2018-11-07T10:49:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-pop-fluffy-stuff-cotton-candy-48ct"/>
+    <title>Charms Pop Fluffy Stuff Cotton Candy 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Pop_Fluffy_Stuff_Cotton_Candy_48ct.jpg?v=1542484431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820857172041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820857139273</id>
+    <published>2018-11-07T10:49:41-08:00</published>
+    <updated>2018-11-07T10:49:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-super-blow-pop-assorted-48ct"/>
+    <title>Charms Super Blow Pop Assorted 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Super_Blow_Pop_Assorted_48ct.jpg?v=1544682213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820857139273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820857106505</id>
+    <published>2018-11-07T10:49:41-08:00</published>
+    <updated>2018-11-07T10:49:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-sour-apple-48ct"/>
+    <title>Charms Blow Pop Sour Apple 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Sour_Apple_48ct.jpg?v=1544682208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820857106505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820857040969</id>
+    <published>2018-11-07T10:49:40-08:00</published>
+    <updated>2018-11-07T10:49:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-pop-sweet-48ct"/>
+    <title>Charms Pop Sweet 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Pop_Sweet_48ct.jpg?v=1542484432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charms</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820857040969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.89</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

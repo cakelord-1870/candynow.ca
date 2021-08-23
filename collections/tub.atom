@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/tub.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-04-29T22:39:11-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6574815543381</id>
+    <published>2021-04-29T22:39:11-07:00</published>
+    <updated>2021-04-29T22:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-yellow-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Yellow 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76367.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574815543381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574815248469</id>
+    <published>2021-04-29T22:39:11-07:00</published>
+    <updated>2021-04-29T22:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-white-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - White 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76369.png?v=1620859326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574815248469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574814298197</id>
+    <published>2021-04-29T22:39:11-07:00</published>
+    <updated>2021-04-29T22:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-turquoise-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Turquoise 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76368.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574814298197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574814134357</id>
+    <published>2021-04-29T22:39:10-07:00</published>
+    <updated>2021-04-29T22:39:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-royal-blue-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Royal Blue 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76371.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574814134357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574814036053</id>
+    <published>2021-04-29T22:39:10-07:00</published>
+    <updated>2021-04-29T22:39:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-red-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Red 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76363.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574814036053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574813741141</id>
+    <published>2021-04-29T22:39:10-07:00</published>
+    <updated>2021-04-29T22:39:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-pale-pink-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Pale Pink 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76370.png?v=1620859325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574813741141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574813216853</id>
+    <published>2021-04-29T22:39:09-07:00</published>
+    <updated>2021-04-29T22:39:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-light-blue-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Light Blue 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76364.png?v=1620859326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574813216853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574813053013</id>
+    <published>2021-04-29T22:39:09-07:00</published>
+    <updated>2021-04-29T22:39:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-lavander-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Lavander 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76362.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574813053013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574812856405</id>
+    <published>2021-04-29T22:39:09-07:00</published>
+    <updated>2021-04-29T22:39:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-hot-pink-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Hot Pink 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76361.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574812856405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574812692565</id>
+    <published>2021-04-29T22:39:08-07:00</published>
+    <updated>2021-04-29T22:39:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-green-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Green 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76366.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574812692565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574812561493</id>
+    <published>2021-04-29T22:39:08-07:00</published>
+    <updated>2021-04-29T22:39:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-bright-green-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Bright Green 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76372.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574812561493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574811414613</id>
+    <published>2021-04-29T22:39:08-07:00</published>
+    <updated>2021-04-29T22:39:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-black-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Black 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76365.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574811414613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562814853205</id>
+    <published>2021-04-01T22:28:28-07:00</published>
+    <updated>2021-04-01T22:28:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/smarties-mega-lollies-box-24ct"/>
+    <title>Smarties Mega Lollies Box 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/459.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>ce de</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>mega double lollies</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>smarties</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562814853205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227034947657</id>
+    <published>2021-04-01T22:27:33-07:00</published>
+    <updated>2021-04-01T22:27:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-pearl-color-splash-pops-baby-pink-30ct"/>
+    <title>Alberts Pearl Color Splash Pops Baby Pink 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Pearl_Color_Splash_Pops_Baby_Pink_-_Strawberry_30ct_a9ab97cc-72af-4d38-a055-27155266c476.jpg?v=1565634093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>color splash</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227034947657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4357301207125</id>
+    <published>2021-02-22T16:20:50-08:00</published>
+    <updated>2021-02-22T16:20:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/meenk-licorice-root-1kg-tub-1ct-netherlands"/>
+    <title>Meenk Licorice Root 1kg Tub 1ct (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Meenk_Licorice_Root_1kg_Tub_1.jpg?v=1579547038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4357301207125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827921154133</id>
+    <published>2021-01-01T13:15:00-08:00</published>
+    <updated>2021-01-01T13:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/goetzes-caramel-creams-square-tub-100-piece-2-5lb-1ct"/>
+    <title>Goetze&apos;s Caramel Creams Square Tub (100 Piece) 2.5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CaramelCreams2.5lb.jpg?v=1609535680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>goetze</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>vanilla</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827921154133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4809473359957</id>
+    <published>2020-11-17T21:12:52-08:00</published>
+    <updated>2020-11-17T21:12:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/love-beads-candy-bracelet-42oz-48ct"/>
+    <title>Love Beads Candy Bracelet .42oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/00073563002200_C1N1.jpg?v=1605674889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>smarties</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809473359957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783606661205</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-baby-bear-pops-tub-pink-115ct"/>
+    <title>Baby Bear Pops Tub - Pink 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PBB-115.jpg?v=1601853920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783606661205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783605973077</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/baby-bear-pops-tub-blue-115ct"/>
+    <title>Baby Bear Pops Tub - Blue 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BabyBearPopsTub-Blue.jpg?v=1601853842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783605973077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783603253333</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cinnamon-bear-pops-tub-115ct"/>
+    <title>Cinnamon Bear Pops Tub 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CinnamonBearPops.jpg?v=1601853568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783603253333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783600697429</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/honey-bear-pop-tub-115ct"/>
+    <title>Honey Bear Pops Tub 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HoneyBearPop_2fff4019-736d-4bc0-8886-b17e36e596f3.jpg?v=1601853674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>honey</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783600697429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783570255957</id>
+    <published>2020-10-04T16:27:49-07:00</published>
+    <updated>2020-10-04T16:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-lavender-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Lavender 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-LAV-36.jpg?v=1601849730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783570255957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783569535061</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-silver-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Silver 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-SIL-36.jpg?v=1601849457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783569535061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783569272917</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-gold-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Gold 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-GLD-36.jpg?v=1601849378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783569272917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783568978005</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-banana-yellow-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Banana - Yellow 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-YEL-36.jpg?v=1601849231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783568978005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

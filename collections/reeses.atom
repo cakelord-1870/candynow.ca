@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/reeses.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-25T18:32:14-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6583927504981</id>
+    <published>2021-05-25T18:32:14-07:00</published>
+    <updated>2021-05-25T18:32:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-dark-chocolate-dipped-pretzels-pouch-8-5oz-6ct"/>
+    <title>Reese&apos;s Dark Chocolate Dipped Pretzels Pouch 8.5oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/44440.jpg?v=1621992714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583927504981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.61</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583926554709</id>
+    <published>2021-05-25T18:27:36-07:00</published>
+    <updated>2021-05-25T18:27:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-crunchy-peanut-bar-king-size-3-2oz-18ct"/>
+    <title>Reese&apos;s Crunchy Peanut Bar King Size 3.2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22901.jpg?v=1621992384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583926554709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2137823739977</id>
+    <published>2021-05-25T18:18:04-07:00</published>
+    <updated>2021-05-25T18:18:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-dipped-pretzels-pouch-8-5oz-6ct"/>
+    <title>Reese&apos;s Dipped Pretzels Pouch 8.5oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Dipped_Pretzels_Pouch_8.5oz.jpg?v=1579545385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2137823739977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.61</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562837790805</id>
+    <published>2021-04-01T22:28:30-07:00</published>
+    <updated>2021-04-01T22:28:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-ultimate-peanut-butter-lovers-king-size-2-8oz-24ct"/>
+    <title>Reese&apos;s Ultimate Peanut Butter Lovers King Size 2.8oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93893.jpg?v=1617337184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562837790805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562836774997</id>
+    <published>2021-04-01T22:28:29-07:00</published>
+    <updated>2021-04-01T22:28:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-ultimate-peanut-butter-lovers-1-50oz-24ct"/>
+    <title>Reese&apos;s Ultimate Peanut Butter Lovers 1.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/reeseult.jpg?v=1617336869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562836774997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728585289813</id>
+    <published>2021-04-01T21:21:27-07:00</published>
+    <updated>2021-04-01T21:21:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-peanut-butter-lovers-king-size-2-8oz-24ct"/>
+    <title>Reese&apos;s Peanut Butter Lovers King Size 2.8oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sCPeanutButterLoversKingSize.png?v=1594797474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728585289813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550034448469</id>
+    <published>2021-03-11T20:10:32-08:00</published>
+    <updated>2021-03-11T20:10:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-special-dark-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Hershey&apos;s Special Dark Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sZeroSugarSpecialDark.jpg?v=1615521145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550034448469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550018031701</id>
+    <published>2021-03-11T20:10:31-08:00</published>
+    <updated>2021-03-11T20:10:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-dark-organic-peanut-butter-cup-1-4oz-12ct"/>
+    <title>Reese&apos;s Dark Organic Peanut Butter Cup 1.4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93866.jpg?v=1615519245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550018031701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550017671253</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-organic-peanut-butter-cup-1-4oz-12ct"/>
+    <title>Reese&apos;s Organic Peanut Butter Cup 1.4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sOrganicPeanutButter.jpg?v=1615522521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550017671253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550017441877</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-mini-cups-zero-sugar-pouch-5-1oz-8ct"/>
+    <title>Reese&apos;s Mini Cups Zero Sugar Pouch 5.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hershey_sZeroSugarReese.jpg?v=1615518648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550017441877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836838572117</id>
+    <published>2021-01-28T22:39:37-08:00</published>
+    <updated>2021-01-28T22:39:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/chips-ahoy-chewy-with-reeses-peanut-butter-cup-9-5oz-12ct"/>
+    <title>Chips Ahoy! Chewy with Reese&apos;s Peanut Butter Cup 9.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ChipsAhoy_ChewywithReese_sPeanutButterCup.jpg?v=1611901773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chip ahoy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836838572117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016982089</id>
+    <published>2020-12-20T21:13:50-08:00</published>
+    <updated>2020-12-20T21:13:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-crispy-crunchy-bar-king-size-3-1oz-18ct"/>
+    <title>Reese&apos;s Crispy Crunchy Bar King Size 3.1oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Crispy_Crunchy_Bar_King_Size_3.1oz.jpg?v=1579545381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016982089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4822268117077</id>
+    <published>2020-12-16T17:22:14-08:00</published>
+    <updated>2020-12-16T17:22:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-dark-chocolate-dipped-pretzels-peg-4-25oz-12ct"/>
+    <title>Reese&apos;s Dark Chocolate Dipped Pretzels Peg 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/450489.jpg?v=1608168118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4822268117077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4822248685653</id>
+    <published>2020-12-16T16:15:13-08:00</published>
+    <updated>2020-12-16T16:15:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-snack-cake-standard-bar-2-75oz-12ct"/>
+    <title>Reese&apos;s Snack Cake Standard Bar 2.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sSnackCakeStandardBar2.75oz.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4822248685653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4809477226581</id>
+    <published>2020-11-17T21:07:17-08:00</published>
+    <updated>2020-11-17T21:07:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-big-cup-stuffed-with-pretzels-1-3oz-16ct"/>
+    <title>Reese&apos;s Big Cup Stuffed With Pretzels 1.3oz 16ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/24987.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809477226581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4809475817557</id>
+    <published>2020-11-17T21:03:04-08:00</published>
+    <updated>2020-11-17T21:03:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-big-cup-stuffed-with-pretzels-king-size-2-6oz-16ct"/>
+    <title>Reese&apos;s Big Cup Stuffed With Pretzels King Size 2.6oz 16ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/24989.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809475817557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728576671829</id>
+    <published>2020-07-15T00:02:08-07:00</published>
+    <updated>2020-07-15T00:02:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-creamy-peanut-butter-18oz-12ct"/>
+    <title>Reese&apos;s Creamy Peanut Butter 18oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sCreamyPeanutButter18oz.jpg?v=1594796720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728576671829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505779896405</id>
+    <published>2020-01-23T19:10:06-08:00</published>
+    <updated>2020-01-23T19:10:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/treeses-take-5-bar-king-size-2-25oz-18ct"/>
+    <title>Reese&apos;s Take 5 Bar King Size 2.25oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Take_5_Bar_King_Size_2.25oz.jpg?v=1580755861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>take five</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505779896405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208801292361</id>
+    <published>2019-07-07T20:33:35-07:00</published>
+    <updated>2019-07-07T20:33:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-milk-chocolate-thins-peg-3-1oz-8ct"/>
+    <title>Reese&apos;s Milk Chocolate Thins Peg 3.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Milk_Chocolate_Thins.jpg?v=1579545387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208801292361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032017244233</id>
+    <published>2019-01-24T16:10:05-08:00</published>
+    <updated>2019-01-24T16:10:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/take-5-1-5oz-18ct"/>
+    <title>Reese&apos;s Take 5 1.5oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/take_5_reese.png?v=1579545392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>take five</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032017244233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032017211465</id>
+    <published>2019-01-24T16:10:05-08:00</published>
+    <updated>2019-01-24T16:10:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-dipped-pretzels-peg-bag-4-25oz-12ct"/>
+    <title>Reese&apos;s Dipped Pretzels Peg Bag 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Dipped_Pretzels_Peg_Bag_4.25oz.jpg?v=1579545385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>pretzel</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032017211465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032017178697</id>
+    <published>2019-01-24T16:10:04-08:00</published>
+    <updated>2019-01-24T16:10:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-peanut-butter-topping-7oz-6ct"/>
+    <title>Reese&apos;s Peanut Butter Topping 7oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Peanut_Butter_Topping_7oz.jpg?v=1579545391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>topping</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032017178697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016949321</id>
+    <published>2019-01-24T16:10:02-08:00</published>
+    <updated>2019-01-24T16:10:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-fast-break-bar-king-size-3-5oz-18ct"/>
+    <title>Reese&apos;s Fast Break Bar King Size 3.5oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Fast_Break_Bar_King_Size_3.5oz.png?v=1579545386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016949321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016883785</id>
+    <published>2019-01-24T16:10:01-08:00</published>
+    <updated>2019-01-24T16:10:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-mini-cups-peg-bag-sugar-free-3oz-12ct"/>
+    <title>Reese&apos;s Mini Cups Peg Bag Zero Sugar 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/44611.jpg?v=1615518090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016883785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016851017</id>
+    <published>2019-01-24T16:10:00-08:00</published>
+    <updated>2019-01-24T16:10:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-nutrageous-bar-1-66oz-18ct"/>
+    <title>Reese&apos;s Nutrageous Bar 1.66oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_s_Nutrageous_Bar_1.66oz.jpg?v=1579545388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016851017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

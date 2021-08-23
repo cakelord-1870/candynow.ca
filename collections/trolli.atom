@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/trolli.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-27T12:22:05-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6583899881557</id>
+    <published>2021-05-27T12:22:05-07:00</published>
+    <updated>2021-05-27T12:22:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-squiggles-5oz-12ct"/>
+    <title>Trolli Peg Bag Squiggles 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12040.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583899881557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583907352661</id>
+    <published>2021-05-25T16:12:35-07:00</published>
+    <updated>2021-05-25T16:12:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-bears-4-7oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Bears 4.7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagSourBriteBears.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583907352661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583907254357</id>
+    <published>2021-05-25T16:11:04-07:00</published>
+    <updated>2021-05-25T16:11:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-apple-os-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Apple-O&apos;S 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagApple-O_S.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583907254357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583906959445</id>
+    <published>2021-05-25T16:10:05-07:00</published>
+    <updated>2021-05-25T16:10:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-crawlers-very-berry-5oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Crawlers Very Berry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/03852.jpg?v=1621984201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583906959445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583906664533</id>
+    <published>2021-05-25T16:06:52-07:00</published>
+    <updated>2021-05-25T16:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-peachie-os-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Peachie-O&apos;S 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagPeachie-O_S.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583906664533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583906631765</id>
+    <published>2021-05-25T16:05:50-07:00</published>
+    <updated>2021-05-25T16:05:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-classic-bears-5oz-12ct"/>
+    <title>Trolli Peg Bag Classic Bears 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagClassicBears5oz.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583906631765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583906336853</id>
+    <published>2021-05-25T16:04:16-07:00</published>
+    <updated>2021-05-25T16:04:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-crawlers-5oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Crawlers 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/03851.jpg?v=1621983796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583906336853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583900143701</id>
+    <published>2021-05-25T16:01:17-07:00</published>
+    <updated>2021-05-25T16:01:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-crawler-eggs-4oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Crawler Eggs 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagSourBriteCrawlerEggs4oz.jpg?v=1621982574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583900143701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827924529237</id>
+    <published>2021-01-01T13:42:26-08:00</published>
+    <updated>2021-01-01T13:42:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-strawberry-puff-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Strawberry Puff 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagStrawberryPuff4.25oz.jpg?v=1609537331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827924529237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827924430933</id>
+    <published>2021-01-01T13:39:37-08:00</published>
+    <updated>2021-01-01T13:39:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-crunchy-crawlers-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Sour Crunchy Crawlers 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagSourCrunchyCrawlers.jpg?v=1609537430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827924430933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827923906645</id>
+    <published>2021-01-01T13:37:47-08:00</published>
+    <updated>2021-01-01T13:37:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-big-bold-bears-5oz-12ct"/>
+    <title>Trolli Peg Bag Big Bold Bears 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagBigBoldBears5oz.jpg?v=1609569419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827923906645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4822246096981</id>
+    <published>2020-12-16T16:09:12-08:00</published>
+    <updated>2020-12-16T16:09:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-gummi-creations-4-25oz12ct"/>
+    <title>Trolli Gummi Creations 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/trolli.jpg?v=1608163507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4822246096981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4702449434709</id>
+    <published>2020-06-15T13:17:48-07:00</published>
+    <updated>2020-06-15T13:17:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-watermelon-sour-brite-crawlers-5oz-12ct"/>
+    <title>Trolli Peg Bag Watermelon Sour Brite Crawlers 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagWatermelonSourBrite.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4702449434709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566018883669</id>
+    <published>2020-03-17T17:38:22-07:00</published>
+    <updated>2020-03-17T17:38:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-bites-blue-raspberry-4oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Bites Blue Raspberry 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagSourBriteBitesBlueRaspberry.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566018883669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565866250325</id>
+    <published>2020-03-17T14:36:57-07:00</published>
+    <updated>2020-03-17T14:36:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-evil-twins-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Evil Twins 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagEvilTwins4.25oz.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565866250325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227250757705</id>
+    <published>2019-08-11T12:32:41-07:00</published>
+    <updated>2019-08-11T12:32:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-sour-brite-crawler-mystery-5oz-12ct"/>
+    <title>Trolli Sour Brite Crawler Mystery 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Peg_Bag_Sour_Brite_Crawler_Mystery.jpg?v=1579545461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227250757705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106258587721</id>
+    <published>2019-03-06T10:10:52-08:00</published>
+    <updated>2019-03-06T10:10:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-sour-brite-all-star-mix-4-25oz-12ct"/>
+    <title>Trolli Sour Brite All Star Mix 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Sour_Brite_All_Star_Mix.jpg?v=1579545460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258587721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015835209</id>
+    <published>2019-01-24T16:09:50-08:00</published>
+    <updated>2019-01-24T16:09:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-sour-brite-llamas-4-25oz-12ct"/>
+    <title>Trolli Sour Brite Llamas 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Sour_Brite_Llamas_4.25oz.jpg?v=1579545462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015835209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015016009</id>
+    <published>2019-01-24T16:09:40-08:00</published>
+    <updated>2019-01-24T16:09:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-theater-box-sour-brite-crawler-3-5oz-12ct"/>
+    <title>Trolli Theater Box Sour Brite Crawler 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Theater_Box_Sour_Brite_Crawler_3.5oz.jpg?v=1579545462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015016009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014786633</id>
+    <published>2019-01-24T16:09:38-08:00</published>
+    <updated>2019-01-24T16:09:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-extreme-sour-bites-fruitz-4oz-12ct"/>
+    <title>Trolli Peg Bag Extreme Sour Bites Fruitz 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Peg_Bag_Extreme_Sour_Bites_Fruitz.jpg?v=1579545459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014786633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013312073</id>
+    <published>2019-01-24T16:09:21-08:00</published>
+    <updated>2019-01-24T16:09:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-octopus-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Octopus 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Peg_Bag_Sour_Brite_Octopus_4.25oz.jpg?v=1579545459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013312073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820860842057</id>
+    <published>2018-11-07T10:50:12-08:00</published>
+    <updated>2018-11-07T10:50:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-extreme-sour-blasts-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Extreme Sour Blasts 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Peg_Bag_Extreme_Sour_Blasts_4.25oz.jpg?v=1544682435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820860842057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820859007049</id>
+    <published>2018-11-07T10:49:58-08:00</published>
+    <updated>2018-11-07T10:49:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-sloths-4-25oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Sloths 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Peg_Bag_Sour_Brite_Sloths.jpg?v=1544682343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820859007049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/dum-dum.atom"/>
+  <title>candynow.ca</title>
+  <updated>2019-01-24T16:09:47-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2032015605833</id>
+    <published>2019-01-24T16:09:47-08:00</published>
+    <updated>2019-01-24T16:09:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-white-birthdaycake-12-8z-75ct"/>
+    <title>Dum Dum Color Party Bag White - Birthday Cake 12.8z 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_White_-_BirthdayCake.jpg?v=1555354799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>birthday cake</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015605833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014688329</id>
+    <published>2019-01-24T16:09:37-08:00</published>
+    <updated>2019-01-24T16:09:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dumdum-pops-box-20oz-120ct"/>
+    <title>Dum Dum Lollipops Box 20oz 120ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Pops_Box_20oz_120ct.jpg?v=1555354801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014688329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014655561</id>
+    <published>2019-01-24T16:09:36-08:00</published>
+    <updated>2019-01-24T16:09:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-red-strawberry-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Red - Strawberry 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Red_-_Strawberry.jpg?v=1555354798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014655561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014426185</id>
+    <published>2019-01-24T16:09:34-08:00</published>
+    <updated>2019-01-24T16:09:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-light-pink-bubble-gum-12-8z-75ct"/>
+    <title>Dum Dum Color Party Bag Light Pink - Bubble Gum 12.8z 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Light_Pink_-_Bubble_Gum.jpg?v=1555354795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014426185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014065737</id>
+    <published>2019-01-24T16:09:29-08:00</published>
+    <updated>2019-01-24T16:09:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-hot-pink-watermelon-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Hot Pink - Watermelon 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Hot_Pink_-_Watermelon.jpg?v=1555354794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014065737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014032969</id>
+    <published>2019-01-24T16:09:29-08:00</published>
+    <updated>2019-01-24T16:09:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-purple-grape-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Purple - Grape 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Purple_-_Grape.jpg?v=1555354797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dum dum</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014032969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013770825</id>
+    <published>2019-01-24T16:09:26-08:00</published>
+    <updated>2019-01-24T16:09:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-blue-blueberry-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Blue - Blueberry 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Blue-Blueberry.jpg?v=1555354793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>blueberry</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013770825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013738057</id>
+    <published>2019-01-24T16:09:26-08:00</published>
+    <updated>2019-01-24T16:09:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-ocean-blue-cotton-candy-12-8z-75ct"/>
+    <title>Dum Dum Color Party Bag Ocean Blue - Cotton Candy 12.8z 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Ocean_Blue_-_Cotton_Candy.jpg?v=1555354796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013738057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013475913</id>
+    <published>2019-01-24T16:09:23-08:00</published>
+    <updated>2019-01-24T16:09:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-light-blue-blue-raspberry-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Light Blue - Blue Raspberry 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Light_Blue_-_Blue_Raspberry.jpg?v=1555354795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013475913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011706441</id>
+    <published>2019-01-24T16:09:04-08:00</published>
+    <updated>2019-01-24T16:09:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-black-black-cherry-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Black - Black Cherry 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Black_-_Black_Cherry.jpg?v=1555354800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011706441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011640905</id>
+    <published>2019-01-24T16:09:04-08:00</published>
+    <updated>2019-01-24T16:09:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-yellow-cream-soda-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Yellow - Cream Soda 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Yellow_-_Cream_Soda.jpg?v=1555354799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>soda</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011640905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011608137</id>
+    <published>2019-01-24T16:09:03-08:00</published>
+    <updated>2019-01-24T16:09:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-rainbow-12-8z-75ct"/>
+    <title>Dum Dum Color Party Bag Rainbow 12.8z 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Rainbow_12.8z_75ct.jpg?v=1555354797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011608137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011542601</id>
+    <published>2019-01-24T16:09:03-08:00</published>
+    <updated>2019-01-24T16:09:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-orange-orange-12-8oz-75ct"/>
+    <title>Dum Dum Color Party Bag Orange - Orange 12.8oz 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Orange_-_Orange.jpg?v=1555354796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dum dum</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011542601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011509833</id>
+    <published>2019-01-24T16:09:02-08:00</published>
+    <updated>2019-01-24T16:09:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dum-dum-color-party-bag-bright-green-sour-apple-12-8z-75ct"/>
+    <title>Dum Dum Color Party Bag Bright Green - Sour Apple 12.8z 75ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dum_Dum_Color_Party_Bag_Bright_Green_-_Sour_Apple.jpg?v=1555354793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>dum dum</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011509833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

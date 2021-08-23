@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/toxic-waste.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T18:31:04-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592806027349</id>
+    <published>2021-06-19T18:31:04-07:00</published>
+    <updated>2021-06-19T18:31:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-toxic-waste-bulk-sour-chewy-assorted-worms-2-2lb1ct"/>
+    <title>Toxic Waste Bulk Sour &amp; Chewy Assorted Worms 2.2lb1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/66002.jpg?v=1627079143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592806027349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592805830741</id>
+    <published>2021-06-19T18:29:51-07:00</published>
+    <updated>2021-06-19T18:29:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-bulk-sour-chewy-assorted-bears-2-2lb1ct"/>
+    <title>Toxic Waste Bulk Sour &amp; Chewy Assorted Bears 2.2lb1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/67002.jpg?v=1627079132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592805830741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475589623893</id>
+    <published>2019-12-31T19:11:45-08:00</published>
+    <updated>2019-12-31T19:11:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-atomz-2-12oz-12ct"/>
+    <title>Toxic Waste Atomz 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Atomz.png?v=1579545445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475589623893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475588345941</id>
+    <published>2019-12-31T19:09:31-08:00</published>
+    <updated>2019-12-31T19:09:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-drums-nuclear-fusion-1-48-oz-12ct"/>
+    <title>Toxic Waste Drums Nuclear Fusion 1.48 Oz  12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Drums_Nuclear_Fusion.jpg?v=1579545445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475588345941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106259210313</id>
+    <published>2019-03-06T10:11:00-08:00</published>
+    <updated>2019-03-06T10:11:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-sour-smog-balls-theatre-box-3-5oz-12ct"/>
+    <title>Toxic Waste Sour Smog Balls Theatre Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Sour_Smog_Balls_Theatre_Box_3.5oz.jpg?v=1579545446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106259210313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.23</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863594569</id>
+    <published>2018-11-07T10:50:34-08:00</published>
+    <updated>2018-11-07T10:50:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-slime-licker-sour-2-oz-12ct"/>
+    <title>Toxic Waste Slime Licker Sour 2 oz 12ct ( Limit 2 Per Customer)</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Slime_Licker_Sour.jpg?v=1542486285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>slime</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863594569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863168585</id>
+    <published>2018-11-07T10:50:30-08:00</published>
+    <updated>2018-11-07T10:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-1-7-oz-special-edition-colored-drums-12ct"/>
+    <title>Toxic Waste  Special Edition Colored Drums 1.7 Oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Special_Edition_Colored_Drums_1.7_Oz.jpg?v=1544682563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863168585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820857204809</id>
+    <published>2018-11-07T10:49:42-08:00</published>
+    <updated>2018-11-07T10:49:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-1-7-oz-drums-12ct"/>
+    <title>Toxic Waste Drums 1.7 Oz  12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Drums_1.7_Oz.jpg?v=1542486284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820857204809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820856975433</id>
+    <published>2018-11-07T10:49:40-08:00</published>
+    <updated>2018-11-07T10:49:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-sour-smog-balls-3-oz-12ct"/>
+    <title>Toxic Waste Sour Smog Balls 3 Oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Sour_Smog_Balls.jpg?v=1544682203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820856975433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

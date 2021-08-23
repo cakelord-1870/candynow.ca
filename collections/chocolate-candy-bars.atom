@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/chocolate-candy-bars.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-04T22:02:22-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6609926914133</id>
+    <published>2021-08-04T22:02:22-07:00</published>
+    <updated>2021-08-04T22:02:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kit-kat-fruity-cereal-1-5oz-24ct"/>
+    <title>Kit Kat Fruity Cereal 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/31874.jpg?v=1628139732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>kit kat</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609926914133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605734838357</id>
+    <published>2021-07-19T21:46:24-07:00</published>
+    <updated>2021-07-19T21:46:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-dairy-milk-creamy-white-chocolate-90g-24ct-uk"/>
+    <title>Cadbury Creamy White Chocolate 90g 24ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyDairyMilkCreamyWhiteChocolate90g.jpg?v=1626756355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            56.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605734838357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596930273365</id>
+    <published>2021-06-30T20:29:08-07:00</published>
+    <updated>2021-06-30T20:29:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hostess-birthday-cupcakes-3-27oz-6ct"/>
+    <title>Hostess Birthday Cupcakes 2-pack 3.27oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/birthday.jpg?v=1627079151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hostess</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596930273365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4770097659989</id>
+    <published>2021-06-19T21:28:35-07:00</published>
+    <updated>2021-06-19T21:28:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-white-100g-22ct-europe"/>
+    <title>Milka White 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkaWhite100g.png?v=1600458745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4770097659989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588683157589</id>
+    <published>2021-06-08T21:25:38-07:00</published>
+    <updated>2021-06-08T21:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-triple-cocoa-90g-20ct-europe"/>
+    <title>Milka Triple Cocoa 90g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cocoa.jpg?v=1623212718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588683157589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588682567765</id>
+    <published>2021-06-08T21:23:56-07:00</published>
+    <updated>2021-06-08T21:23:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-cream-biscuit-100g-18ct-europe"/>
+    <title>Milka Cream &amp; Biscuit 100g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cream.jpg?v=1623212605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588682567765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588681945173</id>
+    <published>2021-06-08T21:21:20-07:00</published>
+    <updated>2021-06-08T21:21:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milka-cow-spot-milk-white-100g-23ct-europe"/>
+    <title>Milka Cow Spot Milk &amp; White 100g 23ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CowSpot.jpg?v=1623212431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>milka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588681945173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2105851510857</id>
+    <published>2021-06-08T16:28:01-07:00</published>
+    <updated>2021-06-08T16:28:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-milky-way-21-5g-single-56ct"/>
+    <title>Mars Milky Way 21.5g Single 56ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ars_Milky_Way_21.5g_Single.jpg?v=1579546531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105851510857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588618440789</id>
+    <published>2021-06-08T16:11:50-07:00</published>
+    <updated>2021-06-08T16:11:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-turkish-delight-3-pack-153g-22ct-uk"/>
+    <title>Fry&apos;s Turkish Delight 3 Pack 153g 22ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_sTurkishDelight3Pac.jpg?v=1623193900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>turkish delight</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588618440789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588616769621</id>
+    <published>2021-06-08T16:04:18-07:00</published>
+    <updated>2021-06-08T16:04:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-freddo-caramel-19-5g-60ct-uk"/>
+    <title>Cadbury Freddo Caramel 19.5g 60ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyFreddoCaramel.jpg?v=1627427009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>freddo</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588616769621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583930486869</id>
+    <published>2021-05-25T18:53:12-07:00</published>
+    <updated>2021-05-25T18:53:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hostess-zingers-raspberry-13-4oz-10ct"/>
+    <title>Hostess Zingers Raspberry 13.4oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/700735.jpg?v=1621993987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hostess</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583930486869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583930224725</id>
+    <published>2021-05-25T18:51:08-07:00</published>
+    <updated>2021-05-25T18:51:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hostess-ding-dongs-12-7oz-10ct"/>
+    <title>Hostess Ding Dongs 12.7oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ding.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hostess</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583930224725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583930060885</id>
+    <published>2021-05-25T18:48:32-07:00</published>
+    <updated>2021-05-25T18:48:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hostess-twinkies-mixed-berry-13-58oz-10ct"/>
+    <title>Hostess Twinkies Mixed Berry 13.58oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/704347.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hostess</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583930060885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583928815701</id>
+    <published>2021-05-25T18:44:40-07:00</published>
+    <updated>2021-05-25T18:44:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hostess-caramel-ding-dongs-12-7oz-10ct"/>
+    <title>Hostess Caramel Ding Dongs 12.7oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/704306.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hostess</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583928815701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583926554709</id>
+    <published>2021-05-25T18:27:36-07:00</published>
+    <updated>2021-05-25T18:27:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-crunchy-peanut-bar-king-size-3-2oz-18ct"/>
+    <title>Reese&apos;s Crunchy Peanut Bar King Size 3.2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22901.jpg?v=1621992384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583926554709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578321850453</id>
+    <published>2021-05-12T15:34:20-07:00</published>
+    <updated>2021-05-12T15:34:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-2-pack-28ct-europe"/>
+    <title>Nestle Lion Bar 2-Pack 28ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/2Pack.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578321850453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578321358933</id>
+    <published>2021-05-12T15:30:43-07:00</published>
+    <updated>2021-05-12T15:30:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-wild-peanut-sweet-salty-30g-40ct-europe"/>
+    <title>Nestle Lion Bar Wild Peanut Sweet &amp; Salty 30g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NestleLionBarWildPeanutSweet_Salty.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578321358933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578320441429</id>
+    <published>2021-05-12T15:22:10-07:00</published>
+    <updated>2021-05-12T15:22:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-coconut-40g-40ct-europe"/>
+    <title>Nestle Lion Bar Coconut 40g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NestleLionBarCoconut40g.png?v=1620858107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578320441429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574820950101</id>
+    <published>2021-05-05T16:15:31-07:00</published>
+    <updated>2021-05-05T16:15:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/snickers-peanut-butter-squared-1-78oz-18ct"/>
+    <title>Snickers Peanut Butter Squared 1.78oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/39412.png?v=1619765074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hazelnut</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>snickers</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574820950101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574817280085</id>
+    <published>2021-04-29T23:01:55-07:00</published>
+    <updated>2021-04-29T23:01:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kit-kat-key-lime-1-5oz-24ct"/>
+    <title>Kit Kat Key Lime 1.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/40292.jpg?v=1619762490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>kit kat</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574817280085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6573098369109</id>
+    <published>2021-04-27T18:42:34-07:00</published>
+    <updated>2021-04-27T18:42:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-twirl-orange-43g-48ct-uk"/>
+    <title>Cadbury Twirl Orange 43g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/7622210664242.jpg?v=1619574139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            77.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>twirl</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6573098369109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6570791436373</id>
+    <published>2021-04-20T21:15:25-07:00</published>
+    <updated>2021-04-20T21:15:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/maitre-cat-hands-milk-chocolate-100g-22ct-europe"/>
+    <title>Maitre Cat Hands Milk Chocolate 100g 22ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MaitreCatHandsMilkChocolate.jpg?v=1618978519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6570791436373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562839986261</id>
+    <published>2021-04-01T22:28:32-07:00</published>
+    <updated>2021-04-01T22:28:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hersheys-white-creme-with-almonds-1-45oz-36ct"/>
+    <title>Hershey&apos;s White Creme With Almonds 1.45oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/24132.jpg?v=1617338805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562839986261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562839822421</id>
+    <published>2021-04-01T22:28:32-07:00</published>
+    <updated>2021-04-01T22:28:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/barnone-chocolate-bar-1-4oz-24ct"/>
+    <title>BarNone Chocolate Bar 1.4oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/item_images_f7e53182-afba-478b-88ce-eda5a7d366c2.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>iconic candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562839822421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562839035989</id>
+    <published>2021-04-01T22:28:31-07:00</published>
+    <updated>2021-04-01T22:28:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-hersheys-organic-milk-chocolate-bar-1-55oz-12ct"/>
+    <title>Hershey&apos;s Organic Milk Chocolate Bar 1.55oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/93858.jpg?v=1618460747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562839035989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

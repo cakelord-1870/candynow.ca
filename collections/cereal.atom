@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/cereal.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-24T23:34:21-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6594515927125</id>
+    <published>2021-06-24T23:34:21-07:00</published>
+    <updated>2021-06-24T23:34:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dunkaroos-cereal-11-3oz-12ct"/>
+    <title>Dunkaroos Cereal 11.3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/DunkaroosCereal11.3oz.png?v=1624571250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            82.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>general mills</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594515927125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594829484117</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-little-debbie-cosmic-brownies-cearal-8-2oz-10ct"/>
+    <title>Kellogg&apos;s Little Debbie Cosmic Brownies Cereal 8.2oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10106466.jpg?v=1624602235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594829484117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594827026517</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-little-debbie-oat-meal-cream-pie-9-1oz-12ct"/>
+    <title>Kellogg&apos;s Little Debbie Oatmeal Cream Pie 9.1oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/oat.jpg?v=1624602038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594827026517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594818048085</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-frosted-flakes-with-marshmallows12oz-12ct"/>
+    <title>Kellogg&apos;s Frosted Flakes With Marshmallows 12oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10103581.jpg?v=1627079131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594818048085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594813100117</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/funfetti-cereal-17oz-12ct"/>
+    <title>Funfetti Cereal Family Size 17oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FUNFETTI.jpg?v=1624601032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594813100117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594809659477</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-sesame-street-berry-cereal-12oz-12ct"/>
+    <title>Sesame Street Berry Cereal 12oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10102836_98ec7c1b-f4be-4eff-84a9-261a41f22944.jpg?v=1624600929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>general mills</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594809659477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594808250453</id>
+    <published>2021-06-24T23:31:37-07:00</published>
+    <updated>2021-06-24T23:31:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sesame-street-cinnamon-cereal-12oz-12ct"/>
+    <title>Sesame Street Cinnamon Cereal 12oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cinnamon.jpg?v=1627079131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>general mills</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594808250453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594806775893</id>
+    <published>2021-06-24T23:31:37-07:00</published>
+    <updated>2021-06-24T23:31:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dulce-de-leche-toast-crunch-cereal-12oz-12ct"/>
+    <title>Dulce De Leche Toast Crunch Cereal 12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/DULCEDELECHETC.jpg?v=1624600603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            97.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>general mills</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594806775893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">97.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594802679893</id>
+    <published>2021-06-24T23:31:37-07:00</published>
+    <updated>2021-06-24T23:31:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pokemon-berry-cereal-10-3oz-12ct"/>
+    <title>Pokemon Berry Cereal 10.3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PokemonBerryCereal10.3oz.jpg?v=1624600366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>general mills</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594802679893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594794160213</id>
+    <published>2021-06-24T23:31:37-07:00</published>
+    <updated>2021-06-24T23:31:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/chocolate-churro-cinnamon-toast-crunch-cereal-11-9oz-12ct"/>
+    <title>Chocolate Churro Cinnamon Toast Crunch Cereal 11.9oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CHOCCHURRO.jpg?v=1624599827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>general mills</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594794160213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594824962133</id>
+    <published>2021-06-24T23:30:59-07:00</published>
+    <updated>2021-06-24T23:30:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/post-fruity-pebbles-cerealll-11oz-12ct"/>
+    <title>Post Fruity Pebbles Cerealll 11oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/fruitypebbles_a3461e72-1260-414f-bf8d-089b07b7a74e.jpg?v=1624601854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>post</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594824962133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.78</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594823094357</id>
+    <published>2021-06-24T23:30:59-07:00</published>
+    <updated>2021-06-24T23:30:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/post-marshmallow-fruity-pebbles-cereal-11oz-12ct"/>
+    <title>Post Marshmallow Fruity Pebbles Cereal 11oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/fruitypebblesmarshmallow_90144966-50dd-442f-acc8-8bc9e353da0f.jpg?v=1624601719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>post</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594823094357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.78</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562811707477</id>
+    <published>2021-04-01T22:28:27-07:00</published>
+    <updated>2021-04-01T22:28:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruity-pebbles-white-chocolate-bar-2-75oz-12ct"/>
+    <title>Fruity Pebbles White Chocolate Bar King Size 2.75oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10963.jpg?v=1618460748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>post</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562811707477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6559724732501</id>
+    <published>2021-03-29T20:54:24-07:00</published>
+    <updated>2021-03-29T20:54:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/post-cereal-cocoa-pebbles-11oz-12ct"/>
+    <title>Post Cereal Cocoa Pebbles 11oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cocoapebbles.jpg?v=1616810894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>post</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6559724732501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

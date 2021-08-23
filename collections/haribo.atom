@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/haribo.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-03T14:19:57-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6587071594581</id>
+    <published>2021-06-03T14:19:57-07:00</published>
+    <updated>2021-06-03T14:19:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-konfekt-200g-24ct-europe"/>
+    <title>Haribo Konfekt - Licorice Allsorts 200g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/22894.jpg?v=1622753968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587071594581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587074609237</id>
+    <published>2021-06-03T14:18:12-07:00</published>
+    <updated>2021-06-03T14:18:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-piratos-200g-18ct-europe"/>
+    <title>Haribo Piratos 200g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboPiratos.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587074609237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587074150485</id>
+    <published>2021-06-03T14:16:28-07:00</published>
+    <updated>2021-06-03T14:16:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-weinland-100g-30ct-europe"/>
+    <title>Haribo Weinland 100g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboWeinland.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587074150485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587073986645</id>
+    <published>2021-06-03T14:13:08-07:00</published>
+    <updated>2021-06-03T14:13:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-wine-gums-200g-20ct-europe"/>
+    <title>Haribo Wine Gums 200g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboWineGums.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587073986645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587073560661</id>
+    <published>2021-06-03T14:11:25-07:00</published>
+    <updated>2021-06-03T14:11:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-jelly-beans-175g-30ct-europe"/>
+    <title>Haribo Jelly Beans 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboJellyBeans.jpg?v=1622754673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587073560661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587073331285</id>
+    <published>2021-06-03T14:09:16-07:00</published>
+    <updated>2021-06-03T14:09:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-balla-balla-175g-30ct-europe"/>
+    <title>Haribo Balla Balla 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboBallaBalla.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587073331285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587072905301</id>
+    <published>2021-06-03T14:07:18-07:00</published>
+    <updated>2021-06-03T14:07:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-milch-milpferde-milk-horse-175g-20ct-europe"/>
+    <title>Haribo Milch Milpferde - Milk Hippo 175g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Milpferde.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587072905301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587072479317</id>
+    <published>2021-06-03T14:03:50-07:00</published>
+    <updated>2021-06-03T14:03:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-colorful-wheels-bunte-schnecken-175g-30ct-europe"/>
+    <title>Haribo Colorful Wheels - Bunte Schnecken 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BunteSchnecken.jpg?v=1622754226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587072479317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587071004757</id>
+    <published>2021-06-03T13:55:51-07:00</published>
+    <updated>2021-06-03T13:55:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-sour-pinkie-lilly-200g-30ct-europe"/>
+    <title>Haribo Pinkie &amp; Lilly 200g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboPinkie_Lilly.jpg?v=1622753745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587071004757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587070251093</id>
+    <published>2021-06-03T13:53:52-07:00</published>
+    <updated>2021-06-03T13:53:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-pasta-frutta-fruit-pasta-175g-30ct-europe"/>
+    <title>Haribo Sour Pasta Frutta - Fruit Pasta 175g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboPastaFrutta.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587070251093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587069857877</id>
+    <published>2021-06-03T13:50:11-07:00</published>
+    <updated>2021-06-03T13:50:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-milch-baren-milk-bears-175g-24ct-europe"/>
+    <title>Haribo Milchbaren - Milk Bears 175g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboMilchBaren.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587069857877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6587069104213</id>
+    <published>2021-06-03T13:45:01-07:00</published>
+    <updated>2021-06-03T13:45:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-fruity-bussi-200g-30ct-europe"/>
+    <title>Haribo Fruity Bussi 200g 30ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboFruityBussi200g.jpg?v=1622753090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6587069104213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6570790518869</id>
+    <published>2021-04-21T15:00:34-07:00</published>
+    <updated>2021-04-21T15:00:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-sour-fries-100g-24ct-europe"/>
+    <title>Haribo Sour Fries 100g 24ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboSourFries100g.jpg?v=1618977846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6570790518869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.23</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6570789929045</id>
+    <published>2021-04-20T20:55:43-07:00</published>
+    <updated>2021-04-20T20:55:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-joghurties-175g-14ct-europe"/>
+    <title>Haribo Joghurties 175g 14ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboJoghurties175g.jpg?v=1618977266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6570789929045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569993437269</id>
+    <published>2021-04-18T21:09:02-07:00</published>
+    <updated>2021-04-18T21:09:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-peg-bag-funtastic-5-0-oz-12ct"/>
+    <title>Haribo Peg Bag Funtastic Mix 5.0 oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/72381.jpg?v=1620859322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569993437269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6541016924245</id>
+    <published>2021-03-01T19:25:21-08:00</published>
+    <updated>2021-03-01T19:25:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-sour-fries-200g-18ct-europe"/>
+    <title>Haribo Sour Fries 200g 18ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SourFries.jpg?v=1614655420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6541016924245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.31</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6541014368341</id>
+    <published>2021-03-01T19:25:21-08:00</published>
+    <updated>2021-03-01T19:25:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-saure-schnuller-200g-14ct-europe"/>
+    <title>Haribo Saure Schnuller 200g 14ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SaureSchnuller.jpg?v=1614655212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6541014368341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6541011550293</id>
+    <published>2021-03-01T19:25:21-08:00</published>
+    <updated>2021-03-01T19:25:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-primavera-200g-16ct-europe"/>
+    <title>Haribo Primavera Strawberry 200g 16ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Primavera.jpg?v=1614830028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6541011550293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.23</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6541009059925</id>
+    <published>2021-03-01T19:25:20-08:00</published>
+    <updated>2021-03-01T19:25:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-color-rado-200g-europe"/>
+    <title>Haribo Color-Rado 200g 15ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboColorRado200g.jpg?v=1614830028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6541009059925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793444008021</id>
+    <published>2020-10-21T20:27:00-07:00</published>
+    <updated>2020-10-21T20:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-bulk-fruit-salad-5lb-1ct"/>
+    <title>Haribo Bulk Fruit Salad 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/38216.jpg?v=1603337127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793444008021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4759521198165</id>
+    <published>2020-09-03T15:27:27-07:00</published>
+    <updated>2020-09-03T15:27:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-bulk-grapefruit-5lb-1ct"/>
+    <title>Haribo Bulk Grapefruit 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HariboBulkGrapefruit.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4759521198165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475580710997</id>
+    <published>2019-12-31T18:56:48-08:00</published>
+    <updated>2019-12-31T18:56:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-peg-bag-watermelon-soft-sweet-4-1oz-12ct"/>
+    <title>Haribo Peg Bag Watermelon Soft &amp; Sweet 4.1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Haribo_Peg_Bag_Watermelon_Soft_Sweet_4.1oz.jpg?v=1579544911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475580710997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4396228182101</id>
+    <published>2019-11-22T13:19:10-08:00</published>
+    <updated>2019-11-22T13:19:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-peg-bag-zing-sour-bites-4-5oz-12ct"/>
+    <title>Haribo Peg Bag Zing Sour Bites 4.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Haribo_Peg_Bag_Zing_Sour_Bites.jpg?v=1579544911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4396228182101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101054333001</id>
+    <published>2019-09-19T11:48:18-07:00</published>
+    <updated>2019-09-19T11:48:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-bulk-raspberries-5lb-1ct"/>
+    <title>Haribo Bulk Raspberries 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Haribo_Bulk_Raspberries_5lb.jpg?v=1572652765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101054333001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101021532233</id>
+    <published>2019-09-19T10:28:45-07:00</published>
+    <updated>2019-09-19T10:28:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-gold-bears-theater-box-3-4oz-12ct"/>
+    <title>Haribo Gold Bears Theater Box 3.4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Haribo_Gold_Bears_Theater_Box.jpg?v=1572652765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101021532233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

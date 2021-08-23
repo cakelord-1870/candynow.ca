@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/candyland.atom"/>
+  <title>candynow.ca</title>
+  <updated>2019-05-07T15:21:17-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2169832636489</id>
+    <published>2019-05-07T15:21:17-07:00</published>
+    <updated>2019-05-07T15:21:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-catherine-wheels-113g-18ct"/>
+    <title>Candyland Catherine Wheels 113g 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Catherine_Wheels_113g.jpg?v=1557772366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2169832636489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.84</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035630407753</id>
+    <published>2019-01-27T11:42:36-08:00</published>
+    <updated>2019-01-27T11:42:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-pink-white-nougat-35g-40ct-uk"/>
+    <title>Candyland Pink &amp; White Nougat 35g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Pink_White_Nougat_40_x_35g.jpg?v=1555352962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>nougat</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035630407753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457507913</id>
+    <published>2018-12-05T17:50:43-08:00</published>
+    <updated>2018-12-05T17:50:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-sherbet-fountain-48-x-25g"/>
+    <title>Candyland Sherbet Fountain 25g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Sherbet_Fountain.jpg?v=1555352963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>sherbet</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457507913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457475145</id>
+    <published>2018-12-05T17:50:43-08:00</published>
+    <updated>2018-12-05T17:50:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-refreshers-roll-48-x-34g"/>
+    <title>Candyland Refreshers Roll 34g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Refreshers_Roll_34g.png?v=1555352962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>refreshers</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457475145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457442377</id>
+    <published>2018-12-05T17:50:43-08:00</published>
+    <updated>2018-12-05T17:50:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-henry-goodes-soft-liquorice-12-x-140g"/>
+    <title>Candyland Henry Goode&apos;s Soft Liquorice 140g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Henry_Goodes_Soft_Liquorice_140g.jpg?v=1555352961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457442377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457409609</id>
+    <published>2018-12-05T17:50:42-08:00</published>
+    <updated>2018-12-05T17:50:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-fruit-salad-chews-40-x-36g"/>
+    <title>Candyland Fruit Salad Chews 36g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Fruit_Salad_Chews_36g.png?v=1555352961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457409609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457376841</id>
+    <published>2018-12-05T17:50:42-08:00</published>
+    <updated>2018-12-05T17:50:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-black-jack-stick-pack-40-x-36g"/>
+    <title>Candyland Black Jack Stick Pack 36g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Black_Jack_Stick.jpg?v=1555352960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black jack</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457376841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

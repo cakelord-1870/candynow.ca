@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/sour-patch.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T20:06:06-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592829194325</id>
+    <published>2021-06-19T20:06:06-07:00</published>
+    <updated>2021-06-19T20:06:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-kids-peg-bag-xploderz-peg-bag-6-5oz-12ct"/>
+    <title>Sour Patch Kids Peg Bag Xploderz Peg Bag 6.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/4335000.jpg?v=1624158300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592829194325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836797349973</id>
+    <published>2021-01-28T18:30:17-08:00</published>
+    <updated>2021-01-28T18:30:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-blue-raspberry-5oz-12ct"/>
+    <title>Sour Patch Peg Bag Blue Raspberry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SourPatchPegBagBlueRaspberry5oz.jpg?v=1611887402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836797349973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4743068811349</id>
+    <published>2020-08-06T16:37:22-07:00</published>
+    <updated>2020-08-06T16:37:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-kids-assorted-bulk-5lb-1ct"/>
+    <title>Sour Patch Kids Assorted Bulk 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/500861.jpg?v=1598489887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4743068811349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4743068483669</id>
+    <published>2020-08-06T16:34:29-07:00</published>
+    <updated>2020-08-06T16:34:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bulk-bags-sour-patch-green-rind-watermelon-5lb-1ct"/>
+    <title>Sour Patch Bulk Green Rind Watermelon 5lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MondelezBulk5lbBagsSourPatchGreenRindWatermelon6ct5lb.jpg?v=1596760151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4743068483669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505773867093</id>
+    <published>2020-01-23T18:48:06-08:00</published>
+    <updated>2020-01-23T18:48:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-kids-assorted-crush-peg-bag-5oz-12ct"/>
+    <title>Sour Patch Kids Assorted Crush Peg Bag 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sour_Patch_Kids_Assorted_Crush.jpg?v=1580151845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>crush</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505773867093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170242105417</id>
+    <published>2019-05-08T01:48:59-07:00</published>
+    <updated>2019-05-08T01:48:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-kids-big-head-peg-5oz-12ct"/>
+    <title>Sour Patch Kids Big Head Peg 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sour_Patch_Kids_Big_Head_Peg.jpg?v=1579545418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170242105417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106257637449</id>
+    <published>2019-03-06T10:10:42-08:00</published>
+    <updated>2019-03-06T10:10:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-extreme-theatar-box-3-50o-12ct"/>
+    <title>Sour Patch Extreme Theater Box 3.50oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sour_Patch_Extreme_Theater_Box_3.50oz.jpg?v=1579545417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mondelez</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106257637449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014983241</id>
+    <published>2019-01-24T16:09:40-08:00</published>
+    <updated>2019-01-24T16:09:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-kids-peg-bag-tropical-5oz-12ct"/>
+    <title>Sour Patch Kids Peg Bag Tropical 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sour_Patch_Kids_Peg_Bag_Tropical_5oz.jpg?v=1579545418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mondelez</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014983241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866117705</id>
+    <published>2018-11-07T10:50:56-08:00</published>
+    <updated>2018-11-07T10:50:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-watermelon-box-3-50-oz-12ct"/>
+    <title>Sour Patch Watermelon Theater Box 3.50 Oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sour_Patch_Watermelon_theater_Box.jpg?v=1544682756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>mondelez</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866117705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

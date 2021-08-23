@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/ferrara-pan.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-25T16:10:05-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6583906959445</id>
+    <published>2021-05-25T16:10:05-07:00</published>
+    <updated>2021-05-25T16:10:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-crawlers-very-berry-5oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Crawlers Very Berry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/03852.jpg?v=1621984201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583906959445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583900143701</id>
+    <published>2021-05-25T16:01:17-07:00</published>
+    <updated>2021-05-25T16:01:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-peg-bag-sour-brite-crawler-eggs-4oz-12ct"/>
+    <title>Trolli Peg Bag Sour Brite Crawler Eggs 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TrolliPegBagSourBriteCrawlerEggs4oz.jpg?v=1621982574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583900143701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843164237909</id>
+    <published>2021-02-19T17:16:29-08:00</published>
+    <updated>2021-02-19T17:16:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/red-hots-0-9oz-12ct"/>
+    <title>Red Hots 0.9oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/100421.jpg?v=1613783598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843164237909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227250757705</id>
+    <published>2019-08-11T12:32:41-07:00</published>
+    <updated>2019-08-11T12:32:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-sour-brite-crawler-mystery-5oz-12ct"/>
+    <title>Trolli Sour Brite Crawler Mystery 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Peg_Bag_Sour_Brite_Crawler_Mystery.jpg?v=1579545461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227250757705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015376457</id>
+    <published>2019-01-24T16:09:44-08:00</published>
+    <updated>2019-01-24T16:09:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-chewy-theater-box-berry-5oz-12ct"/>
+    <title>Lemonhead Chewy Theater Box Berry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Chewy_Theater_Box_Berry.jpg?v=1579546486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015376457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820871196745</id>
+    <published>2018-11-07T10:51:38-08:00</published>
+    <updated>2018-11-07T10:51:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-baked-beans-theater-box-4-3oz-12ct"/>
+    <title>Boston Baked Beans Theater Box 4.3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Boston_Baked_Beans_Theater_Box_4.3oz.jpg?v=1548401092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston baked beans</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820871196745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866412617</id>
+    <published>2018-11-07T10:50:58-08:00</published>
+    <updated>2018-11-07T10:50:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/red-hots-theater-box-5oz-12ct"/>
+    <title>Red Hots Theater Box 5.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Red_Hots_Theater_Box.jpg?v=1579545376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866412617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865593417</id>
+    <published>2018-11-07T10:50:52-08:00</published>
+    <updated>2018-11-07T10:50:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jujyfruits-theater-box-5oz-12ct"/>
+    <title>Jujyfruits Theater Box 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jujyfruits_Theater_Box_5oz.png?v=1544682731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>jujyfruits</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865593417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862545993</id>
+    <published>2018-11-07T10:50:26-08:00</published>
+    <updated>2018-11-07T10:50:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/atomic-fireball-tub-40-5oz-150ct"/>
+    <title>Atomic Fireball Tub 40.5oz 150ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Atomic_Fireball_Tub.jpg?v=1542484413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atomic fireball</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862545993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862480457</id>
+    <published>2018-11-07T10:50:25-08:00</published>
+    <updated>2018-11-07T10:50:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/chuckles-mini-theater-box-original-5oz-10ct"/>
+    <title>Chuckles Mini Theater Box Original 5oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Chuckles_Mini_Theater_Box_Original_5oz.jpg?v=1542484436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>chuckles</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862480457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.24</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862414921</id>
+    <published>2018-11-07T10:50:24-08:00</published>
+    <updated>2018-11-07T10:50:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-chewy-theater-box-asstd-flavors-5oz-12ct"/>
+    <title>Lemonhead Chewy Theater Box Asstd Flavors 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Chewy_Theater_Box_Asstd_Flavors.jpg?v=1542484510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862414921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820859039817</id>
+    <published>2018-11-07T10:49:59-08:00</published>
+    <updated>2018-11-07T10:49:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-theater-box-original-5oz-12ct"/>
+    <title>Lemonhead Theater Box Original 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Theater_Box_Original.jpg?v=1542484511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820859039817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

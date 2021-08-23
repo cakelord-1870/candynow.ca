@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/espeez.atom"/>
+  <title>candynow.ca</title>
+  <updated>2020-10-04T16:27:50-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4783606661205</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-baby-bear-pops-tub-pink-115ct"/>
+    <title>Baby Bear Pops Tub - Pink 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PBB-115.jpg?v=1601853920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783606661205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783605973077</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/baby-bear-pops-tub-blue-115ct"/>
+    <title>Baby Bear Pops Tub - Blue 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BabyBearPopsTub-Blue.jpg?v=1601853842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783605973077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783603253333</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cinnamon-bear-pops-tub-115ct"/>
+    <title>Cinnamon Bear Pops Tub 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CinnamonBearPops.jpg?v=1601853568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783603253333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783600697429</id>
+    <published>2020-10-04T16:27:50-07:00</published>
+    <updated>2020-10-04T16:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/honey-bear-pop-tub-115ct"/>
+    <title>Honey Bear Pops Tub 115ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HoneyBearPop_2fff4019-736d-4bc0-8886-b17e36e596f3.jpg?v=1601853674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>honey</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783600697429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783580348501</id>
+    <published>2020-10-04T16:27:49-07:00</published>
+    <updated>2020-10-04T16:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charlottes-country-fudge-24ct"/>
+    <title>Charlotte&apos;s Country Fudge 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CCF-024.jpg?v=1601850976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fudge</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783580348501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783571238997</id>
+    <published>2020-10-04T16:27:49-07:00</published>
+    <updated>2020-10-04T16:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cinna-pix-cinnamon-toothpicks-tubes-24ct"/>
+    <title>Cinna-Pix Cinnamon Toothpicks Tubes 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cinnapixtubes.jpg?v=1601850345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tooth pick</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783571238997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783570255957</id>
+    <published>2020-10-04T16:27:49-07:00</published>
+    <updated>2020-10-04T16:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-lavender-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Lavender 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-LAV-36.jpg?v=1601849730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783570255957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783569535061</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-silver-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Silver 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-SIL-36.jpg?v=1601849457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783569535061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783569272917</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-gold-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Gold 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-GLD-36.jpg?v=1601849378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783569272917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783568978005</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-banana-yellow-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Banana - Yellow 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-YEL-36.jpg?v=1601849231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783568978005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783568617557</id>
+    <published>2020-10-04T16:27:48-07:00</published>
+    <updated>2020-10-04T16:27:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-orange-orange-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Orange - Orange 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/rockcandyorange.jpg?v=1601849075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783568617557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783567929429</id>
+    <published>2020-10-04T16:27:47-07:00</published>
+    <updated>2020-10-04T16:27:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-rock-candy-on-a-stick-tub-blue-raspberry-blue-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Blue Raspberry - Blue 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/rocjcandyplue.jpg?v=1601848853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783567929429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4396406505557</id>
+    <published>2020-10-04T16:27:47-07:00</published>
+    <updated>2020-10-04T16:27:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-black-cherry-black-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Black Cherry - Black 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/rock_stick_black.jpg?v=1579545394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4396406505557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4396405194837</id>
+    <published>2020-10-04T16:27:47-07:00</published>
+    <updated>2020-10-04T16:27:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-watermelon-green-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Watermelon - Light Green 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rock_Candy_On_A_Stick_Tub_-_Watermelon_-_Light_Green.jpg?v=1579545397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4396405194837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4396149932117</id>
+    <published>2020-10-04T16:27:46-07:00</published>
+    <updated>2020-10-04T16:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-root-beer-brown-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Root Beer - Brown 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rock_Candy_On_A_Stick_Tub_-_Root_Beer_-_Brown.jpg?v=1579545396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4396149932117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285763977289</id>
+    <published>2020-10-04T16:27:46-07:00</published>
+    <updated>2020-10-04T16:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-green-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Green Apple - Green 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-GRN-36.jpg?v=1579545396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285763977289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285763878985</id>
+    <published>2020-10-04T16:27:46-07:00</published>
+    <updated>2020-10-04T16:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-assorted-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Assorted 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-036.jpg?v=1579545393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285763878985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285763551305</id>
+    <published>2020-10-04T16:27:46-07:00</published>
+    <updated>2020-10-04T16:27:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-light-blue-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Cotton Candy - Light Blue 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-LBL-36.jpg?v=1579545395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285763551305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285760700489</id>
+    <published>2020-10-04T16:27:45-07:00</published>
+    <updated>2020-10-04T16:27:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-purple-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Grape - Purple 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-PUR-36.jpg?v=1579545395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285760700489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4100989583433</id>
+    <published>2020-10-04T16:27:45-07:00</published>
+    <updated>2020-10-04T16:27:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/giant-gold-mine-nugget-bubble-gum-8-82oz-12ct"/>
+    <title>Giant Gold Mine Nugget Bubble Gum 8.82oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Giant_Gold_Mine_Nugget_Bubble_Gum_8.82oz.jpg?v=1569264639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4100989583433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783598764117</id>
+    <published>2020-10-04T16:08:06-07:00</published>
+    <updated>2020-10-04T16:08:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/money-mints-rolls-100ct"/>
+    <title>Money Mints Rolls 100ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MoneyMintsRolls.jpg?v=1603247837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783598764117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4783579791445</id>
+    <published>2020-10-04T15:30:55-07:00</published>
+    <updated>2020-10-04T15:30:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/blue-ribbon-neapolitan-coconut-bars-24ct"/>
+    <title>Blue Ribbon Neapolitan Coconut Bars 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BLUERIBBONNEAPOLITANCOCONUTBARS.jpg?v=1601850655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>coconut</s:tag>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4783579791445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285760602185</id>
+    <published>2020-09-23T10:09:55-07:00</published>
+    <updated>2020-09-23T10:09:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-red-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Strawberry - Red 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-RED-36.jpg?v=1579545397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285760602185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285768663113</id>
+    <published>2019-10-17T18:57:22-07:00</published>
+    <updated>2019-10-17T18:57:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cinna-pix-cinnamon-toothpicks-24ct"/>
+    <title>Cinna-Pix Cinnamon Toothpicks 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Espeez_Cinna-Pix_Cinnamon_Toothpicks.jpg?v=1579546772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tooth pick</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285768663113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285761224777</id>
+    <published>2019-10-17T18:51:19-07:00</published>
+    <updated>2019-10-17T18:51:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rock-candy-on-a-stick-tub-pink-0-8oz-36ct"/>
+    <title>Rock Candy On A Stick Tub - Cherry - Pink 0.8oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RCK-PNK-36.jpg?v=1579545394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espeez</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>loll</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285761224777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

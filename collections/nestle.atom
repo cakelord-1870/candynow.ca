@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/nestle.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-04T22:32:00-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/1820867952713</id>
+    <published>2021-08-04T22:32:00-07:00</published>
+    <updated>2021-08-04T22:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-watermelon-cherry-1-65oz-36ct"/>
+    <title>Nerds Watermelon Cherry 1.65oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Nerds_Watermelon_Cherry.jpg?v=1542484523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867952713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596473356373</id>
+    <published>2021-06-30T20:29:08-07:00</published>
+    <updated>2021-06-30T20:29:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-big-chewy-sour-theater-box-4-25oz-12ct"/>
+    <title>Nerds Big Chewy Sour Theater Box 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/71269.jpg?v=1625028809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596473356373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592616693845</id>
+    <published>2021-06-18T20:13:44-07:00</published>
+    <updated>2021-06-18T20:13:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/raisinets-theater-box-3-1oz-12ct"/>
+    <title>Raisinets Theater Box 3.1oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RaisinetsOn-The-GoDisplayTray3.1oz.jpg?v=1624072257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592616693845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578321850453</id>
+    <published>2021-05-12T15:34:20-07:00</published>
+    <updated>2021-05-12T15:34:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-2-pack-28ct-europe"/>
+    <title>Nestle Lion Bar 2-Pack 28ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/2Pack.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578321850453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578321358933</id>
+    <published>2021-05-12T15:30:43-07:00</published>
+    <updated>2021-05-12T15:30:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-wild-peanut-sweet-salty-30g-40ct-europe"/>
+    <title>Nestle Lion Bar Wild Peanut Sweet &amp; Salty 30g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NestleLionBarWildPeanutSweet_Salty.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578321358933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6578320441429</id>
+    <published>2021-05-12T15:22:10-07:00</published>
+    <updated>2021-05-12T15:22:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-coconut-40g-40ct-europe"/>
+    <title>Nestle Lion Bar Coconut 40g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NestleLionBarCoconut40g.png?v=1620858107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6578320441429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574816788565</id>
+    <published>2021-04-29T22:51:31-07:00</published>
+    <updated>2021-04-29T22:51:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-big-chewy-theater-box-4-25oz-12ct"/>
+    <title>Nerds Big Chewy Theater Box 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/71844.png?v=1620859323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574816788565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840827060309</id>
+    <published>2021-02-09T17:59:58-08:00</published>
+    <updated>2021-02-09T17:59:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-kit-kat-peanut-butter-42g-36ct-europe"/>
+    <title>Nestle Kit Kat Chunky Peanut Butter 42g 36ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NestleKitKatPeanutButter42g.jpg?v=1612922477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kit kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840827060309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840826372181</id>
+    <published>2021-02-09T17:56:22-08:00</published>
+    <updated>2021-02-09T17:56:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-kit-kat-chunky-white-40g-36ct-europe"/>
+    <title>Nestle Kit Kat Chunky White 40g 36ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NestleKitKatChunkyWhite40g.jpg?v=1612922171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kit kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840826372181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840826175573</id>
+    <published>2021-02-09T17:47:57-08:00</published>
+    <updated>2021-02-09T17:47:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-white-42g-40ct-europe"/>
+    <title>Nestle Lion Bar White 42g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/White.jpg?v=1612922094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840826175573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840826011733</id>
+    <published>2021-02-09T17:45:58-08:00</published>
+    <updated>2021-02-09T17:45:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-regular-42g-40ct-europe"/>
+    <title>Nestle Lion Bar Regular 42g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/lionbareurope.jpg?v=1613004544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840826011733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840825782357</id>
+    <published>2021-02-09T17:44:00-08:00</published>
+    <updated>2021-02-09T17:44:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-peanut-40g-40ct-europe"/>
+    <title>Nestle Lion Bar Peanut 40g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/peanut.jpg?v=1612921980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840825782357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840825520213</id>
+    <published>2021-02-09T17:42:39-08:00</published>
+    <updated>2021-02-09T17:42:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nestle-lion-bar-black-white-42g-40ct-europe"/>
+    <title>Nestle Lion Bar Black &amp; White 42g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/blackandwhite.jpg?v=1612921910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lion bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840825520213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836817862741</id>
+    <published>2021-01-28T19:59:14-08:00</published>
+    <updated>2021-01-28T19:59:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-laff-bites-banana-peg-bag-4-2oz-12ct"/>
+    <title>Laffy Taffy Laff Bites Banana Peg Bag 4.2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LaffyTaffyLaffBitesBanana.jpg?v=1611892738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836817862741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836803018837</id>
+    <published>2021-01-28T18:55:14-08:00</published>
+    <updated>2021-01-28T18:55:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-rope-tropical-24ct-1"/>
+    <title>Nerds Rope Tropical 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NerdsRopeTropical_366221dc-50d1-4b2f-b545-33fb62063771.jpg?v=1611888895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836803018837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4835355361365</id>
+    <published>2021-01-22T20:09:08-08:00</published>
+    <updated>2021-01-22T20:09:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milkybar-buttons-30g-48ct-uk"/>
+    <title>Milkybar Buttons 30g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkybarButtons30g48ct.jpg?v=1611374930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>buttons</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4835355361365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793438568533</id>
+    <published>2020-10-21T20:02:00-07:00</published>
+    <updated>2020-10-21T20:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-gummy-clusters-theater-box-3oz-12ct"/>
+    <title>Nerds Gummy Clusters Theater Box 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/04903.jpg?v=1603335662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793438568533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793436700757</id>
+    <published>2020-10-21T19:56:00-07:00</published>
+    <updated>2020-10-21T19:56:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-gummy-clusters-sharepack-3oz-12ct"/>
+    <title>Nerds Gummy Clusters Sharepack 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/04905.jpg?v=1603335488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793436700757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793435029589</id>
+    <published>2020-10-21T19:52:00-07:00</published>
+    <updated>2020-10-21T19:52:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-gummy-clusters-peg-bag-5oz12ct"/>
+    <title>Nerds Gummy Clusters Peg Bag 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NerdsGummyClustersPegBag.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793435029589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793402753109</id>
+    <published>2020-10-21T18:09:00-07:00</published>
+    <updated>2020-10-21T18:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fun-dip-peg-bag-2-07oz-12ct"/>
+    <title>Fun Dip Peg Bag 2.07oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/595934.jpg?v=1604970277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fun dip</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793402753109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032016654409</id>
+    <published>2020-03-19T11:37:38-07:00</published>
+    <updated>2020-03-19T11:37:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/butterfinger-1-9oz-36-ct"/>
+    <title>Butterfinger 1.9oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Butterfinger_1.9oz_36ct.jpg?v=1568658127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfinger</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032016654409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015999049</id>
+    <published>2020-03-17T18:22:25-07:00</published>
+    <updated>2020-03-17T18:22:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/butterfinger-king-size-3-7oz-18-ct"/>
+    <title>Butterfinger King Size 3.7oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Butterfinger_King_Size_3.7oz_18_Ct.jpg?v=1579546768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfinger</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015999049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565842329685</id>
+    <published>2020-03-17T14:10:58-07:00</published>
+    <updated>2020-03-17T14:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-peg-bag-6-oz-12ct-1"/>
+    <title>Laffy Taffy Peg Bag 6 oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Peg_Bag_6_oz_271dc3a6-0bca-4089-b0a3-c8088e18d212.jpg?v=1584988917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565842329685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535324213333</id>
+    <published>2020-02-18T19:26:29-08:00</published>
+    <updated>2020-02-18T19:26:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-laff-bites-2-0oz-24ct"/>
+    <title>Laffy Taffy Laff Bites 2.0oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Laff_Bites_2.0oz.jpg?v=1582570588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535324213333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4535301701717</id>
+    <published>2020-02-18T18:19:08-08:00</published>
+    <updated>2020-02-18T18:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/laffy-taffy-laff-bites-peg-bag-4-2oz-12ct"/>
+    <title>Laffy Taffy Laff Bites Peg Bag 4.2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Laffy_Taffy_Laff_Bites_Peg_Bag_4.2oz.jpg?v=1582570588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>laffy taffy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4535301701717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

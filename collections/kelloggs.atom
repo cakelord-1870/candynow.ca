@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/kelloggs.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-19T20:47:09-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6616565481557</id>
+    <published>2021-08-19T20:47:09-07:00</published>
+    <updated>2021-08-19T20:47:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-cinnabon-0-42oz-bags-12ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Cinnabon 0.42oz Bags 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cinnabon.jpg?v=1629431158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616565481557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564924501</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-smores-5-04oz-bags-12ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Smores 0.42oz Bags 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kellogg_sJumboSnacksSmores5.04oz.jpg?v=1629430713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564924501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564826197</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-fruit-loops-6oz-pouch-4ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Fruit Loops 6oz Pouch 4ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jumbosnacksloops.jpg?v=1629430565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564826197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564367445</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-tiger-paws-6oz-pouch-4ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Tiger Paws 6oz Pouch 4ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/jumbosnackspaw.jpg?v=1629430231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564367445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678770773</id>
+    <published>2021-08-11T20:33:42-07:00</published>
+    <updated>2021-08-11T20:33:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-frosted-red-velvet-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Frosted Red Velvet 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10243763.jpg?v=1628739114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678770773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678639701</id>
+    <published>2021-08-11T20:33:41-07:00</published>
+    <updated>2021-08-11T20:33:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-frosted-chocolate-churro-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Frosted Chocolate Churro 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/churro.jpg?v=1628739029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678639701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678312021</id>
+    <published>2021-08-11T20:33:41-07:00</published>
+    <updated>2021-08-11T20:33:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-fruit-loops-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Fruit Loops 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10242212.jpg?v=1628738903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678312021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678049877</id>
+    <published>2021-08-11T20:33:40-07:00</published>
+    <updated>2021-08-11T20:33:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-frosted-confetti-cupcake-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Frosted Confetti Cupcake 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10140363.jpg?v=1628738781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678049877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594829484117</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-little-debbie-cosmic-brownies-cearal-8-2oz-10ct"/>
+    <title>Kellogg&apos;s Little Debbie Cosmic Brownies Cereal 8.2oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10106466.jpg?v=1624602235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594829484117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594827026517</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-little-debbie-oat-meal-cream-pie-9-1oz-12ct"/>
+    <title>Kellogg&apos;s Little Debbie Oatmeal Cream Pie 9.1oz 10ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/oat.jpg?v=1624602038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594827026517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6594818048085</id>
+    <published>2021-06-24T23:31:38-07:00</published>
+    <updated>2021-06-24T23:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-frosted-flakes-with-marshmallows12oz-12ct"/>
+    <title>Kellogg&apos;s Frosted Flakes With Marshmallows 12oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10103581.jpg?v=1627079131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cereal</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6594818048085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

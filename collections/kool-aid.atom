@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/kool-aid.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T21:20:35-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592833814613</id>
+    <published>2021-06-19T21:20:35-07:00</published>
+    <updated>2021-06-19T21:20:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-kiwi-lime-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single  Kiwi Lime 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KiwiLime.jpg?v=1624162782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833814613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833749077</id>
+    <published>2021-06-19T21:20:34-07:00</published>
+    <updated>2021-06-19T21:20:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-grape-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single Grape 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/94606.jpg?v=1624162686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833749077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833683541</id>
+    <published>2021-06-19T21:20:34-07:00</published>
+    <updated>2021-06-19T21:20:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-cherry-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single Cherry 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/95393.jpg?v=1624162595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833683541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833585237</id>
+    <published>2021-06-19T21:20:33-07:00</published>
+    <updated>2021-06-19T21:20:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-berry-blue-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single Berry Blue 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-AidReadytoDrinkBurstsSingleBerryBlue12ct.jpg?v=1624162455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833585237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4625823662165</id>
+    <published>2020-05-05T01:40:28-07:00</published>
+    <updated>2020-05-05T01:40:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-kool-aid-unsweetened-green-apple-14oz-48ct"/>
+    <title>Kool-Aid Unsweetened Green Apple .14oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-AidUnsweetenedGreenApple.jpg?v=1589222565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>green apple</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4625823662165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208803487817</id>
+    <published>2019-07-07T20:50:37-07:00</published>
+    <updated>2019-07-07T20:50:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-watermelon-15oz-48ct"/>
+    <title>Kool-Aid Unsweetened Watermelon .15oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Watermelon.jpg?v=1579546478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208803487817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208803291209</id>
+    <published>2019-07-07T20:48:02-07:00</published>
+    <updated>2019-07-07T20:48:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-sharkleberry-fin-16oz-48ct"/>
+    <title>Kool-Aid Unsweetened Sharkleberry Fin .16oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Sharkleberry_Fin.jpg?v=1579546476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208803291209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018587721</id>
+    <published>2019-01-24T16:10:20-08:00</published>
+    <updated>2019-01-24T16:10:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-lemon-lime-13oz-48ct"/>
+    <title>Kool-Aid Unsweetened Lemon Lime .13oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Lemon_Lime.jpg?v=1579546471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018587721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018522185</id>
+    <published>2019-01-24T16:10:20-08:00</published>
+    <updated>2019-01-24T16:10:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-black-cherry-13oz-48ct"/>
+    <title>Kool-Aid Unsweetened Black Cherry .13oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Black_Cherry_.13oz.jpg?v=1579546468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black cherry</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018522185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018489417</id>
+    <published>2019-01-24T16:10:19-08:00</published>
+    <updated>2019-01-24T16:10:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-orange-15oz-48ct"/>
+    <title>Kool-Aid Unsweetened Orange .15oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Orange.jpg?v=1579546473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018489417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018456649</id>
+    <published>2019-01-24T16:10:19-08:00</published>
+    <updated>2019-01-24T16:10:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-mixed-berry-22oz-48ct"/>
+    <title>Kool-Aid Unsweetened Mixed Berry .22oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Mixed_Berry.jpg?v=1579546473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018456649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018423881</id>
+    <published>2019-01-24T16:10:19-08:00</published>
+    <updated>2019-01-24T16:10:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-mandarina-tangerine-16oz-48ct"/>
+    <title>Kool-Aid Unsweetened Mandarina Tangerine .16oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Mandarina_Tangerine.jpg?v=1579546472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>mandarina</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tangerine</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018423881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018391113</id>
+    <published>2019-01-24T16:10:18-08:00</published>
+    <updated>2019-01-24T16:10:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-strawberry-kiwi-17oz-48ct"/>
+    <title>Kool-Aid Unsweetened Strawberry Kiwi .17oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Strawberry_Kiwi.jpg?v=1579546478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kiwi</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018391113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018358345</id>
+    <published>2019-01-24T16:10:18-08:00</published>
+    <updated>2019-01-24T16:10:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-jamaica-14oz-48ct"/>
+    <title>Kool-Aid Unsweetened Jamaica .14oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Jamaica.jpg?v=1579546470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>jamaica</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018358345</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018325577</id>
+    <published>2019-01-24T16:10:18-08:00</published>
+    <updated>2019-01-24T16:10:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-soarin-strawberry-lemonade-19oz-48ct"/>
+    <title>Kool-Aid Unsweetened Soarin&apos; Strawberry Lemonade .19oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Soarin_Strawberry_Lemonade.jpg?v=1579546477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018325577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018292809</id>
+    <published>2019-01-24T16:10:17-08:00</published>
+    <updated>2019-01-24T16:10:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-blastin-berry-cherry-17oz-48ct"/>
+    <title>Kool-Aid Unsweetened Blastin Berry Cherry .17oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Blastin_Berry_Cherry.jpg?v=1579546469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018292809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018260041</id>
+    <published>2019-01-24T16:10:17-08:00</published>
+    <updated>2019-01-24T16:10:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-lemonade-23oz-48ct"/>
+    <title>Kool-Aid Unsweetened Lemonade .23oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Lemonade.jpg?v=1579546471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018260041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018227273</id>
+    <published>2019-01-24T16:10:16-08:00</published>
+    <updated>2019-01-24T16:10:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-cherry-13oz-48ct"/>
+    <title>Kool-Aid Unsweetened Cherry .13oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Cherry.jpg?v=1579546469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cherry</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018227273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018194505</id>
+    <published>2019-01-24T16:10:16-08:00</published>
+    <updated>2019-01-24T16:10:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-pink-lemonade-23oz-48ct"/>
+    <title>Kool-Aid Unsweetened Pink Lemonade .23oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Pink_Lemonade.jpg?v=1579546475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018194505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018161737</id>
+    <published>2019-01-24T16:10:16-08:00</published>
+    <updated>2019-01-24T16:10:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-blue-raspberry-lemonade-22oz-48ct"/>
+    <title>Kool-Aid Unsweetened  Blue Raspberry Lemonade .22oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Blue_Raspberry_Lemonade_.22oz.jpg?v=1579546468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018161737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018128969</id>
+    <published>2019-01-24T16:10:15-08:00</published>
+    <updated>2019-01-24T16:10:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-trop-punch-16oz-48ct"/>
+    <title>Kool-Aid Unsweetened Tropical Punch .16oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Trop_Punch.jpg?v=1579546478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>tropical punch</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018128969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018096201</id>
+    <published>2019-01-24T16:10:15-08:00</published>
+    <updated>2019-01-24T16:10:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-grape-14oz-48ct"/>
+    <title>Kool-Aid Unsweetened Grape .14oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Grape.jpg?v=1579546470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018096201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018063433</id>
+    <published>2019-01-24T16:10:14-08:00</published>
+    <updated>2019-01-24T16:10:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-strawberry-14oz-48ct"/>
+    <title>Kool-Aid Unsweetened Strawberry .14oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Strawberry.jpg?v=1579546477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018063433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032018030665</id>
+    <published>2019-01-24T16:10:14-08:00</published>
+    <updated>2019-01-24T16:10:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-pina-pineapple-14oz-48ct"/>
+    <title>Kool-Aid Unsweetened Pina Pineapple .14oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Pina_Pineapple.jpg?v=1579546474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pineapple</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032018030665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032017997897</id>
+    <published>2019-01-24T16:10:14-08:00</published>
+    <updated>2019-01-24T16:10:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-unsweetened-peach-mango-14oz-48ct"/>
+    <title>Kool-Aid Unsweetened Peach Mango .14oz 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-Aid_Unsweetened_Peach_Mango.jpg?v=1579546474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drink</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peach</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032017997897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/jolly-rancher.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-25T15:16:56-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6583896899669</id>
+    <published>2021-05-25T15:16:56-07:00</published>
+    <updated>2021-05-25T15:16:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-fruit-chew-filled-lollipops-100ct"/>
+    <title>Jolly Rancher Fruit Chew Filled Lollipops 100ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/17040.jpg?v=1621980984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583896899669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569993797717</id>
+    <published>2021-04-18T21:15:10-07:00</published>
+    <updated>2021-04-18T21:15:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-peg-bag-hard-tropical-6-5oz-12ct"/>
+    <title>Jolly Rancher Peg Bag Hard Tropical 6.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JollyRancherPegBagHardTropical6.5oz.jpg?v=1618805477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569993797717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6550016426069</id>
+    <published>2021-03-11T20:10:30-08:00</published>
+    <updated>2021-03-11T20:10:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-peg-bag-hard-candy-zero-sugar-6-1oz-8ct"/>
+    <title>Jolly Rancher Zero Sugar Pouch 6.1oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ZeroSugarJollyRancher.jpg?v=1615517810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6550016426069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475585036373</id>
+    <published>2019-12-31T19:03:52-08:00</published>
+    <updated>2019-12-31T19:03:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-sour-gummies-theater-box-3-5oz-11ct"/>
+    <title>Jolly Rancher Sour Gummies Theater Box 3.5oz 11ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jolly_Rancher_Sour_Gummies_Theater_Box.jpg?v=1579544938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475585036373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015212617</id>
+    <published>2019-01-24T16:09:43-08:00</published>
+    <updated>2019-01-24T16:09:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-lollipops-4-flavors-30oz-50ct"/>
+    <title>Jolly Rancher Lollipops 4 Flavors 30oz 50ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jolly_Rancher_Lollipops_4_Flavors_30oz_50ct.jpg?v=1579544936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015212617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013508681</id>
+    <published>2019-01-24T16:09:23-08:00</published>
+    <updated>2019-01-24T16:09:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-pack-12pc-hard-strawberry-apple-1-2oz-12ct"/>
+    <title>Jolly Rancher Pack 12pc Hard Strawberry &amp; Apple 1.2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jolly_Rancher_Pack_12pc_Hard_Strawberry_Apple_1.2oz_12ct_2.png?v=1579544937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013508681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820869525577</id>
+    <published>2018-11-07T10:51:25-08:00</published>
+    <updated>2018-11-07T10:51:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-theater-size-gummies-asstd-4-5oz-12ct"/>
+    <title>Jolly Rancher Gummies Theater Box 3.5oz 11ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/450842.jpg?v=1582570587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820869525577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820866936905</id>
+    <published>2018-11-07T10:51:04-08:00</published>
+    <updated>2018-11-07T10:51:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-peg-bag-hard-sugar-free-asstd-3-6oz-12ct"/>
+    <title>Jolly Rancher Peg Bag Hard Candy - Sugar Free  3.6oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jolly_Rancher_Peg_Bag_Hard_Sugar_Free_Asstd_3.6oz.jpg?v=1544682819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820866936905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858974281</id>
+    <published>2018-11-07T10:49:58-08:00</published>
+    <updated>2018-11-07T10:49:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-box-fruit-chews-original-2-06oz-12ct"/>
+    <title>Jolly Rancher Box Fruit Chews Original 2.06oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jolly_Rancher_Box_Fruit_Chews_Original_2.06oz.jpg?v=1544682338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858974281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

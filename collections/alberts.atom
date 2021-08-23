@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/alberts.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:54:50-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2106258653257</id>
+    <published>2021-08-11T14:54:50-07:00</published>
+    <updated>2021-08-11T14:54:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-color-splash-pops-blue-30ct"/>
+    <title>Alberts Color Splash Pops Blue 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Color_Splash_Pops_Blue.jpg?v=1555352863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>jar</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258653257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227034947657</id>
+    <published>2021-04-01T22:27:33-07:00</published>
+    <updated>2021-04-01T22:27:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-pearl-color-splash-pops-baby-pink-30ct"/>
+    <title>Alberts Pearl Color Splash Pops Baby Pink 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Pearl_Color_Splash_Pops_Baby_Pink_-_Strawberry_30ct_a9ab97cc-72af-4d38-a055-27155266c476.jpg?v=1565634093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>color splash</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227034947657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170816331849</id>
+    <published>2019-05-08T12:20:55-07:00</published>
+    <updated>2019-05-08T12:20:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-candy-straws-flinstones-48ct"/>
+    <title>Alberts Candy Straws Flinstones 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Candy_Straws_Flinstones.jpg?v=1563134303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>flinstones</s:tag>
+    <s:tag>powder</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170816331849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106258554953</id>
+    <published>2019-03-06T10:10:52-08:00</published>
+    <updated>2019-03-06T10:10:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-color-splash-pops-tutti-frutti-30ct"/>
+    <title>Alberts Color Splash Pops Rainbow - Tutti Frutti 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Color_Splash_Pops_Tutti_Frutti.jpg?v=1555352865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258554953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011378761</id>
+    <published>2019-01-24T16:09:01-08:00</published>
+    <updated>2019-01-24T16:09:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-pearl-color-splash-pops-baby-blue-blueberry-30ct"/>
+    <title>Alberts Pearl Color Splash Pops Baby Blue - Blueberry 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Pearl_Color_Splash_Pops_Baby_Blue.jpg?v=1555352868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>blueberry</s:tag>
+    <s:tag>color splash</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011378761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/jones-soda.atom"/>
+  <title>candynow.ca</title>
+  <updated>2018-12-28T11:10:56-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/1991425261641</id>
+    <published>2018-12-28T11:10:56-08:00</published>
+    <updated>2018-12-28T11:10:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jones-carbonated-candy-cherry-cola-8ct"/>
+    <title>Jones Carbonated Candy Cherry Cola 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jones_Carbonated_Candy_Cherry_Cola.jpg?v=1579544938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>cola</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>jones</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425261641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425196105</id>
+    <published>2018-12-28T11:10:56-08:00</published>
+    <updated>2018-12-28T11:10:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jones-carbonated-candy-grape-8ct"/>
+    <title>Jones Carbonated Candy Grape 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jones_Carbonated_Candy_Grape.jpg?v=1579544939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>jones</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425196105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425163337</id>
+    <published>2018-12-28T11:10:56-08:00</published>
+    <updated>2018-12-28T11:10:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jones-carbonated-candy-green-apple-8ct"/>
+    <title>Jones Carbonated Candy Green Apple 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jones_Carbonated_Candy_Green_Apple.jpg?v=1579544940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>green apple</s:tag>
+    <s:tag>jones</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425163337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425130569</id>
+    <published>2018-12-28T11:10:55-08:00</published>
+    <updated>2018-12-28T11:10:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jones-carbonated-candy-fufu-berry-8ct"/>
+    <title>Jones Carbonated Candy Fufu Berry 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jones_Carbonated_Candy_Fufu_Berry.jpg?v=1579544939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>big sky</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>jones</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425130569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425097801</id>
+    <published>2018-12-28T11:10:55-08:00</published>
+    <updated>2018-12-28T11:10:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jones-carbonated-candy-berry-lemonade-8ct"/>
+    <title>Jones Carbonated Candy Berry Lemonade 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jones_Carbonated_Candy_Berry_Lemonade.jpg?v=1579544938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>big sky</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>jones</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425097801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

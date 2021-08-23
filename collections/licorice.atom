@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/licorice.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T19:46:08-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592824868949</id>
+    <published>2021-06-19T19:46:08-07:00</published>
+    <updated>2021-06-19T19:46:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kervan-bulk-licorice-sugared-sour-blue-raspberry-laces-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Licorice Sugared Sour Blue Raspberry Laces 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/90102.jpg?v=1627079130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592824868949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6577469259861</id>
+    <published>2021-05-09T21:58:10-07:00</published>
+    <updated>2021-05-09T21:58:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-cherry-40ct-europe"/>
+    <title>Mentos Cherry 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0188.jpg?v=1620622219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6577469259861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4357301207125</id>
+    <published>2021-02-22T16:20:50-08:00</published>
+    <updated>2021-02-22T16:20:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/meenk-licorice-root-1kg-tub-1ct-netherlands"/>
+    <title>Meenk Licorice Root 1kg Tub 1ct (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Meenk_Licorice_Root_1kg_Tub_1.jpg?v=1579547038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>tub</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4357301207125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4838202802261</id>
+    <published>2021-02-01T17:09:08-08:00</published>
+    <updated>2021-02-01T17:09:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/clawhammer-black-licorice-organic-mints-12ct"/>
+    <title>Clawhammer Black Licorice Organic Mints 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ClawhammerBlackLicoriceOrganicMints_da5bb807-c493-4177-971d-887c0987cfd8.jpg?v=1612228133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>clawhammer</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4838202802261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4836791058517</id>
+    <published>2021-01-28T17:48:14-08:00</published>
+    <updated>2021-01-28T17:48:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gerrit-broadway-strawberry-wheels-bulk-4-4lb-1ct"/>
+    <title>Gerrit Broadway Strawberry Wheels Bulk 4.4lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/185052.jpg?v=1611884862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gerrit</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4836791058517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728510414933</id>
+    <published>2020-07-14T21:06:51-07:00</published>
+    <updated>2020-07-14T21:06:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-gustafs-bulk-laces-licorice-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Licorice 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkLacesLicorice.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728510414933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566028058709</id>
+    <published>2020-03-17T17:51:12-07:00</published>
+    <updated>2020-03-17T17:51:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-blue-raspberry-laces-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Blue Raspberry Laces 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkBlueRaspberryLaces2lb.jpg?v=1584988717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566028058709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566026092629</id>
+    <published>2020-03-17T17:48:27-07:00</published>
+    <updated>2020-03-17T17:48:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-grape-laces-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Grape Laces 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/GustafsBulkGrapeLaces2lb.jpg?v=1584988718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566026092629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566024716373</id>
+    <published>2020-03-17T17:46:17-07:00</published>
+    <updated>2020-03-17T17:46:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-laces-pink-lemoade-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Pink Lemoade 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkLacesPinkLemoade2lb.jpg?v=1584988717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566024716373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566022488149</id>
+    <published>2020-03-17T17:43:45-07:00</published>
+    <updated>2020-03-17T17:43:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-laces-strawberry-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Strawberry 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkLacesStrawberry2lb.jpg?v=1584988718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566022488149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505769246805</id>
+    <published>2020-01-23T18:30:33-08:00</published>
+    <updated>2020-01-23T18:30:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-laces-rainbow-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Rainbow 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Bulk_Laces_Rainbow.jpg?v=1580152270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505769246805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4357306875989</id>
+    <published>2019-11-08T13:15:37-08:00</published>
+    <updated>2019-11-08T13:15:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/venco-black-licorice-chalk-1kg-netherlands"/>
+    <title>Venco Black Licorice School Chalk 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Venco_Black_Licorice_Chalk.jpg?v=1579545467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4357306875989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2248205893705</id>
+    <published>2019-09-12T12:14:27-07:00</published>
+    <updated>2019-09-12T12:14:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/napoleon-salmiak-balls-200g-12ct-netherlands"/>
+    <title>Napoleon Salmiak Balls 225g 12ct (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Napoleon_Salmiak_Balls.jpg?v=1579547074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>napoleon</s:tag>
+    <s:tag>peg</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2248205893705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2248228667465</id>
+    <published>2019-09-12T11:58:20-07:00</published>
+    <updated>2019-09-12T11:58:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/venco-school-chalk-licorice-1kg-netherlands"/>
+    <title>Venco School Chalk Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Venco_School_Chalk_Licorice_1kg.jpg?v=1579545468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2248228667465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107678589001</id>
+    <published>2019-07-12T14:04:29-07:00</published>
+    <updated>2019-07-12T14:04:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mentos-drop-40ct-europe"/>
+    <title>Mentos Drop Licorice 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mentos_Drop.png?v=1579547046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mentos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107678589001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2169832636489</id>
+    <published>2019-05-07T15:21:17-07:00</published>
+    <updated>2019-05-07T15:21:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candyland-catherine-wheels-113g-18ct"/>
+    <title>Candyland Catherine Wheels 113g 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candyland_Catherine_Wheels_113g.jpg?v=1557772366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>candyland</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2169832636489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.84</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2167058530377</id>
+    <published>2019-04-30T10:35:20-07:00</published>
+    <updated>2019-04-30T10:35:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/k-h-salmiak-rockies-licorice-1kg-netherlands"/>
+    <title>K&amp;H Salmiak Rockies Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/K_H_Salmiak_Rockies_Licorice.jpg?v=1579544945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2167058530377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2166630088777</id>
+    <published>2019-04-29T22:14:35-07:00</published>
+    <updated>2019-04-29T22:14:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/venco-griotten-licorice-1kg-netherlands"/>
+    <title>Venco Griotten Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Venco_Griotten_Licorice.jpg?v=1579545467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>venco</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2166630088777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2166628253769</id>
+    <published>2019-04-29T22:02:02-07:00</published>
+    <updated>2019-04-29T22:02:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/venco-honey-beehive-licorice-1kg-netherlands"/>
+    <title>Venco Honey Beehive Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Venco_Honey_Beehive_Licorice.jpg?v=1579545468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>honey</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>venco</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2166628253769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2152415101001</id>
+    <published>2019-04-10T19:14:01-07:00</published>
+    <updated>2019-04-10T19:14:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-pontefract-cakes-160g-12ct-uk"/>
+    <title>Haribo Pontefract Cakes 160g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Haribo_Pontefract_Cakes.jpg?v=1555354844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2152415101001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107562098761</id>
+    <published>2019-03-07T20:28:05-08:00</published>
+    <updated>2019-03-07T20:28:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/k-h-coin-licorice-1kg-netherlands"/>
+    <title>K&amp;H Coin Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/K_H_Coin_Licorice.jpg?v=1579544941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107562098761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107534966857</id>
+    <published>2019-03-07T20:10:07-08:00</published>
+    <updated>2019-03-07T20:10:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cci-licorice-turinos-1kg-netherlands"/>
+    <title>CCI Licorice Turinos 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CCI_Licorice_Turinos.jpg?v=1555352964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107534966857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107514519625</id>
+    <published>2019-03-07T20:01:39-08:00</published>
+    <updated>2019-03-07T20:01:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/k-h-cats-licorice-1kg-netherlands"/>
+    <title>K&amp;H Cats Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cats_Licorice.jpg?v=1579544941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107514519625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107500724297</id>
+    <published>2019-03-07T19:53:53-08:00</published>
+    <updated>2019-03-07T19:53:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/k-h-farm-licorice-1kg-netherlands"/>
+    <title>K&amp;H Farm Licorice 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Farm_Licorice.jpg?v=1579544943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107500724297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2107488305225</id>
+    <published>2019-03-07T19:50:13-08:00</published>
+    <updated>2019-03-07T19:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/k-h-salty-licorice-diamonds-1kg-netherlands"/>
+    <title>K&amp;H Salty Licorice Diamonds 1kg (Netherlands)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Licorice_Diamonds.jpg?v=1579546439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2107488305225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

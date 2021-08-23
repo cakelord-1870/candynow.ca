@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/skittles.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-04-18T21:20:50-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6569994715221</id>
+    <published>2021-04-18T21:20:50-07:00</published>
+    <updated>2021-04-18T21:20:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/skittles-gummies-wild-berry-peg-bag-5-8oz-12ct"/>
+    <title>Skittles Gummies Wild Berry Peg Bag 5.8oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/417962.jpg?v=1618806038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>skittles</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569994715221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569994485845</id>
+    <published>2021-04-18T21:19:15-07:00</published>
+    <updated>2021-04-18T21:19:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/skittles-peg-bag-gummies-original-5-8oz-12ct"/>
+    <title>Skittles Gummies Original Peg Bag 5.8oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/417960.jpg?v=1618805866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>skittles</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569994485845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4759531126869</id>
+    <published>2020-09-03T15:54:38-07:00</published>
+    <updated>2020-09-03T15:54:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/skittles-smoothies-singles-1-76oz-24ct"/>
+    <title>Skittles Smoothies Singles 1.76oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SkittlesSmoothies.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>skittles</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4759531126869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010231881</id>
+    <published>2019-01-24T16:08:48-08:00</published>
+    <updated>2019-01-24T16:08:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/skittles-original-theater-box-4oz-12-ct"/>
+    <title>Skittles Original Theater Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Skittles_Original_Theater_Box_4oz.jpg?v=1579545407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>skittles</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010231881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010133577</id>
+    <published>2019-01-24T16:08:47-08:00</published>
+    <updated>2019-01-24T16:08:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/skittles-brightside-2-00-oz-24ct"/>
+    <title>Skittles Brightside 2.00oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Skittles_Brightside_2.00oz.jpg?v=1579545405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>skittles</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010133577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

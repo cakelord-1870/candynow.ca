@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/trident.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:54:56-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2032012263497</id>
+    <published>2021-08-11T14:54:56-07:00</published>
+    <updated>2021-08-11T14:54:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-mint-sweet-twist-14pc-12ct"/>
+    <title>Trident Single Mint Sweet Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Mint_Sweet_Twist.jpg?v=1579545451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012263497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012722249</id>
+    <published>2020-02-18T17:46:11-08:00</published>
+    <updated>2020-02-18T17:46:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-lime-passionfruit-twist-14pc-12ct"/>
+    <title>Trident Single Lime Passionfruit Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Lime_Passionfruit_Twist.jpg?v=1579545450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>passion fruit</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012722249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012525641</id>
+    <published>2020-02-18T17:46:10-08:00</published>
+    <updated>2020-02-18T17:46:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-wild-blueberry-twist-14pc-12ct"/>
+    <title>Trident Single Wild Blueberry Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Wild_Blueberry_Twist..jpg?v=1579545457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blueberry</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012525641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012165193</id>
+    <published>2020-02-18T17:46:10-08:00</published>
+    <updated>2020-02-18T17:46:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-black-raspberry-twist-14pc-12ct"/>
+    <title>Trident Single Black Raspberry Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Black_Raspberry_Twist.jpg?v=1579545448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012165193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012918857</id>
+    <published>2019-01-24T16:09:16-08:00</published>
+    <updated>2019-01-24T16:09:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-bubblegum-14pc-12ct"/>
+    <title>Trident Single Bubblegum 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Bubblegum.jpg?v=1579545448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012918857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012853321</id>
+    <published>2019-01-24T16:09:16-08:00</published>
+    <updated>2019-01-24T16:09:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-pineapple-twist-14pc-12ct"/>
+    <title>Trident Single Pineapple Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Pineapple_Twist.jpg?v=1579545453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>pineapple</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012853321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012656713</id>
+    <published>2019-01-24T16:09:14-08:00</published>
+    <updated>2019-01-24T16:09:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-spearmint-14pc-12ct"/>
+    <title>Trident Single Spearmint 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Spearmint.jpg?v=1581359538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>spearmint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012656713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012623945</id>
+    <published>2019-01-24T16:09:14-08:00</published>
+    <updated>2019-01-24T16:09:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-tropical-twist-14pc-12ct"/>
+    <title>Trident Single Tropical Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Tropical_Twist.jpg?v=1581359539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012623945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012591177</id>
+    <published>2019-01-24T16:09:13-08:00</published>
+    <updated>2019-01-24T16:09:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-wintergreen-14pc-12ct"/>
+    <title>Trident Single Wintergreen 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Wintergreen.jpg?v=1581359540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012591177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012558409</id>
+    <published>2019-01-24T16:09:13-08:00</published>
+    <updated>2019-01-24T16:09:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-dragonfruit-lychee-14pc-12ct"/>
+    <title>Trident Single Dragonfruit Lychee 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Dragonfruit_Lychee.jpg?v=1581359538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>dragon fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>lychee</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012558409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012460105</id>
+    <published>2019-01-24T16:09:12-08:00</published>
+    <updated>2019-01-24T16:09:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-peppermint-14pc-12ct"/>
+    <title>Trident Single Peppermint 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Peppermint.jpg?v=1579545453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012460105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012427337</id>
+    <published>2019-01-24T16:09:11-08:00</published>
+    <updated>2019-01-24T16:09:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-strawberry-twist-14pc-12ct"/>
+    <title>Trident Single Strawberry Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Strawberry_Twist.jpg?v=1579545455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012427337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012394569</id>
+    <published>2019-01-24T16:09:11-08:00</published>
+    <updated>2019-01-24T16:09:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-watermelon-twist-14pc-12ct"/>
+    <title>Trident Single Watermelon Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Watermelon_Twist.jpg?v=1581359540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012394569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012361801</id>
+    <published>2019-01-24T16:09:11-08:00</published>
+    <updated>2019-01-24T16:09:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-cinnamon-14pc-12ct"/>
+    <title>Trident Single Cinnamon 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Cinnamon.jpg?v=1579545449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012361801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012230729</id>
+    <published>2019-01-24T16:09:09-08:00</published>
+    <updated>2019-01-24T16:09:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-mint-bliss-14pc-12ct"/>
+    <title>Trident Single Mint Bliss 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Mint_Bliss.jpg?v=1581359538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012230729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

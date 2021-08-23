@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/bubble-gum.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-12T21:02:17-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6613754380373</id>
+    <published>2021-08-12T21:02:17-07:00</published>
+    <updated>2021-08-12T21:02:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-hie-hie-pineapple-gum-20ct-japan"/>
+    <title>Marukawa Hie Hie Pineapple Gum 20ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/marukawa.jpg?v=1628827193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6613754380373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012263497</id>
+    <published>2021-08-11T14:54:56-07:00</published>
+    <updated>2021-08-11T14:54:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-mint-sweet-twist-14pc-12ct"/>
+    <title>Trident Single Mint Sweet Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Mint_Sweet_Twist.jpg?v=1579545451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012263497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592810352725</id>
+    <published>2021-06-19T19:06:25-07:00</published>
+    <updated>2021-06-19T19:06:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cry-baby-nitro-sours-gumballs-9-ball-tube-24ct"/>
+    <title>Cry Baby Nitro Sours Gumballs 9 Ball Tube 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/99425.jpg?v=1624154668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>concord</s:tag>
+    <s:tag>dubble bubble</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592810352725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6562801713237</id>
+    <published>2021-04-01T17:44:41-07:00</published>
+    <updated>2021-04-01T17:44:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rain-blo-jum-blo-gumball-tube-2-5oz-24ct"/>
+    <title>Rain-Blo Jum-Blo Gumball Tube 2.5oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/825411.jpg?v=1617324272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>concord</s:tag>
+    <s:tag>dubble bubble</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6562801713237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6549990998101</id>
+    <published>2021-03-12T08:42:40-08:00</published>
+    <updated>2021-03-12T08:42:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/smarties-10-gum-ball-tube-2oz-12ct"/>
+    <title>Smarties 10 Gumball Tube 2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/65583.jpg?v=1615522524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>gumball</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6549990998101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6549989163093</id>
+    <published>2021-03-12T08:42:40-08:00</published>
+    <updated>2021-03-12T08:42:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-super-sour-10-ball-tube-2oz-12ct"/>
+    <title>Warheads Super Sour 10 Gum Ball Tube 2oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/65585.jpg?v=1615522523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6549989163093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6549987393621</id>
+    <published>2021-03-11T20:10:29-08:00</published>
+    <updated>2021-03-11T20:10:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-55ct-minis-to-go-cup-3-7oz-6ct"/>
+    <title>Big League Chew 55ct To Go Cup 3.7oz 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/66179.png?v=1615522522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6549987393621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6549987164245</id>
+    <published>2021-03-11T20:10:29-08:00</published>
+    <updated>2021-03-11T20:10:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dubble-bubble-gumballs-refill-carton-20oz-12ct"/>
+    <title>Dubble Bubble Gumballs Refill Carton 20oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/340021.jpg?v=1615522521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>concord</s:tag>
+    <s:tag>dispenser</s:tag>
+    <s:tag>dubble bubble</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>gumball</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6549987164245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843158143061</id>
+    <published>2021-02-19T16:33:26-08:00</published>
+    <updated>2021-02-19T16:33:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dubble-bubble-3oz-big-bar-24ct"/>
+    <title>Dubble Bubble 3oz Big Bar 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/18050.jpg?v=1614830028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>concord</s:tag>
+    <s:tag>dubble bubble</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843158143061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4825866895445</id>
+    <published>2020-12-24T19:18:58-08:00</published>
+    <updated>2020-12-24T19:18:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-hoshi-no-kirby-maze-maze-mix-gum-10ct-japan"/>
+    <title>Marukawa Hoshi No Kirby Maze Maze Mix Gum 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/marukawahoshi.jpg?v=1609569419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4825866895445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4800855900245</id>
+    <published>2020-11-04T17:17:36-08:00</published>
+    <updated>2020-11-04T17:17:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-suppai-lemon-gum-10ct-japan"/>
+    <title>Marukawa Suppai Sour Lemon Gum 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MarukawaSuppaiLemonGum.png?v=1604539347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4800855900245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757270167637</id>
+    <published>2020-09-01T21:35:30-07:00</published>
+    <updated>2020-09-01T21:35:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/canels-4pc-original-gum-60ct-mexico"/>
+    <title>Canels 4pc Original Gum 60ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Canels4PastillasOriginal.jpg?v=1599021389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>canel</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757270167637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757261549653</id>
+    <published>2020-09-01T21:27:32-07:00</published>
+    <updated>2020-09-01T21:27:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-clorets-2-pastillas-menta-100ct-mexico"/>
+    <title>Adams Clorets 2 Pastillas Menta 60ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsCloret_s2PastillasMenta.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>special</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757261549653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757258043477</id>
+    <published>2020-09-01T21:24:16-07:00</published>
+    <updated>2020-09-01T21:24:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-chiclets-2-pastillas-ment-100ct-mexico"/>
+    <title>Adams Chiclets 2 Pastillas Menta 100ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsChiclet_s2PastillasMent.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757258043477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757257519189</id>
+    <published>2020-09-01T21:23:47-07:00</published>
+    <updated>2020-09-01T21:23:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-chiclets-2-pastillas-assorted-100ct-mexico"/>
+    <title>Adams Chiclets 2 Pastillas Assorted 100ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/AdamsChiclet_s2PastillasAssorted.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757257519189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4757207613525</id>
+    <published>2020-09-01T20:23:59-07:00</published>
+    <updated>2020-09-01T20:23:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bubbaloo-menta-50ct-mexico"/>
+    <title>Bubbaloo Menta 50ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BubbalooMenta.jpg?v=1599263341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubbaloo</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4757207613525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4670090477653</id>
+    <published>2020-05-29T16:23:27-07:00</published>
+    <updated>2020-05-29T16:23:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/marukawa-monstro-gum-10ct-japan"/>
+    <title>Marukawa Monstro Gum 10ct (Japan)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Marukawa-MonstroGum10c.jpg?v=1590794771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>japan</s:tag>
+    <s:tag>Mirukawa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4670090477653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4667650703445</id>
+    <published>2020-05-27T15:07:08-07:00</published>
+    <updated>2020-05-27T15:07:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/big-league-chew-girl-strawberry-2-12oz-12ct"/>
+    <title>Big League Chew Girl Strawberry 2.12oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/BigLeagueChewGirlStrawberry2.12oz.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big league</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4667650703445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565812019285</id>
+    <published>2020-03-17T13:45:35-07:00</published>
+    <updated>2020-03-17T13:45:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hubba-bubba-bubble-tape-original-6ct"/>
+    <title>Hubba Bubba Bubble Tape Original 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hubba_Bubba_Bubble_Tape_Original_44af3526-6f62-4646-b7d2-7fced9093e9a.jpg?v=1584988719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>hubba bubba</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565812019285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4549854855253</id>
+    <published>2020-03-01T13:11:28-08:00</published>
+    <updated>2020-03-01T13:11:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bubbaloo-tutti-frutti-50ct-mexico"/>
+    <title>Bubbaloo Tutti Frutti 50ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Bubbaloo_Tutti_Frutti.jpg?v=1583175040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubbaloo</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4549854855253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4546601320533</id>
+    <published>2020-02-26T19:03:23-08:00</published>
+    <updated>2020-02-26T19:03:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/bubbaloo-freza-strawberry-50ct-mexico"/>
+    <title>Bubbaloo Freza - Strawberry 50ct (Mexico)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Bubbaloo_Freza.jpg?v=1583175040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams</s:tag>
+    <s:tag>bubbaloo</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>mexican</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4546601320533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012722249</id>
+    <published>2020-02-18T17:46:11-08:00</published>
+    <updated>2020-02-18T17:46:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-lime-passionfruit-twist-14pc-12ct"/>
+    <title>Trident Single Lime Passionfruit Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Lime_Passionfruit_Twist.jpg?v=1579545450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>passion fruit</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012722249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012525641</id>
+    <published>2020-02-18T17:46:10-08:00</published>
+    <updated>2020-02-18T17:46:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-wild-blueberry-twist-14pc-12ct"/>
+    <title>Trident Single Wild Blueberry Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Wild_Blueberry_Twist..jpg?v=1579545457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blueberry</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012525641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032012165193</id>
+    <published>2020-02-18T17:46:10-08:00</published>
+    <updated>2020-02-18T17:46:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trident-single-black-raspberry-twist-14pc-12ct"/>
+    <title>Trident Single Black Raspberry Twist 14pc 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trident_Single_Black_Raspberry_Twist.jpg?v=1579545448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>sugar free</s:tag>
+    <s:tag>trident</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032012165193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475583004757</id>
+    <published>2019-12-31T19:00:18-08:00</published>
+    <updated>2019-12-31T19:00:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-bites-paradise-blend-2oz-18ct"/>
+    <title>Airheads Bites Paradise Blend 2oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Bites_Paradise_Blend.jpg?v=1579544559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475583004757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

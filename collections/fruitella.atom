@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/fruitella.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-01T10:13:33-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6609098047573</id>
+    <published>2021-08-01T10:13:33-07:00</published>
+    <updated>2021-08-01T10:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-rainbow-rolls-41g-20ct-europe"/>
+    <title>Fruittella Rainbow Rolls 41g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CR0239.png?v=1627837956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098047573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609097982037</id>
+    <published>2021-08-01T10:13:33-07:00</published>
+    <updated>2021-08-01T10:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-citrus-mix-rolls-41g-20ct-europe"/>
+    <title>Fruittella Citrus Mix Rolls 41g 40ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruittellaCitrusMixRolls.png?v=1627837822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609097982037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6573100335189</id>
+    <published>2021-04-27T18:49:52-07:00</published>
+    <updated>2021-04-27T18:49:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruitella-sour-41g-40ct-uk"/>
+    <title>Fruitella Sour 41g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruitellaSour41g.jpg?v=1619574575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6573100335189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2248186593353</id>
+    <published>2020-07-20T17:19:56-07:00</published>
+    <updated>2020-07-20T17:19:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruitella-blackcurrant-41g-40ct-uk"/>
+    <title>Fruitella Blackcurrant 41g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fruitella_Blackcurrant_41g.png?v=1568659719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackcurrant</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gimmy</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2248186593353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4667457241173</id>
+    <published>2020-05-27T11:26:19-07:00</published>
+    <updated>2020-05-27T11:26:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-summer-fruit-rolls-41g-20ct-europe"/>
+    <title>Fruittella Summer Fruit Rolls 41g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruittellaSummerFruitRolls41g20ct.png?v=1590604052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4667457241173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.33</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4667452424277</id>
+    <published>2020-05-27T11:21:22-07:00</published>
+    <updated>2020-05-27T11:21:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruittella-strawberry-rolls-41g-20ct-europe"/>
+    <title>Fruittella Strawberry Rolls 41g 20ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruittellaStrawberryRolls41g20ct.png?v=1590603951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4667452424277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.33</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035642368073</id>
+    <published>2019-01-27T11:51:52-08:00</published>
+    <updated>2019-01-27T11:51:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruitella-summer-fruits-41g-40ct-uk"/>
+    <title>Fruitella Summer Fruits 41g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fruitella_Summer_Fruits_41g.png?v=1555354808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035642368073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035640041545</id>
+    <published>2019-01-27T11:49:12-08:00</published>
+    <updated>2019-01-27T11:49:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruitella-strawberry-41g-40ct-uk"/>
+    <title>Fruitella Strawberry 41g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fruitella_Strawberry_41g.jpg?v=1555354808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035640041545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035637256265</id>
+    <published>2019-01-27T11:46:30-08:00</published>
+    <updated>2019-01-27T11:46:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruitella-english-fruits-41g-40ct-uk"/>
+    <title>Fruitella English Fruits 41g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fruitella_English_Fruits_41g.jpg?v=1555354807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gimmy</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035637256265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

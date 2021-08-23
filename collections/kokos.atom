@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/kokos.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-05-25T13:22:44-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6583878254677</id>
+    <published>2021-05-25T13:22:44-07:00</published>
+    <updated>2021-05-25T13:22:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-sour-candy-grinder-1-02oz-12ct"/>
+    <title>Koko&apos;s Sour Candy Grinder 1.02oz  12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/114672.jpg?v=1622003560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583878254677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2105686294601</id>
+    <published>2021-03-12T08:42:39-08:00</published>
+    <updated>2021-03-12T08:42:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-splash-n-lik-2-60oz-12ct"/>
+    <title>KoKo&apos;s Splash-N-Lik 2.60oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_Splash-N-Lik.jpg?v=1579546465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105686294601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843155652693</id>
+    <published>2021-02-19T16:22:10-08:00</published>
+    <updated>2021-02-19T16:22:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-mr-squeezy-pop-squeeze-n-lik-1-9oz-12ct"/>
+    <title>Koko&apos;s Mr Squeezy Pop Squeeze-N-Lik 1.9oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sMrSqueezyPopSqueeze-N-Lik.jpg?v=1614830029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843155652693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843155357781</id>
+    <published>2021-02-19T16:19:29-08:00</published>
+    <updated>2021-02-19T16:19:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-alien-twist-n-lik-candy-0-88oz-12ct"/>
+    <title>Koko&apos;s Alien Twist-N-Lik Candy 0.88oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sAlienTwist-N-LikCandy.jpg?v=1613780342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843155357781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843155062869</id>
+    <published>2021-02-19T16:16:36-08:00</published>
+    <updated>2021-02-19T16:16:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-pull-back-spaceship-lolli-53oz-12ct"/>
+    <title>Koko&apos;s Pull-Back Spaceship Lolli .53oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sPull-BackSpaceshipLolli.53oz.jpg?v=1614830029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843155062869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4843154604117</id>
+    <published>2021-02-19T16:13:42-08:00</published>
+    <updated>2021-02-19T16:13:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-dip-n-lik-crazy-bird-0-95oz-12ct"/>
+    <title>Koko&apos;s Dip-N-Lik Crazy Bird 0.95oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sDip-N-LikCrazyBird.jpg?v=1613779852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>toy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4843154604117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4809470869589</id>
+    <published>2020-11-17T20:37:35-08:00</published>
+    <updated>2020-11-17T20:37:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-spray-candy-icee-85oz-12ct-1"/>
+    <title>KoKo&apos;s Spray Candy Icee .85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12214b.jpg?v=1605674498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809470869589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4776405303381</id>
+    <published>2020-09-23T17:58:07-07:00</published>
+    <updated>2020-09-23T17:58:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-dip-n-lik-fast-burger-74oz-12ct"/>
+    <title>Koko&apos;s Dip-N-Lik Fast Burger .74oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sDip-N-LikFastBurger.74oz.jpg?v=1603247838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4776405303381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.71</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4776404844629</id>
+    <published>2020-09-23T17:56:32-07:00</published>
+    <updated>2020-09-23T17:56:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-clacker-toy-candy-56oz-12ct"/>
+    <title>Koko&apos;s Clacker Toy &amp; Candy .56oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sClackerToy_Candy.56oz.jpg?v=1603247838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4776404844629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4776403927125</id>
+    <published>2020-09-23T17:52:51-07:00</published>
+    <updated>2020-09-23T17:52:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-rollarball-dip-n-lik-1-76oz-12ct"/>
+    <title>Koko&apos;s Rollarball Dip-N-Lik 1.76oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_sRollarballDip-N-Lik.jpg?v=1603247838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4776403927125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505777897557</id>
+    <published>2020-01-23T19:02:15-08:00</published>
+    <updated>2020-01-23T19:02:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kandy-ka-boom-56oz-12ct"/>
+    <title>Kandy KA-BOOM .56oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kandy_KA-BOOM_.56oz.jpg?v=1580149999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505777897557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505776586837</id>
+    <published>2020-01-23T18:56:44-08:00</published>
+    <updated>2020-01-23T18:56:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-cupcake-dip-n-lik-sprinkles-1-23oz-12ct"/>
+    <title>Koko&apos;s Cupcake Dip-N-Lik Sprinkles 1.23oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Koko_s_Cupcake_Dip-N-Lik_Sprinkles.jpg?v=1580149999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505776586837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285765877833</id>
+    <published>2019-10-17T18:57:22-07:00</published>
+    <updated>2019-10-17T18:57:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-cupcake-coated-popping-candy-53oz-20ct"/>
+    <title>KoKo&apos;s Cupcake Coated Popping Candy .53oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_Cupcake_Coated_Popping_Candy_1.jpg?v=1579546462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cup cake</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285765877833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170219823177</id>
+    <published>2019-05-08T01:25:39-07:00</published>
+    <updated>2019-05-08T01:25:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-dip-n-lik-pacifier-pop-1-13oz-12ct"/>
+    <title>KoKo&apos;s Dip-N-Lik Pacifier Pop 1.13oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_Dip-N-Lik_Pacifier_Pop.jpg?v=1579546464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170219823177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170187120713</id>
+    <published>2019-05-08T01:04:26-07:00</published>
+    <updated>2019-05-08T01:04:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-twist-n-lik-ice-cream-candy-64oz-12ct"/>
+    <title>KoKo&apos;s Twist-N-Lik Ice Cream Candy .64oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_Twist-N-Lik_Ice_Cream_Candy.jpg?v=1579546467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ice cream</s:tag>
+    <s:tag>icee</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170187120713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2170180665417</id>
+    <published>2019-05-08T01:00:47-07:00</published>
+    <updated>2019-05-08T01:00:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/icee-double-squeeze-2-80oz-12ct"/>
+    <title>Icee Double Squeeze 2.80oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Icee_Double_Squeeze.jpg?v=1579544930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>icee</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>squeeze</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2170180665417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106257670217</id>
+    <published>2019-03-06T10:10:42-08:00</published>
+    <updated>2019-03-06T10:10:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/worlds-biggest-sour-candy-necklace-2-13-oz60g-24ct"/>
+    <title>World&apos;s Biggest Sour Candy Necklace 2.13oz (60g) 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/World_s_Biggest_Sour_Candy_Necklace.jpg?v=1579546056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giant</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106257670217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2105693503561</id>
+    <published>2019-03-05T18:16:55-08:00</published>
+    <updated>2019-03-05T18:16:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-squeeze-candy-icee-2-1oz-12ct"/>
+    <title>KoKo&apos;s Squeeze Candy Icee 2.1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_Squeeze_Candy_Icee.jpg?v=1579546467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105693503561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2105689735241</id>
+    <published>2019-03-05T18:06:48-08:00</published>
+    <updated>2019-03-05T18:06:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-spray-candy-slush-puppie-85oz-12ct"/>
+    <title>KoKo&apos;s Spray Candy Slush Puppie .85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_Spray_Candy_Slush_Puppie.jpg?v=1579546466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105689735241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2105066651721</id>
+    <published>2019-03-04T21:33:22-08:00</published>
+    <updated>2019-03-04T21:33:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dip-n-lik-triple-dip-candy-sour-85oz-12ct"/>
+    <title>Dip-N-Lik Triple Dip Candy Sour .85oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Dip-N-Lik_Triple_Dip_Candy_Sour_.85oz.jpg?v=1555354789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>koko</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105066651721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015409225</id>
+    <published>2019-01-24T16:09:45-08:00</published>
+    <updated>2019-01-24T16:09:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-icee-popping-candy-with-lollipop-53oz-18ct"/>
+    <title>Icee Popping Candy with Lollipop .53oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s.jpg?v=1579544931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>icee</s:tag>
+    <s:tag>KoKo&apos;s</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015409225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014131273</id>
+    <published>2019-01-24T16:09:30-08:00</published>
+    <updated>2019-01-24T16:09:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kokos-worlds-biggest-candy-necklace-2-13oz-24ct"/>
+    <title>World&apos;s Biggest Candy Necklace 2.13oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KoKo_s_World_s_Biggest_Candy_Necklace_2.13oz.jpg?v=1579546055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giant</s:tag>
+    <s:tag>koko&apos;s</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014131273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/gustafs.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-19T19:46:08-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6592824868949</id>
+    <published>2021-06-19T19:46:08-07:00</published>
+    <updated>2021-06-19T19:46:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kervan-bulk-licorice-sugared-sour-blue-raspberry-laces-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Licorice Sugared Sour Blue Raspberry Laces 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/90102.jpg?v=1627079130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592824868949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728510414933</id>
+    <published>2020-07-14T21:06:51-07:00</published>
+    <updated>2020-07-14T21:06:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-gustafs-bulk-laces-licorice-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Licorice 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkLacesLicorice.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728510414933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566028058709</id>
+    <published>2020-03-17T17:51:12-07:00</published>
+    <updated>2020-03-17T17:51:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-blue-raspberry-laces-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Blue Raspberry Laces 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkBlueRaspberryLaces2lb.jpg?v=1584988717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566028058709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566026092629</id>
+    <published>2020-03-17T17:48:27-07:00</published>
+    <updated>2020-03-17T17:48:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-grape-laces-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Grape Laces 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/GustafsBulkGrapeLaces2lb.jpg?v=1584988718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566026092629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566024716373</id>
+    <published>2020-03-17T17:46:17-07:00</published>
+    <updated>2020-03-17T17:46:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-laces-pink-lemoade-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Pink Lemoade 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkLacesPinkLemoade2lb.jpg?v=1584988717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566024716373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4566022488149</id>
+    <published>2020-03-17T17:43:45-07:00</published>
+    <updated>2020-03-17T17:43:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-laces-strawberry-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Strawberry 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_sBulkLacesStrawberry2lb.jpg?v=1584988718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4566022488149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505770066005</id>
+    <published>2020-01-23T18:35:10-08:00</published>
+    <updated>2020-01-23T18:35:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-pink-and-blue-berries-2-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Pink and Blue Berries 2.2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Pink_and_Blue_Berries_2.2lb.jpg?v=1580152270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505770066005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505769246805</id>
+    <published>2020-01-23T18:30:33-08:00</published>
+    <updated>2020-01-23T18:30:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-bulk-laces-rainbow-2lb-1ct"/>
+    <title>Gustaf&apos;s Bulk Laces Rainbow 2lb 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Bulk_Laces_Rainbow.jpg?v=1580152270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505769246805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015769673</id>
+    <published>2019-01-24T16:09:49-08:00</published>
+    <updated>2019-01-24T16:09:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-farm-licorice-5-29oz-12ct"/>
+    <title>Gustaf&apos;s Farm Licorice 5.29oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Farm_Licorice.jpg?v=1555354831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015769673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015736905</id>
+    <published>2019-01-24T16:09:48-08:00</published>
+    <updated>2019-01-24T16:09:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-licorice-duos-5-29oz-12ct"/>
+    <title>Gustaf&apos;s Licorice Duos 5.29oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Licorice_Duos.jpg?v=1555354832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>duo</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015736905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013279305</id>
+    <published>2019-01-24T16:09:21-08:00</published>
+    <updated>2019-01-24T16:09:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-beehive-licorice-5-29oz-12ct"/>
+    <title>Gustaf&apos;s Beehive Licorice 5.29oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Beehive_Licorice.jpg?v=1555354830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dutch</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>honey</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013279305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013246537</id>
+    <published>2019-01-24T16:09:20-08:00</published>
+    <updated>2019-01-24T16:09:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-canal-houses-5-29oz-12ct"/>
+    <title>Gustaf&apos;s Canal Houses 5.29oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Canal_Houses.jpg?v=1555354830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013246537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032013213769</id>
+    <published>2019-01-24T16:09:20-08:00</published>
+    <updated>2019-01-24T16:09:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gustafs-licorice-beagles-5-29oz-12ct"/>
+    <title>Gustaf&apos;s Licorice Beagles 5.29oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Gustaf_s_Licorice_Beagles.jpg?v=1555354831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>dutch</s:tag>
+    <s:tag>gustaf</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032013213769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

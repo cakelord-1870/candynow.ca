@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/claeys.atom"/>
+  <title>candynow.ca</title>
+  <updated>2018-11-07T10:51:31-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/1820870312009</id>
+    <published>2018-11-07T10:51:31-08:00</published>
+    <updated>2018-11-07T10:51:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-sassafras-6-oz-24ct"/>
+    <title>Claey&apos;s Sassafras 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Sassafras_6_Oz.jpg?v=1548401028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sassafras</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870312009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820868640841</id>
+    <published>2018-11-07T10:51:18-08:00</published>
+    <updated>2018-11-07T10:51:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-natural-peppermint-6oz"/>
+    <title>Claey&apos;s Natural Peppermint 6oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Natural_Peppermint_6oz.jpg?v=1542484440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820868640841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867330121</id>
+    <published>2018-11-07T10:51:08-08:00</published>
+    <updated>2018-11-07T10:51:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-assort-fruit-6-oz-24ct"/>
+    <title>Claey&apos;s Assort Fruit 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Keg_Refills_Assort._Fruit_6_Oz_24ct.jpg?v=1544682832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867330121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820867297353</id>
+    <published>2018-11-07T10:51:07-08:00</published>
+    <updated>2018-11-07T10:51:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-licorice-6-oz-24ct"/>
+    <title>Claey&apos;s Licorice 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Licorice_6_Oz_24ct.jpg?v=1544682827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867297353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865691721</id>
+    <published>2018-11-07T10:50:53-08:00</published>
+    <updated>2018-11-07T10:50:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-cinnamon-6-oz-24ct"/>
+    <title>Claey&apos;s Cinnamon 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Cinnamon_6_Oz.jpg?v=1542484437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865691721</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865658953</id>
+    <published>2018-11-07T10:50:53-08:00</published>
+    <updated>2018-11-07T10:50:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-natural-raspberry-6-oz-24ct"/>
+    <title>Claey&apos;s Natural Raspberry 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Natural_Raspberry_6_Oz.jpg?v=1544682735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865658953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864020553</id>
+    <published>2018-11-07T10:50:38-08:00</published>
+    <updated>2018-11-07T10:50:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-wild-cherry-6-oz-24ct"/>
+    <title>Claey&apos;s Wild Cherry 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Wild_Cherry_6_Oz.jpg?v=1544682624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>clay</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wild</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864020553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863955017</id>
+    <published>2018-11-07T10:50:37-08:00</published>
+    <updated>2018-11-07T10:50:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-green-apple-6-oz-24ct"/>
+    <title>Claey&apos;s Green Apple 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Green_Apple_6_Oz.jpg?v=1542484437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863955017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820863561801</id>
+    <published>2018-11-07T10:50:34-08:00</published>
+    <updated>2018-11-07T10:50:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-natural-horehound-6oz-24ct"/>
+    <title>Claey&apos;s Natural Horehound 6oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Natural_Horehound_6oz.jpg?v=1544682600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>horehound</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820863561801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862677065</id>
+    <published>2018-11-07T10:50:27-08:00</published>
+    <updated>2018-11-07T10:50:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-natural-lemon-6-oz-24ct"/>
+    <title>Claey&apos;s Natural Lemon 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Natural_Lemon_6_Oz.jpg?v=1542484440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862677065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820862644297</id>
+    <published>2018-11-07T10:50:26-08:00</published>
+    <updated>2018-11-07T10:50:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-watermelon-6-oz-24ct"/>
+    <title>Claey&apos;s Watermelon 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Watermelon_6_Oz.jpg?v=1544682534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820862644297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820860940361</id>
+    <published>2018-11-07T10:50:13-08:00</published>
+    <updated>2018-11-07T10:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-root-beer-6-oz-24ct"/>
+    <title>Claey&apos;s Root Beer 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Root_Beer_6_Oz.jpg?v=1544682439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820860940361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820858712137</id>
+    <published>2018-11-07T10:49:55-08:00</published>
+    <updated>2018-11-07T10:49:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/claeys-keg-refills-natural-anise-6-oz-24ct"/>
+    <title>Claey&apos;s Natural Anise 6 Oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Claey_s_Natural_Anise_6_Oz.jpg?v=1542484439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anise</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>claey</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820858712137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

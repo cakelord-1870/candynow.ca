@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/rowntrees.atom"/>
+  <title>candynow.ca</title>
+  <updated>2019-02-21T20:25:09-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2085884559433</id>
+    <published>2019-02-21T20:25:09-08:00</published>
+    <updated>2019-02-21T20:25:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rowntrees-fruit-pastilles-strawberry-blackcurrant-150g-12ct-uk"/>
+    <title>Rowntrees Fruit Pastilles Strawberry &amp; Blackcurrant 150g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rowntrees_Fruit_Pastilles_Strawberry_Blackcurrant_150g.jpg?v=1579545402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackcurrant</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>rowntrees</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2085884559433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458654793</id>
+    <published>2018-12-05T17:50:55-08:00</published>
+    <updated>2018-12-05T17:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rowntrees-jelly-tots-bags-impulse-36-x-47g"/>
+    <title>Rowntrees Jelly Tots Bags 47g 36ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rowntrees_Jelly_Tots_Bags_47g.jpg?v=1579545403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>rowntrees</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458654793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.77</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458622025</id>
+    <published>2018-12-05T17:50:55-08:00</published>
+    <updated>2018-12-05T17:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rowntrees-jelly-tots-bags-12-x-150g"/>
+    <title>Rowntrees Jelly Tots Bags 150g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rowntrees_Jelly_Tots_Bags_150g.jpg?v=1579545402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>rowntrees</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458622025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458589257</id>
+    <published>2018-12-05T17:50:54-08:00</published>
+    <updated>2018-12-05T17:50:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rowntrees-fruit-pastilles-rolls-32-x-52-5g"/>
+    <title>Rowntrees Fruit Pastilles Rolls 52.5g 32ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rowntrees_Fruit_Pastilles_Rolls_52.5g.jpg?v=1579545401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>rowntrees</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458589257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458556489</id>
+    <published>2018-12-05T17:50:54-08:00</published>
+    <updated>2018-12-05T17:50:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rowntrees-fruit-pastilles-bags-12-x-150g"/>
+    <title>Rowntrees Fruit Pastilles Bags 143g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rowntrees_Fruit_Pastilles_Bags_150g.jpg?v=1579545401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>pastille</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>rowntrees</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458556489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458458185</id>
+    <published>2018-12-05T17:50:53-08:00</published>
+    <updated>2018-12-05T17:50:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/rowntrees-fruit-gums-bags-12-x-150g"/>
+    <title>Rowntrees Fruit Gums Bags 150g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Rowntrees_Fruit_Gums_Bags_150g.jpg?v=1579545400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>rowntrees</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458458185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

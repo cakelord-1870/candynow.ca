@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/spread.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T20:33:38-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6612674609237</id>
+    <published>2021-08-11T20:33:38-07:00</published>
+    <updated>2021-08-11T20:33:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pillsbury-oreo-vanilla-frosting-15-6oz-8ct"/>
+    <title>Funfetti Oreo Vanilla Frosting 15.6oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10182878.png?v=1628737228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612674609237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612673396821</id>
+    <published>2021-08-11T20:33:37-07:00</published>
+    <updated>2021-08-11T20:33:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dunkaroos-vanilla-frosting-8ct"/>
+    <title>Dunkaroos Vanilla Frosting 16oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/DunkaroosVanillaFrosting.jpg?v=1628736932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>betty crocker</s:tag>
+    <s:tag>dunkaroos</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612673396821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098178645</id>
+    <published>2021-08-01T10:18:22-07:00</published>
+    <updated>2021-08-01T10:18:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lotus-speculoos-spread-400g-8ct-europe"/>
+    <title>Lotus Speculoos Spread 400g 8ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LotusSpeculoosSpread400g.jpg?v=1627838254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>spread</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098178645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2085906612297</id>
+    <published>2021-02-26T11:43:12-08:00</published>
+    <updated>2021-02-26T11:43:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-spread-crunchie-400g-6ct-uk"/>
+    <title>Cadbury Spread Crunchie 400g 6ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cadbury_Spread_Crunchie_400g.jpg?v=1555352956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2085906612297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2136078516297</id>
+    <published>2020-09-23T10:08:53-07:00</published>
+    <updated>2020-09-23T10:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-caramel-spread-400g-6ct-uk"/>
+    <title>Cadbury Caramel Spread 400g 6ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cadbury_Caramel_Spread_400g.jpg?v=1555352939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2136078516297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728576671829</id>
+    <published>2020-07-15T00:02:08-07:00</published>
+    <updated>2020-07-15T00:02:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/reeses-creamy-peanut-butter-18oz-12ct"/>
+    <title>Reese&apos;s Creamy Peanut Butter 18oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Reese_sCreamyPeanutButter18oz.jpg?v=1594796720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>peanut butter</s:tag>
+    <s:tag>reese</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728576671829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2085910904905</id>
+    <published>2019-02-21T21:08:50-08:00</published>
+    <updated>2019-02-21T21:08:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-spread-milk-chocolate-400g-6ct-uk"/>
+    <title>Cadbury Spread Milk Chocolate 400g 6ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cadbury_Spread_Milk_Chocolate_400g.jpg?v=1555352957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2085910904905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

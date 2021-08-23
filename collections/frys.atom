@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/frys.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-08T16:11:50-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6588618440789</id>
+    <published>2021-06-08T16:11:50-07:00</published>
+    <updated>2021-06-08T16:11:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-turkish-delight-3-pack-153g-22ct-uk"/>
+    <title>Fry&apos;s Turkish Delight 3 Pack 153g 22ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_sTurkishDelight3Pac.jpg?v=1623193900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>turkish delight</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588618440789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6535185432661</id>
+    <published>2021-02-23T16:50:13-08:00</published>
+    <updated>2021-02-23T16:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-raspberry-cream-49g-3pk-18ct-uk"/>
+    <title>Fry&apos;s Raspberry Cream 49g 3pk 18ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_sRaspberryCream49g3pk.jpg?v=1614127799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6535185432661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2169910165577</id>
+    <published>2019-05-07T18:21:21-07:00</published>
+    <updated>2019-05-07T18:21:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-orange-cream-49g-3pk-18ct-uk"/>
+    <title>Fry&apos;s Orange Cream 49g 3pk 18ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_s_Orange_Cream_49g_3pk.jpg?v=1557772372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2169910165577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457704521</id>
+    <published>2018-12-05T17:50:45-08:00</published>
+    <updated>2018-12-05T17:50:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-turkish-delight-std-48-x-51g"/>
+    <title>Fry&apos;s Turkish Delight Standard 51g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Frys_Turkish_Delight.jpg?v=1555354810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>turkish delight</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457704521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457638985</id>
+    <published>2018-12-05T17:50:45-08:00</published>
+    <updated>2018-12-05T17:50:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-peppermint-cream-48-x-49g"/>
+    <title>Fry&apos;s Peppermint Cream 49g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Frys_Peppermint_Cream_49g.jpg?v=1555354809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457638985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958457606217</id>
+    <published>2018-12-05T17:50:44-08:00</published>
+    <updated>2018-12-05T17:50:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-chocolate-cream-48-x-49g"/>
+    <title>Fry&apos;s Chocolate Cream 49g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Frys_Chocolate_Cream_49g.jpg?v=1555354809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958457606217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

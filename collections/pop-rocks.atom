@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/pop-rocks.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-02-19T16:37:38-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2106258423881</id>
+    <published>2021-02-19T16:37:38-08:00</published>
+    <updated>2021-02-19T16:37:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-dips-blue-raspberry-63oz-18ct"/>
+    <title>Pop Rocks Dips Blue Raspberry .63oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Dips_Blue_Raspberry.jpg?v=1579547125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258423881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106258456649</id>
+    <published>2020-10-27T21:24:16-07:00</published>
+    <updated>2020-10-27T21:24:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-dips-sour-apple-18ct"/>
+    <title>Pop Rocks Dips Sour Apple 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Dips_Sour_Apple.jpg?v=1579547126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258456649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106258489417</id>
+    <published>2020-09-25T11:28:09-07:00</published>
+    <updated>2020-09-25T11:28:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-dips-sour-strawberry-18ct"/>
+    <title>Pop Rocks Dips Sour Strawberry 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Dips_Sour_Strawberry.jpg?v=1579547126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258489417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4285777739849</id>
+    <published>2020-09-23T18:07:00-07:00</published>
+    <updated>2020-09-23T18:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-extreme-sour-48ct"/>
+    <title>Pop Rocks Extreme Sour 48ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/pop_rocks_extreme.jpg?v=1579547127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4285777739849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820870017097</id>
+    <published>2018-11-07T10:51:29-08:00</published>
+    <updated>2018-11-07T10:51:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-bubble-gum-33oz-24ct"/>
+    <title>Pop Rocks Bubble Gum .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Bubble_Gum.jpg?v=1542486263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820870017097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820869984329</id>
+    <published>2018-11-07T10:51:28-08:00</published>
+    <updated>2018-11-07T10:51:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-green-apple-33oz-24ct"/>
+    <title>Pop Rocks Green Apple .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Green_Apple.jpg?v=1548401004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820869984329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820869918793</id>
+    <published>2018-11-07T10:51:28-08:00</published>
+    <updated>2018-11-07T10:51:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-tropical-fruit-punch-33oz-24ct"/>
+    <title>Pop Rocks Tropical Punch .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Tropical_Fruit_Punch.jpg?v=1548400998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>punch</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820869918793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865888329</id>
+    <published>2018-11-07T10:50:54-08:00</published>
+    <updated>2018-11-07T10:50:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-blue-razz-33oz-24ct"/>
+    <title>Pop Rocks Blue Razz .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Blue_Razz.jpg?v=1544682744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865888329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865790025</id>
+    <published>2018-11-07T10:50:54-08:00</published>
+    <updated>2018-11-07T10:50:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-grape-33oz-24ct"/>
+    <title>Pop Rocks Grape .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Grape.jpg?v=1544682739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865790025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820865757257</id>
+    <published>2018-11-07T10:50:53-08:00</published>
+    <updated>2018-11-07T10:50:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-strawberry-33oz-24ct"/>
+    <title>Pop Rocks Strawberry .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Strawberry.jpg?v=1542486265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820865757257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864184393</id>
+    <published>2018-11-07T10:50:39-08:00</published>
+    <updated>2018-11-07T10:50:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-cotton-candy-33oz-24ct"/>
+    <title>Pop Rocks Cotton Candy .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Cotton_Candy.jpg?v=1544682638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864184393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864151625</id>
+    <published>2018-11-07T10:50:38-08:00</published>
+    <updated>2018-11-07T10:50:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-original-cherry-33oz-24ct"/>
+    <title>Pop Rocks Original Cherry .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Original_Cherry.jpg?v=1544682633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864151625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864086089</id>
+    <published>2018-11-07T10:50:38-08:00</published>
+    <updated>2018-11-07T10:50:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-rocks-watermelon-33oz-24ct"/>
+    <title>Pop Rocks Watermelon .33oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pop_Rocks_Watermelon.jpg?v=1544682629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>pop rocks</s:tag>
+    <s:tag>popping candy</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864086089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

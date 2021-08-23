@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/american-candy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-19T20:47:09-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6616565481557</id>
+    <published>2021-08-19T20:47:09-07:00</published>
+    <updated>2021-08-19T20:47:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-cinnabon-0-42oz-bags-12ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Cinnabon 0.42oz Bags 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/cinnabon.jpg?v=1629431158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616565481557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564924501</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-smores-5-04oz-bags-12ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Smores 0.42oz Bags 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kellogg_sJumboSnacksSmores5.04oz.jpg?v=1629430713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564924501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564826197</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-fruit-loops-6oz-pouch-4ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Fruit Loops 6oz Pouch 4ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jumbosnacksloops.jpg?v=1629430565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564826197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6616564367445</id>
+    <published>2021-08-19T20:47:08-07:00</published>
+    <updated>2021-08-19T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kelloggs-jumbo-snacks-tiger-paws-6oz-pouch-4ct"/>
+    <title>Kellogg&apos;s Jumbo Snacks Tiger Paws 6oz Pouch 4ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/jumbosnackspaw.jpg?v=1629430231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6616564367445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615196106837</id>
+    <published>2021-08-13T22:24:44-07:00</published>
+    <updated>2021-08-13T22:24:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/minute-maid-blue-raspberry-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Minute Maid Blue Raspberry 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MinuteMaidBlue.jpg?v=1628918191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615196106837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615195353173</id>
+    <published>2021-08-13T22:24:43-07:00</published>
+    <updated>2021-08-13T22:24:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/minute-maid-kiwi-strawberry-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Minute Maid Kiwi Strawberry 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MinuteMaidKiwi.jpg?v=1628918127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615195353173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615192797269</id>
+    <published>2021-08-13T22:24:43-07:00</published>
+    <updated>2021-08-13T22:24:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/minute-maid-berry-punch-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Minute Maid Berry Punch 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MinuteMaidBerryPunch.jpg?v=1628918035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615192797269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615192010837</id>
+    <published>2021-08-13T22:24:42-07:00</published>
+    <updated>2021-08-13T22:24:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sunkist-fruit-punch-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Sunkist Fruit Punch 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/SunkistFruitPunch.jpg?v=1628917797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615192010837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615188111445</id>
+    <published>2021-08-13T22:24:42-07:00</published>
+    <updated>2021-08-13T22:24:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sunkist-peach-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Sunkist Peach 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/72321004.jpg?v=1628917730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615188111445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615186407509</id>
+    <published>2021-08-13T22:24:42-07:00</published>
+    <updated>2021-08-13T22:24:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/exotic-pop-god-holly-yahemi-pineapple-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Exotic Pop God Holly Yahemi Pineapple 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/exotic-pop-yahemi-pineapple-soda-exotic-pop_720x720_262fb5be-7362-4e45-a448-d9623869fc76.jpg?v=1628917240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615186407509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615185391701</id>
+    <published>2021-08-13T22:24:41-07:00</published>
+    <updated>2021-08-13T22:24:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/exotic-pop-wu-tang-pineapple-c-r-e-a-m-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Exotic Pop Wu Tang Pineapple C.R.E.A.M Pineapple 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/wu-tang-pineapple-soda-exotic-pop_720x720_85367f0a-5e15-4822-ae29-de2a0303ba1a.jpg?v=1628917178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615185391701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615184343125</id>
+    <published>2021-08-13T22:24:41-07:00</published>
+    <updated>2021-08-13T22:24:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/exotic-pop-21-savage-glock-in-my-lap-grape-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Exotic Pop 21 Savage Glock In My Lap Grape 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/72321030.jpg?v=1628917065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615184343125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6615181656149</id>
+    <published>2021-08-13T22:24:40-07:00</published>
+    <updated>2021-08-13T22:24:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/exotic-pop-nba-youngboy-strawberry-591ml-24ct-shipping-extra-click-for-details"/>
+    <title>Exotic Pop NBA Youngboy Strawberry 591ml 24ct (Shipping Extra, Click for Details)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/NBAYoungboy.jpg?v=1628916783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ships on a Pallet only</li>
+<li>Discounted shipping rate calculated at time of shipping &amp; added to the invoice </li>
+<li>Free Shipping in Vancouver, BC (Lower Mainland) on drinks order $750 &amp; Above</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>exotic pop</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>shipping extra</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6615181656149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678770773</id>
+    <published>2021-08-11T20:33:42-07:00</published>
+    <updated>2021-08-11T20:33:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-frosted-red-velvet-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Frosted Red Velvet 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10243763.jpg?v=1628739114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678770773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678639701</id>
+    <published>2021-08-11T20:33:41-07:00</published>
+    <updated>2021-08-11T20:33:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-frosted-chocolate-churro-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Frosted Chocolate Churro 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/churro.jpg?v=1628739029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678639701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678312021</id>
+    <published>2021-08-11T20:33:41-07:00</published>
+    <updated>2021-08-11T20:33:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-fruit-loops-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Fruit Loops 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10242212.jpg?v=1628738903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678312021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612678049877</id>
+    <published>2021-08-11T20:33:40-07:00</published>
+    <updated>2021-08-11T20:33:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pop-tarts-frosted-confetti-cupcake-8-pcs-13-5oz-1ct"/>
+    <title>Pop Tarts Frosted Confetti Cupcake 8 pcs 13.5oz 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10140363.jpg?v=1628738781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cookie</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>kellogg&apos;s</s:tag>
+    <s:tag>pop tarts</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612678049877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612677099605</id>
+    <published>2021-08-11T20:33:40-07:00</published>
+    <updated>2021-08-11T20:33:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/funfetti-pancake-waffle-mix-with-oreo-20oz-12ct"/>
+    <title>Funfetti Pancake &amp; Waffle Mix with Oreo 20oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10140363.png?v=1628738134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cake</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612677099605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612676182101</id>
+    <published>2021-08-11T20:33:39-07:00</published>
+    <updated>2021-08-11T20:33:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/funfetti-premium-brownie-mix-with-oreo-15-50oz-12ct"/>
+    <title>Funfetti Premium Brownie Mix with Oreo 15.50oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/brownie_03585a05-d564-453b-bb01-61bee589b00d.jpg?v=1628737874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cake</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612676182101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612675362901</id>
+    <published>2021-08-11T20:33:39-07:00</published>
+    <updated>2021-08-11T20:33:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/funfetti-vanilla-cake-mix-with-oreo-15-25oz-12ct"/>
+    <title>Funfetti Vanilla Cake Mix with Oreo 15.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PillsburyFunfettiOreoVanilaCake-15.25OZ.jpg?v=1628737695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cake</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612675362901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612675199061</id>
+    <published>2021-08-11T20:33:38-07:00</published>
+    <updated>2021-08-11T20:33:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/funfetti-chocolate-cake-mix-with-oreo-15-25oz-12ct"/>
+    <title>Funfetti Chocolate Cake Mix with Oreo 15.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10182878.jpg?v=1628737537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cake</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612675199061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612674609237</id>
+    <published>2021-08-11T20:33:38-07:00</published>
+    <updated>2021-08-11T20:33:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pillsbury-oreo-vanilla-frosting-15-6oz-8ct"/>
+    <title>Funfetti Oreo Vanilla Frosting 15.6oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10182878.png?v=1628737228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>oreo</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612674609237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612673396821</id>
+    <published>2021-08-11T20:33:37-07:00</published>
+    <updated>2021-08-11T20:33:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dunkaroos-vanilla-frosting-8ct"/>
+    <title>Dunkaroos Vanilla Frosting 16oz 8ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/DunkaroosVanillaFrosting.jpg?v=1628736932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>betty crocker</s:tag>
+    <s:tag>dunkaroos</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612673396821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612655734869</id>
+    <published>2021-08-11T19:41:37-07:00</published>
+    <updated>2021-08-11T19:41:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-friday-the-13th-jason-mask-12ct"/>
+    <title>Boston America Friday The 13th Jason Mask 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17611.jpg?v=1628734693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612655734869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6612653998165</id>
+    <published>2021-08-11T19:41:37-07:00</published>
+    <updated>2021-08-11T19:41:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/boston-america-it-pennywise-12ct"/>
+    <title>Boston America IT Pennywise 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/W17610.jpg?v=1628734605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boston america</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6612653998165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

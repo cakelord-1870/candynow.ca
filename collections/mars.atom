@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/mars.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-08T16:28:01-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2105851510857</id>
+    <published>2021-06-08T16:28:01-07:00</published>
+    <updated>2021-06-08T16:28:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-milky-way-21-5g-single-56ct"/>
+    <title>Mars Milky Way 21.5g Single 56ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ars_Milky_Way_21.5g_Single.jpg?v=1579546531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105851510857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574820950101</id>
+    <published>2021-05-05T16:15:31-07:00</published>
+    <updated>2021-05-05T16:15:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/snickers-peanut-butter-squared-1-78oz-18ct"/>
+    <title>Snickers Peanut Butter Squared 1.78oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/39412.png?v=1619765074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hazelnut</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>snickers</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574820950101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840813461589</id>
+    <published>2021-02-09T17:21:45-08:00</published>
+    <updated>2021-02-09T17:21:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/snickers-bar-50g-32ct-europe"/>
+    <title>Snickers Bar 50g 32ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/15867.jpg?v=1612919856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840813461589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4840811987029</id>
+    <published>2021-02-09T17:21:45-08:00</published>
+    <updated>2021-02-09T17:21:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-bar-51g-32ct-europe"/>
+    <title>Mars Bar 51g 32ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/11840.jpg?v=1612919708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4840811987029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4807023362133</id>
+    <published>2020-11-13T17:23:53-08:00</published>
+    <updated>2020-11-13T17:23:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/galaxy-counters-pouch-78g-20ct-uk"/>
+    <title>Galaxy Counters Pouch 78g 20ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/GalaxyCountersPouch78g.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4807023362133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728592891989</id>
+    <published>2020-07-15T00:41:36-07:00</published>
+    <updated>2020-07-15T00:41:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milky-way-fudge-share-size-3oz-24ct"/>
+    <title>Milky Way Fudge Share Size 3oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkyWayFudgeShareSize.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fudge</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728592891989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728590762069</id>
+    <published>2020-07-15T00:37:19-07:00</published>
+    <updated>2020-07-15T00:37:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/twix-white-share-size-2-64oz-20ct"/>
+    <title>Twix White Share Size 2.64oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/TwixWhiteShareSize.jpg?v=1594798803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>twix</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728590762069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4728589844565</id>
+    <published>2020-07-15T00:32:58-07:00</published>
+    <updated>2020-07-15T00:32:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/twix-white-single-1-62oz-20ct"/>
+    <title>Twix White 1.62oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/551278.jpg?v=1594798570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>twix</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4728589844565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011313225</id>
+    <published>2020-06-15T18:13:35-07:00</published>
+    <updated>2020-06-15T18:13:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-crispy-1-35oz-24ct"/>
+    <title>M&amp;M&apos;s Single Bag Crispy 1.35oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_s_Crispy_1.35oz.jpg?v=1579546520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>crispy</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011313225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4702729830485</id>
+    <published>2020-06-15T18:09:38-07:00</published>
+    <updated>2020-06-15T18:09:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-crispy-king-size-2-83oz-24ct"/>
+    <title>M&amp;M&apos;s Crispy King Size 2.83oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_sCrispyKingSize.jpg?v=1592269870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4702729830485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4625806295125</id>
+    <published>2020-05-05T01:17:10-07:00</published>
+    <updated>2020-05-05T01:17:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-fudge-brownie-1-41oz-24ct"/>
+    <title>M&amp;M&apos;s Fudge Brownie 1.41oz  24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_sFudgeBrownie1.41oz.jpg?v=1589223464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fudge</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4625806295125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4505778618453</id>
+    <published>2020-01-23T19:05:21-08:00</published>
+    <updated>2020-01-23T19:05:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/snickers-white-king-size-2-84oz-24ct"/>
+    <title>Snickers White King Size 2.84oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Snickers_White_King_Size_2.84_oz.jpg?v=1580151844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hazelnut</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>snickers</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4505778618453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475622129749</id>
+    <published>2019-12-31T19:46:49-08:00</published>
+    <updated>2019-12-31T19:46:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milky-way-salted-caramel-1-56oz-24ct"/>
+    <title>Milky Way Salted Caramel 1.56oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Milky_Way_Salted_Caramel.jpg?v=1579547062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475622129749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475619147861</id>
+    <published>2019-12-31T19:44:11-08:00</published>
+    <updated>2019-12-31T19:44:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/twix-cookies-creme-1-36oz-20ct"/>
+    <title>Twix Cookies &amp; Creme 1.36oz 20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Twix_Cookies_Creme.jpg?v=1579545463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>twix</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475619147861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475596046421</id>
+    <published>2019-12-31T19:21:55-08:00</published>
+    <updated>2019-12-31T19:21:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/snickers-white-1-41oz-24ct"/>
+    <title>Snickers White 1.41oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Snickers_White_1.41oz.jpg?v=1579545415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hazelnut</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>snickers</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475596046421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475613773909</id>
+    <published>2019-12-31T18:22:53-08:00</published>
+    <updated>2019-12-31T18:22:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milky-way-salted-caramel-king-size-3-16oz-24ct"/>
+    <title>Milky Way Salted Caramel King Size 3.16oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Milky_Way_Salted_Caramel_King_Size.jpg?v=1579547063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475613773909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475609382997</id>
+    <published>2019-12-31T18:22:53-08:00</published>
+    <updated>2019-12-31T18:22:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/twix-cookies-creme-share-size-2-72oz-20ct"/>
+    <title>Twix Cookies &amp; Creme Share Size  2.72oz  20ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Twix_Cookies_Creme_Share_Size.jpg?v=1579545464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>twix</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475609382997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032010920009</id>
+    <published>2019-09-28T18:04:12-07:00</published>
+    <updated>2019-09-28T18:04:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-ms-peanut-coffee-nut-share-size-3-27-oz-24ct"/>
+    <title>M&amp;M&apos;s Peanut Coffee Nut Share Size 3.27oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_s_Peanut_Coffee_Nut_Share_Size_3.27oz.jpg?v=1579546520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>king size</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>nut</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032010920009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208760266825</id>
+    <published>2019-07-07T19:06:04-07:00</published>
+    <updated>2019-07-07T19:06:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-share-size-white-chocolate-2-47oz-24ct"/>
+    <title>M&amp;M Share Size White Chocolate 2.47oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Share_Size_White_Chocolate.jpg?v=1580756309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208760266825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2169917997129</id>
+    <published>2019-05-07T18:28:41-07:00</published>
+    <updated>2019-05-07T18:28:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-revels-35g-36ct-uk"/>
+    <title>Mars Revels 35g 36ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Revels.jpg?v=1579546532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>revels</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2169917997129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2137985482825</id>
+    <published>2019-03-26T19:40:00-07:00</published>
+    <updated>2019-03-26T19:40:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milky-way-midnight-1-76oz-24ct"/>
+    <title>Milky Way Midnight Dark 1.76oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Milky_Way_Midnight_1.76oz.jpg?v=1579547062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dark chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2137985482825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035665895497</id>
+    <published>2019-01-27T12:07:01-08:00</published>
+    <updated>2019-01-27T12:07:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-maltesers-teasers-block-100g-23ct-uk"/>
+    <title>Mars Maltesers Teasers Block 100g 23ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Maltesers_Teasers_Block_100g_23ct.jpg?v=1579546530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>maltesers</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>teasers</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035665895497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.12</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035655409737</id>
+    <published>2019-01-27T12:00:57-08:00</published>
+    <updated>2019-01-27T12:00:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-standard-42g-24ct-uk"/>
+    <title>Mars Galaxy Standard 42g 24ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_Standard_24_x_42g.jpg?v=1579546529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035655409737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2035651051593</id>
+    <published>2019-01-27T11:56:21-08:00</published>
+    <updated>2019-01-27T11:56:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-galaxy-minstrels-standard-42g-40ct-uk"/>
+    <title>Mars Galaxy Minstrels Standard 42g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mars_Galaxy_Minstrels_Standard_40_x_42g.jpg?v=1579546528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>galaxy</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2035651051593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032011280457</id>
+    <published>2019-01-24T16:09:00-08:00</published>
+    <updated>2019-01-24T16:09:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/m-m-theater-box-milk-choc-3-10oz-12ct"/>
+    <title>M&amp;M Theater Box Milk Chocolate  3.10oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/M_M_Theater_Box_Milk_Chocolate_3.10oz.jpg?v=1579546514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>m&amp;m</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032011280457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.33</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

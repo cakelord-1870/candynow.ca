@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/pez.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-04T21:40:54-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6609925832789</id>
+    <published>2021-08-04T21:40:54-07:00</published>
+    <updated>2021-08-04T21:40:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-packs-shopkins-assortment-87oz-12ct"/>
+    <title>Pez Blister Packs Shopkins Assortment .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezBlisterPacksShopkinsAssortment.jpg?v=1628138426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609925832789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609925374037</id>
+    <published>2021-08-04T21:39:05-07:00</published>
+    <updated>2021-08-04T21:39:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-how-to-train-your-dragon-87oz-12ct"/>
+    <title>Pez Blister Pack How to Train Your Dragon .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezBlisterPackHowtoTrainYourDragon.jpg?v=1628138287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609925374037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609925275733</id>
+    <published>2021-08-04T21:36:23-07:00</published>
+    <updated>2021-08-04T21:36:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-treats-taco-hamburger-pizza-6ct"/>
+    <title>Pez Blister Treats Taco, Hamburger, Pizza 6ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezBlisterTreatsAssortmtTaco_Hamb.jpg?v=1628138074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609925275733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592622264405</id>
+    <published>2021-06-18T20:34:32-07:00</published>
+    <updated>2021-06-18T20:34:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-sugar-cookie-6pk-refills-1-74oz-12ct"/>
+    <title>Pez Sugar Cookie 6pk Refills 1.74oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezSugarCookie.jpg?v=1624073585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592622264405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592622035029</id>
+    <published>2021-06-18T20:34:31-07:00</published>
+    <updated>2021-06-18T20:34:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-cotton-candy-6pk-refills-1-74oz-12ct"/>
+    <title>Pez Cotton Candy 6pk Refills 1.74oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezCottonCandy.jpg?v=1624073473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592622035029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592621641813</id>
+    <published>2021-06-18T20:34:31-07:00</published>
+    <updated>2021-06-18T20:34:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-candy-corn-6pk-refills-1-74oz-12ct"/>
+    <title>Pez Candy Corn 6pk Refills 1.74oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezCandyCorn6pkRefills.jpg?v=1624073227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592621641813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592619479125</id>
+    <published>2021-06-18T20:34:31-07:00</published>
+    <updated>2021-06-18T20:34:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-vanilla-cupcake-6pk-refills-1-74oz-12ct"/>
+    <title>Pez Vanilla Cupcake 6pk refills 1.74oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezVanillaCupcake6pkrefills1.74oz1.jpg?v=1624072770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592619479125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827941077077</id>
+    <published>2021-01-01T15:36:39-08:00</published>
+    <updated>2021-01-01T15:36:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-giant-minion-bob-1ct"/>
+    <title>Pez Giant Minion Bob 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/001806.jpg?v=1609544192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827941077077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827940683861</id>
+    <published>2021-01-01T15:35:20-08:00</published>
+    <updated>2021-01-01T15:35:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-giant-bb-8-1ct"/>
+    <title>Pez Giant Star Wars BB-8 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezGiantBB-8CtrDisply.png?v=1609544114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827940683861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827940290645</id>
+    <published>2021-01-01T15:30:10-08:00</published>
+    <updated>2021-01-01T15:30:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-paw-patrol-marsh-cha-marsh-skye-1-74z-1ct"/>
+    <title>Pez Twin Pack Paw Patrol (Marsh/Cha, Marsh/Skye) 1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Chase-_-Rubble-PAW-Patrol-PEZ-Twin-Pack.jpg?v=1609543800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827940290645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827939340373</id>
+    <published>2021-01-01T15:27:46-08:00</published>
+    <updated>2021-01-01T15:27:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-gift-tin-pokeman-4-dispensers-6-rolls-1ct"/>
+    <title>Pez Gift Set Pokemon 4 dispensers+6 rolls 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pokemon-Gift-Set.jpg?v=1609543456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827939340373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827939078229</id>
+    <published>2021-01-01T15:22:30-08:00</published>
+    <updated>2021-01-01T15:22:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-candy-gift-tin-harry-potter-4-dispensers-6-rolls-1ct"/>
+    <title>Pez Gift Tin Harry Potter 4 dispensers+6 rolls 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/955352-HarryPotterGS-Front.jpg?v=1609543243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827939078229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827938652245</id>
+    <published>2021-01-01T15:19:17-08:00</published>
+    <updated>2021-01-01T15:19:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-stranger-things-eleven-mike-dustin-lucas1-74z-1ct"/>
+    <title>Pez Twin Pack Stranger Things (Eleven/Mike, Dustin/Lucas)1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Things.jpg?v=1609543136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827938652245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827938422869</id>
+    <published>2021-01-01T15:17:03-08:00</published>
+    <updated>2021-01-01T15:17:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-starwars-bb-8-mini-driod-kyo-red-storm1-74z-1ct"/>
+    <title>Pez Twin Pack StarWars (Bb-8/Mini Driod,  Kyo/Red Storm)1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/starwars.jpg?v=1609543001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827938422869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827938226261</id>
+    <published>2021-01-01T15:14:42-08:00</published>
+    <updated>2021-01-01T15:14:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-scooby-doo-1-74z-1ct"/>
+    <title>Pez Twin Pack Scooby Doo 1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/001812.jpg?v=1609542879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827938226261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827937964117</id>
+    <published>2021-01-01T15:12:54-08:00</published>
+    <updated>2021-01-01T15:12:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-peppa-pig-peppa-george-princess-pir-1-74z-1ct"/>
+    <title>Pez Twin Pack Peppa Pig (Peppa/George, Princess/Pir) 1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/00240.jpg?v=1609542753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827937964117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827937570901</id>
+    <published>2021-01-01T15:10:17-08:00</published>
+    <updated>2021-01-01T15:10:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-nintendo-mario-luigi-mario-donkey-1-74z-1ct"/>
+    <title>Pez Twin Pack Nintendo (Mario/Luigi, Mario/Donkey) 1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mario_Donkey.jpg?v=1609542593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827937570901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827937013845</id>
+    <published>2021-01-01T15:06:27-08:00</published>
+    <updated>2021-01-01T15:06:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-harry-potter-hemoine-hp-ron-1-74z-1ct"/>
+    <title>Pez Twin Pack Harry Potter (HP/Hemoine, HP/Ron) 1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/pezharrypotterset.jpg?v=1609542345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827937013845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4827935768661</id>
+    <published>2021-01-01T15:02:31-08:00</published>
+    <updated>2021-01-01T15:02:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-twin-pack-marvel-antman-panther-thanos-capt-1-74z-12ct"/>
+    <title>Pez Twin Pack Marvel (Antman/Panther,Thanos/Capt) 1.74z 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezTwinPackMarvel.jpg?v=1609541905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>marvel</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4827935768661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4702452383829</id>
+    <published>2020-06-15T13:26:15-07:00</published>
+    <updated>2020-06-15T13:26:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-pack-harry-potter-assorted-87oz-12ct"/>
+    <title>Pez Blister Pack Harry Potter Assorted .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezBlisterPackHarryPotter.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4702452383829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4667677311061</id>
+    <published>2020-05-27T15:55:06-07:00</published>
+    <updated>2020-05-27T15:55:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-pack-scooby-doo-12ct"/>
+    <title>Pez Blister Pack Scooby Doo 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezBlisterPackScoobyDoo.jpg?v=1590620449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4667677311061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565803008085</id>
+    <published>2020-03-17T13:33:22-07:00</published>
+    <updated>2020-03-17T13:33:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-nick-jr-87oz-12ct"/>
+    <title>Pez Blister Nick Jr. .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/peznickjr.jpg?v=1584989013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565803008085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4565800452181</id>
+    <published>2020-03-17T13:29:00-07:00</published>
+    <updated>2020-03-17T13:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-pack-papa-pig-87oz-12ct"/>
+    <title>Pez Blister Pack Papa Pig .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/PezBlisterPackPapaPig.jpg?v=1588668872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4565800452181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4396402802773</id>
+    <published>2019-11-22T16:12:49-08:00</published>
+    <updated>2019-11-22T16:12:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-pack-disney-frozen-2-87oz-12ct"/>
+    <title>Pez Blister Pack Disney Frozen &quot;2&quot; .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pez_Blister_Pack_Disney_Frozen_.87oz_817b0822-5410-4e1d-ab15-880a1157164c.jpg?v=1579547109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>frozen</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4396402802773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101088772169</id>
+    <published>2019-09-19T12:51:10-07:00</published>
+    <updated>2019-09-19T12:51:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/pez-blister-lol-surprise-assorted-87oz-12ct"/>
+    <title>Pez Blister LOL Surprise Assorted .87oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Pez_Blister_LOL_Surprise.jpg?v=1579547105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>pez</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101088772169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

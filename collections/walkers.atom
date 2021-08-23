@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/walkers.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-07-19T22:09:47-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6605738999893</id>
+    <published>2021-07-19T22:09:47-07:00</published>
+    <updated>2021-07-19T22:09:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-mint-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Mint Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsMintToffee150g.jpg?v=1626757764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738999893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605738672213</id>
+    <published>2021-07-19T22:07:02-07:00</published>
+    <updated>2021-07-19T22:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-coffee-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Coffee Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsCoffeeToffee150g.jpg?v=1627079177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738672213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2152333770825</id>
+    <published>2019-04-10T13:16:45-07:00</published>
+    <updated>2019-04-10T13:16:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-brazil-nut-toffee-100g-10ct-uk"/>
+    <title>Walkers Brazil Nut Toffee 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Brazil_Nut_Toffee_100g.jpg?v=1579546044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2152333770825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2085901402185</id>
+    <published>2019-02-21T21:00:08-08:00</published>
+    <updated>2019-02-21T21:00:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-salted-caramel-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Salted Caramel Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Salted_Caramel_Toffee_150g.jpg?v=1579546043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2085901402185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459277385</id>
+    <published>2018-12-05T17:51:01-08:00</published>
+    <updated>2018-12-05T17:51:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-treacle-toffee-12-x-150g"/>
+    <title>Walkers Bags Treacle Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Treacle_Toffee_150g.jpg?v=1579546044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>treacle</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459277385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459211849</id>
+    <published>2018-12-05T17:51:01-08:00</published>
+    <updated>2018-12-05T17:51:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-nutty-brazil-12-x-150g"/>
+    <title>Walkers Bags Nutty Brazil Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Nutty_Brazil_Toffee_150g.jpg?v=1579546042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nut</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459211849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459179081</id>
+    <published>2018-12-05T17:51:01-08:00</published>
+    <updated>2018-12-05T17:51:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-milk-chocolate-eclairs-12-x-150g"/>
+    <title>Walkers Bags Milk Chocolate Eclairs 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Milk_Chocolate_Eclairs_150g.jpg?v=1579545475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459179081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459146313</id>
+    <published>2018-12-05T17:51:00-08:00</published>
+    <updated>2018-12-05T17:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-liquorice-toffee-12-x-150g"/>
+    <title>Walkers Bags Liquorice Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Liquorice_Toffee_150g.jpg?v=1579545474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459146313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459113545</id>
+    <published>2018-12-05T17:51:00-08:00</published>
+    <updated>2018-12-05T17:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-english-creamy-toffee-12-x-150g"/>
+    <title>Walkers Bags English Creamy Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_English_Creamy_Toffee_150g.jpg?v=1579545474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459113545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459080777</id>
+    <published>2018-12-05T17:51:00-08:00</published>
+    <updated>2018-12-05T17:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-banana-split-eclairs-12-x-150g"/>
+    <title>Walkers Bags Banana Split Eclairs 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Banana_Split_Eclairs_150g.jpg?v=1588617115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>banana</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459080777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459048009</id>
+    <published>2018-12-05T17:50:59-08:00</published>
+    <updated>2018-12-05T17:50:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-bags-assorted-royal-toffees-chocolate"/>
+    <title>Walkers Bags Assorted Royal Toffees &amp; Chocolate 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Bags_Assorted_Royal_Toffees_Chocolate.jpg?v=1579545473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459048009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958459015241</id>
+    <published>2018-12-05T17:50:59-08:00</published>
+    <updated>2018-12-05T17:50:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-andy-pack-treacle-10-x-100g"/>
+    <title>Walkers Treacle Tofee 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Treacle_Tofee_100g.jpg?v=1579546047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>treacle</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958459015241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458982473</id>
+    <published>2018-12-05T17:50:58-08:00</published>
+    <updated>2018-12-05T17:50:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-andy-pack-original-10-x-100g"/>
+    <title>Walkers Original Toffee 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Original_Toffee_100g.jpg?v=1579546047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458982473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458949705</id>
+    <published>2018-12-05T17:50:58-08:00</published>
+    <updated>2018-12-05T17:50:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-andy-pack-liquorice-toffee-10-x-100g"/>
+    <title>Walkers Liquorice Toffee 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Liquorice_Toffee_100g.jpg?v=1579546046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458949705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458916937</id>
+    <published>2018-12-05T17:50:58-08:00</published>
+    <updated>2018-12-05T17:50:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-andy-pack-hazelnut-10-x-100g"/>
+    <title>Walkers Hazelnut Toffee 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Hazelnut_Toffee_100g.jpg?v=1579546046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>hazelnut</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458916937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1958458851401</id>
+    <published>2018-12-05T17:50:57-08:00</published>
+    <updated>2018-12-05T17:50:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-nonsuch-andy-pack-chocolate-covered-toffee-10-x"/>
+    <title>Walkers Chocolate Covered Toffee 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Walkers_Chocolate_Covered_Toffee_100g.jpg?v=1579546045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1958458851401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

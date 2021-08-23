@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/clawhammer.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-02-01T17:09:08-08:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4838202802261</id>
+    <published>2021-02-01T17:09:08-08:00</published>
+    <updated>2021-02-01T17:09:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/clawhammer-black-licorice-organic-mints-12ct"/>
+    <title>Clawhammer Black Licorice Organic Mints 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ClawhammerBlackLicoriceOrganicMints_da5bb807-c493-4177-971d-887c0987cfd8.jpg?v=1612228133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>clawhammer</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4838202802261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425491017</id>
+    <published>2018-12-28T11:10:59-08:00</published>
+    <updated>2018-12-28T11:10:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/clawhammer-spicy-ginger-root-12ct"/>
+    <title>Clawhammer Spicy Ginger Roots Organic Mints 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CLAWHAMMER_SPICY_GINGER_ROOT.jpg?v=1555354775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>clawhammer</s:tag>
+    <s:tag>ginger</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425491017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425458249</id>
+    <published>2018-12-28T11:10:59-08:00</published>
+    <updated>2018-12-28T11:10:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/clawhammer-hot-cinnamon-12ct"/>
+    <title>Clawhammer Hot Cinnamon Organic Mints 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Clawhammer_Hot_Cinnamon.jpg?v=1555354774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>clawhammer</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425458249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1991425425481</id>
+    <published>2018-12-28T11:10:59-08:00</published>
+    <updated>2018-12-28T11:10:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/clawhammer-strong-peppermint-12ct"/>
+    <title>Clawhammer Strong Peppermint Organic Mints 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Clawhammer_Strong_Peppermint.jpg?v=1555354775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big sky</s:tag>
+    <s:tag>clawhammer</s:tag>
+    <s:tag>mints</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>tin</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1991425425481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

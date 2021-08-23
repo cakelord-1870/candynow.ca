@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/lollipops.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:54:50-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/2106258653257</id>
+    <published>2021-08-11T14:54:50-07:00</published>
+    <updated>2021-08-11T14:54:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/alberts-color-splash-pops-blue-30ct"/>
+    <title>Alberts Color Splash Pops Blue 30ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Alberts_Color_Splash_Pops_Blue.jpg?v=1555352863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alberts</s:tag>
+    <s:tag>jar</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106258653257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609099194453</id>
+    <published>2021-08-01T10:37:34-07:00</published>
+    <updated>2021-08-01T10:37:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-watermelon-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Watermelon Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP920.jpg?v=1627839411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609099194453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609099161685</id>
+    <published>2021-08-01T10:37:33-07:00</published>
+    <updated>2021-08-01T10:37:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-very-berry-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Very Berry Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP918.jpg?v=1627839350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609099161685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609099063381</id>
+    <published>2021-08-01T10:37:33-07:00</published>
+    <updated>2021-08-01T10:37:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-tie-dye-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Tie Dye Cotton Candy Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP916.jpg?v=1627839255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609099063381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098997845</id>
+    <published>2021-08-01T10:37:32-07:00</published>
+    <updated>2021-08-01T10:37:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-strawberry-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Strawberry Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP914.jpg?v=1627839134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098997845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098866773</id>
+    <published>2021-08-01T10:37:32-07:00</published>
+    <updated>2021-08-01T10:37:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-rainbow-blast-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Rainbow Blast Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP912.jpg?v=1627839070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098866773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098801237</id>
+    <published>2021-08-01T10:37:31-07:00</published>
+    <updated>2021-08-01T10:37:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-pink-lemonade-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Pink Lemonade Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP910.jpg?v=1627839006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098801237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098637397</id>
+    <published>2021-08-01T10:37:31-07:00</published>
+    <updated>2021-08-01T10:37:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-peppermint-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Peppermint Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP908.jpg?v=1627838940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098637397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098571861</id>
+    <published>2021-08-01T10:37:30-07:00</published>
+    <updated>2021-08-01T10:37:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-cherry-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Cherry Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP906.jpg?v=1627838810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098571861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098473557</id>
+    <published>2021-08-01T10:37:30-07:00</published>
+    <updated>2021-08-01T10:37:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-bubblegum-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Bubblegum Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP904.jpg?v=1627838705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098473557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098440789</id>
+    <published>2021-08-01T10:37:29-07:00</published>
+    <updated>2021-08-01T10:37:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-hammonds-birthday-cake-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Blue Raspberry Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CP902.jpg?v=1627838628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098440789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6609098342485</id>
+    <published>2021-08-01T10:37:29-07:00</published>
+    <updated>2021-08-01T10:37:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/hammonds-birthday-cake-lollipop-28g-15ct"/>
+    <title>Hammond&apos;s Birthday Cake Lollipop 28g 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Hammond_sBirthdayCakeLollipop28g.jpg?v=1627838474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>hammond</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6609098342485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6606076182613</id>
+    <published>2021-07-20T15:39:02-07:00</published>
+    <updated>2021-07-20T15:39:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/chupa-chups-surprise-12g-16ct-europe"/>
+    <title>Chupa Chups Surprise 12g 16ct (Europe)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ChupaChupsSurprise12g16c.jpg?v=1626820730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chupa chups</s:tag>
+    <s:tag>europe</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6606076182613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596453597269</id>
+    <published>2021-06-30T20:29:03-07:00</published>
+    <updated>2021-06-30T20:29:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/minions-2-push-pop-jumbo-1-06oz-18ct"/>
+    <title>Minions 2 Push Pop Jumbo 1.06oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/795251.png?v=1625024046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>topps</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596453597269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596452319317</id>
+    <published>2021-06-30T20:29:02-07:00</published>
+    <updated>2021-06-30T20:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/minions-2-baby-bottle-pop-1-1oz-18ct"/>
+    <title>Minions 2 Baby Bottle Pop 1.1oz 18ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Minions2BabyBottlePop1.1oz.png?v=1627079144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>topps</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596452319317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583896899669</id>
+    <published>2021-05-25T15:16:56-07:00</published>
+    <updated>2021-05-25T15:16:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-fruit-chew-filled-lollipops-100ct"/>
+    <title>Jolly Rancher Fruit Chew Filled Lollipops 100ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/17040.jpg?v=1621980984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583896899669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574815543381</id>
+    <published>2021-04-29T22:39:11-07:00</published>
+    <updated>2021-04-29T22:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-yellow-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Yellow 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76367.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574815543381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574815248469</id>
+    <published>2021-04-29T22:39:11-07:00</published>
+    <updated>2021-04-29T22:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-white-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - White 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76369.png?v=1620859326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574815248469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574814298197</id>
+    <published>2021-04-29T22:39:11-07:00</published>
+    <updated>2021-04-29T22:39:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-turquoise-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Turquoise 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76368.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574814298197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574814134357</id>
+    <published>2021-04-29T22:39:10-07:00</published>
+    <updated>2021-04-29T22:39:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-royal-blue-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Royal Blue 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76371.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574814134357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574814036053</id>
+    <published>2021-04-29T22:39:10-07:00</published>
+    <updated>2021-04-29T22:39:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-red-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Red 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76363.png?v=1620859327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574814036053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574813741141</id>
+    <published>2021-04-29T22:39:10-07:00</published>
+    <updated>2021-04-29T22:39:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-pale-pink-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Pale Pink 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76370.png?v=1620859325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574813741141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574813216853</id>
+    <published>2021-04-29T22:39:09-07:00</published>
+    <updated>2021-04-29T22:39:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-light-blue-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Light Blue 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76364.png?v=1620859326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574813216853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574813053013</id>
+    <published>2021-04-29T22:39:09-07:00</published>
+    <updated>2021-04-29T22:39:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-lavander-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Lavander 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76362.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574813053013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574812856405</id>
+    <published>2021-04-29T22:39:09-07:00</published>
+    <updated>2021-04-29T22:39:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/adams-brooks-mini-unicorn-lollipop-jar-hot-pink-24ct"/>
+    <title>Adams &amp; Brooks Mini Unicorn Lollipop Jar - Hot Pink 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/76361.png?v=1620859328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adams and brooks</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>tub</s:tag>
+    <s:tag>unicorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574812856405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

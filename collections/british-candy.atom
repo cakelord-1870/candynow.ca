@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/british-candy.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-07-19T22:09:47-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6605738999893</id>
+    <published>2021-07-19T22:09:47-07:00</published>
+    <updated>2021-07-19T22:09:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-mint-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Mint Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsMintToffee150g.jpg?v=1626757764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738999893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605738672213</id>
+    <published>2021-07-19T22:07:02-07:00</published>
+    <updated>2021-07-19T22:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/walkers-bags-coffee-toffee-150g-12ct-uk"/>
+    <title>Walkers Bags Coffee Toffee 150g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/WalkersBagsCoffeeToffee150g.jpg?v=1627079177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>eclair</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>toffee</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>walker&apos;s</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605738672213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6605734838357</id>
+    <published>2021-07-19T21:46:24-07:00</published>
+    <updated>2021-07-19T21:46:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-dairy-milk-creamy-white-chocolate-90g-24ct-uk"/>
+    <title>Cadbury Creamy White Chocolate 90g 24ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyDairyMilkCreamyWhiteChocolate90g.jpg?v=1626756355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            56.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6605734838357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2105851510857</id>
+    <published>2021-06-08T16:28:01-07:00</published>
+    <updated>2021-06-08T16:28:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mars-milky-way-21-5g-single-56ct"/>
+    <title>Mars Milky Way 21.5g Single 56ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ars_Milky_Way_21.5g_Single.jpg?v=1579546531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>mars</s:tag>
+    <s:tag>milky way</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2105851510857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588621062229</id>
+    <published>2021-06-08T16:15:48-07:00</published>
+    <updated>2021-06-08T16:15:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/maxilin-sour-flyers-75g-12ct-uk"/>
+    <title>Maxilin Sour Flyers 75g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MaxilinSourFlyers75g.jpg?v=1623194138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>frisia</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588621062229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588618440789</id>
+    <published>2021-06-08T16:11:50-07:00</published>
+    <updated>2021-06-08T16:11:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-turkish-delight-3-pack-153g-22ct-uk"/>
+    <title>Fry&apos;s Turkish Delight 3 Pack 153g 22ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_sTurkishDelight3Pac.jpg?v=1623193900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>turkish delight</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588618440789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588617162837</id>
+    <published>2021-06-08T16:07:57-07:00</published>
+    <updated>2021-06-08T16:07:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-twirl-bites-pouch-95g-10ct-uk"/>
+    <title>Cadbury Twirl Bites Pouch 95g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyTwirlBitesPouc.jpg?v=1623193672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588617162837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588616769621</id>
+    <published>2021-06-08T16:04:18-07:00</published>
+    <updated>2021-06-08T16:04:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-freddo-caramel-19-5g-60ct-uk"/>
+    <title>Cadbury Freddo Caramel 19.5g 60ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyFreddoCaramel.jpg?v=1627427009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>freddo</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588616769621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6573100335189</id>
+    <published>2021-04-27T18:49:52-07:00</published>
+    <updated>2021-04-27T18:49:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/fruitella-sour-41g-40ct-uk"/>
+    <title>Fruitella Sour 41g 40ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/FruitellaSour41g.jpg?v=1619574575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruitella</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6573100335189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6573098369109</id>
+    <published>2021-04-27T18:42:34-07:00</published>
+    <updated>2021-04-27T18:42:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-twirl-orange-43g-48ct-uk"/>
+    <title>Cadbury Twirl Orange 43g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/7622210664242.jpg?v=1619574139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            77.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>twirl</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6573098369109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2085906612297</id>
+    <published>2021-02-26T11:43:12-08:00</published>
+    <updated>2021-02-26T11:43:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-spread-crunchie-400g-6ct-uk"/>
+    <title>Cadbury Spread Crunchie 400g 6ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cadbury_Spread_Crunchie_400g.jpg?v=1555352956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>spread</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2085906612297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6535185432661</id>
+    <published>2021-02-23T16:50:13-08:00</published>
+    <updated>2021-02-23T16:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-raspberry-cream-49g-3pk-18ct-uk"/>
+    <title>Fry&apos;s Raspberry Cream 49g 3pk 18ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_sRaspberryCream49g3pk.jpg?v=1614127799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6535185432661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6535181074517</id>
+    <published>2021-02-23T16:41:04-08:00</published>
+    <updated>2021-02-23T16:41:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-curly-wurly-squirlies-pouch-95g-10ct-uk"/>
+    <title>Cadbury Curly Wurly Squirlies Pouch 95g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyCrunchieRocks110g_67ab91e0-81a1-43f9-803c-b7d5aacd91c7.jpg?v=1614127244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6535181074517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6535180451925</id>
+    <published>2021-02-23T16:37:58-08:00</published>
+    <updated>2021-02-23T16:37:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-crunchie-rocks-110g-10ct-uk"/>
+    <title>Cadbury Crunchie Rocks 110g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyCrunchieRocks110g.jpg?v=1614830028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6535180451925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4835355361365</id>
+    <published>2021-01-22T20:09:08-08:00</published>
+    <updated>2021-01-22T20:09:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/milkybar-buttons-30g-48ct-uk"/>
+    <title>Milkybar Buttons 30g 48ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MilkybarButtons30g48ct.jpg?v=1611374930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>buttons</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>uk</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4835355361365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4835353264213</id>
+    <published>2021-01-22T19:40:01-08:00</published>
+    <updated>2021-01-22T19:40:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-caramel-nibbles-pouch-95g-10ct-uk"/>
+    <title>Cadbury Caramel Nibbles Pouch 95g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyCaramelNibblesPouch95g.jpg?v=1611898237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4835353264213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4835353002069</id>
+    <published>2021-01-22T19:36:21-08:00</published>
+    <updated>2021-01-22T19:36:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-bournville-dark-giant-buttons-pouch-95g-10ct-uk"/>
+    <title>Cadbury Bournville Dark Giant Buttons Pouch 95g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyBournvilleDarkGiantButtonsPouch95g.jpg?v=1611372979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4835353002069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4835346939989</id>
+    <published>2021-01-22T18:57:27-08:00</published>
+    <updated>2021-01-22T18:57:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-crunchie-4-pack-10ct-104g-uk"/>
+    <title>Cadbury Crunchie 4pk 104g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyCrunchie4-Pack.jpg?v=1611370573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4835346939989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4829617258581</id>
+    <published>2021-01-06T16:12:30-08:00</published>
+    <updated>2021-01-06T16:12:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jakemans-lozenges-throat-chest-100g-10ct-uk"/>
+    <title>Jakemans Throat &amp; Chest 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/LozengesThroat_Chest.jpg?v=1609978188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>jackmans</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4829617258581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4829616603221</id>
+    <published>2021-01-06T15:58:43-08:00</published>
+    <updated>2021-01-06T15:58:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jakemans-blackcurrant-100g-10ct-uk"/>
+    <title>Jakemans Blackcurrant Menthol 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JakemansBlackcurrant100g.jpg?v=1609977507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>jackmans</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4829616603221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4829616472149</id>
+    <published>2021-01-06T15:55:12-08:00</published>
+    <updated>2021-01-06T15:55:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jakemans-honey-lemon-menthol-100g-10ct-uk"/>
+    <title>Jakemans Honey &amp; Lemon Menthol 100g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/JakemansHoney_LemonMenthol100g.jpg?v=1611898237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>jackmans</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4829616472149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4807035912277</id>
+    <published>2020-11-13T18:12:53-08:00</published>
+    <updated>2020-11-13T18:12:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-cadbury-buttons-bag-small-14-4g-60ct-uk"/>
+    <title>Cadbury Buttons Bag Small 14.4g 60ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Cadbury_Buttons_Bag_Small_30g_4ce480b6-4187-47fa-b1ff-d006c08bda3c.jpg?v=1605319974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>buttons</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4807035912277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4807022116949</id>
+    <published>2020-11-13T17:25:01-08:00</published>
+    <updated>2020-11-13T17:25:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/maltesers-buttons-32g-36ct-uk"/>
+    <title>Maltesers Buttons 32g 36ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MaltesersButtons32g.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>maltesers</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4807022116949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4807019331669</id>
+    <published>2020-11-13T17:24:27-08:00</published>
+    <updated>2020-11-13T17:24:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-oreo-bites-pouch-95g-10ct-uk"/>
+    <title>Cadbury Oreo Bites Pouch 95g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyOreoBitesPouch95g.jpg?v=1605316164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4807019331669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4807017529429</id>
+    <published>2020-11-13T17:24:26-08:00</published>
+    <updated>2020-11-13T17:24:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/cadbury-bitsa-wispa-pouch-95g-10ct-uk"/>
+    <title>Cadbury Bitsa Wispa Pouch 95g 10ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/CadburyBitsaWispaPouch95g_5ba1cbe1-2426-4124-b84e-7427167fd421.jpg?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>english</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4807017529429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

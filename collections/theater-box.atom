@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/theater-box.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-11T14:54:33-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/4809512714325</id>
+    <published>2021-08-11T14:54:33-07:00</published>
+    <updated>2021-08-11T14:54:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/warheads-theater-box-ooze-chewz-3-5oz-12ct"/>
+    <title>Warheads Theater Box Ooze Chewz 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/21295.png?v=1608169223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>warheads</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4809512714325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596473356373</id>
+    <published>2021-06-30T20:29:08-07:00</published>
+    <updated>2021-06-30T20:29:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-big-chewy-sour-theater-box-4-25oz-12ct"/>
+    <title>Nerds Big Chewy Sour Theater Box 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/71269.jpg?v=1625028809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596473356373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592616693845</id>
+    <published>2021-06-18T20:13:44-07:00</published>
+    <updated>2021-06-18T20:13:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/raisinets-theater-box-3-1oz-12ct"/>
+    <title>Raisinets Theater Box 3.1oz 15ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/RaisinetsOn-The-GoDisplayTray3.1oz.jpg?v=1624072257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592616693845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.48</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574821769301</id>
+    <published>2021-04-29T23:55:14-07:00</published>
+    <updated>2021-04-29T23:55:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/smoresels-theater-box-3-1oz-12ct"/>
+    <title>S&apos;moresels Theater Box 3.1oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/12210.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>taste of nature</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574821769301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574816788565</id>
+    <published>2021-04-29T22:51:31-07:00</published>
+    <updated>2021-04-29T22:51:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-big-chewy-theater-box-4-25oz-12ct"/>
+    <title>Nerds Big Chewy Theater Box 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/71844.png?v=1620859323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574816788565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995829333</id>
+    <published>2021-04-18T21:34:47-07:00</published>
+    <updated>2021-04-18T21:34:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/gummy-krabby-patties-watermelon-theater-box-2-54oz-12ct"/>
+    <title>Gummy Krabby Patties Watermelon Theater Box 2.54oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10748.jpg?v=1620859324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burger</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>gummy krabby patties</s:tag>
+    <s:tag>sponge bob</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995829333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995337813</id>
+    <published>2021-04-18T21:27:40-07:00</published>
+    <updated>2021-04-18T21:27:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-root-beer-float-5oz-12ct-1"/>
+    <title>Mike &amp; Ike Theater Box Root Beer Float 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_IkeTheaterBoxRootBeerFloat_d57ed5ca-31e7-412d-9517-5fdb625476d7.jpg?v=1618806399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995337813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995173973</id>
+    <published>2021-04-18T21:25:34-07:00</published>
+    <updated>2021-04-18T21:25:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-mike-ike-theater-box-cotton-candy-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Cotton Candy 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_IkeTheaterBoxCottonCandyLE5oz_b2627d32-b941-4228-b098-afc629c1acf3.jpg?v=1618806258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995173973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820860514377</id>
+    <published>2021-04-01T22:27:33-07:00</published>
+    <updated>2021-04-01T22:27:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-jolly-joes-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Jolly Joes 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Jolly_Joes.jpg?v=1542484515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>jolly joes</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820860514377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864905289</id>
+    <published>2020-12-16T16:50:14-08:00</published>
+    <updated>2020-12-16T16:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-redrageous-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Redrageous 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Redrageous.jpg?v=1542484516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>redrageous</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864905289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864774217</id>
+    <published>2020-12-16T16:50:14-08:00</published>
+    <updated>2020-12-16T16:50:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-tropical-typhoon-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Tropical Typhoon 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Tropical_Typhoon.jpg?v=1542484516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>typhoon</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864774217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/1820864708681</id>
+    <published>2020-12-16T16:50:13-08:00</published>
+    <updated>2020-12-16T16:50:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-berry-blast-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Berry Blast  5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Berry_Blast.jpg?v=1544682682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820864708681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4793438568533</id>
+    <published>2020-10-21T20:02:00-07:00</published>
+    <updated>2020-10-21T20:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-gummy-clusters-theater-box-3oz-12ct"/>
+    <title>Nerds Gummy Clusters Theater Box 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/04903.jpg?v=1603335662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4793438568533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4475585036373</id>
+    <published>2019-12-31T19:03:52-08:00</published>
+    <updated>2019-12-31T19:03:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/jolly-rancher-sour-gummies-theater-box-3-5oz-11ct"/>
+    <title>Jolly Rancher Sour Gummies Theater Box 3.5oz 11ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Jolly_Rancher_Sour_Gummies_Theater_Box.jpg?v=1579544938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>hershey&apos;s</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4475585036373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4101021532233</id>
+    <published>2019-09-19T10:28:45-07:00</published>
+    <updated>2019-09-19T10:28:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/haribo-gold-bears-theater-box-3-4oz-12ct"/>
+    <title>Haribo Gold Bears Theater Box 3.4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Haribo_Gold_Bears_Theater_Box.jpg?v=1572652765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>haribo</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4101021532233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2227229556809</id>
+    <published>2019-08-11T10:54:41-07:00</published>
+    <updated>2019-08-11T10:54:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/goetzes-theater-box-mini-cow-tales-vanilla-3oz-12ct"/>
+    <title>Goetze&apos;s Theater Box Mini Cow Tales Vanilla 3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Goetze_s_Theater_Box_Mini_Cow_Tales_Vanilla_3oz.jpg?v=1572652781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cow tales</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>goetze</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>vanilla</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2227229556809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208802603081</id>
+    <published>2019-07-07T20:43:10-07:00</published>
+    <updated>2019-07-07T20:43:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/tootsie-roll-mini-bites-theater-box-3-5oz-12ct"/>
+    <title>Tootsie Roll Mini Bites Theater Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Tootsie_Roll_Mini_Bites_Theater_Box.jpg?v=1579545444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolate</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>tootsie</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208802603081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2208800899145</id>
+    <published>2019-07-07T20:23:09-07:00</published>
+    <updated>2019-07-07T20:23:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/airheads-theater-box-3-3oz-12ct"/>
+    <title>Airheads Theater Box 3.3oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Airheads_Theater_Box.jpg?v=1563134305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airheads</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>taffy</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2208800899145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106259210313</id>
+    <published>2019-03-06T10:11:00-08:00</published>
+    <updated>2019-03-06T10:11:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/toxic-waste-sour-smog-balls-theatre-box-3-5oz-12ct"/>
+    <title>Toxic Waste Sour Smog Balls Theatre Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Toxic_Waste_Sour_Smog_Balls_Theatre_Box_3.5oz.jpg?v=1579545446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>toxic waste</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106259210313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.23</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106257637449</id>
+    <published>2019-03-06T10:10:42-08:00</published>
+    <updated>2019-03-06T10:10:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/sour-patch-extreme-theatar-box-3-50o-12ct"/>
+    <title>Sour Patch Extreme Theater Box 3.50oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Sour_Patch_Extreme_Theater_Box_3.50oz.jpg?v=1579545417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mondelez</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>sour patch</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106257637449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015540297</id>
+    <published>2019-01-24T16:09:46-08:00</published>
+    <updated>2019-01-24T16:09:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/junior-caramels-theater-box-3-6oz-12ct"/>
+    <title>Junior Caramels Theater Box 3.6oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Junior_Caramels_Theater_Box_3.6oz.jpg?v=1579544940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caramel</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>junior caramels</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015540297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015376457</id>
+    <published>2019-01-24T16:09:44-08:00</published>
+    <updated>2019-01-24T16:09:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/lemonhead-chewy-theater-box-berry-5oz-12ct"/>
+    <title>Lemonhead Chewy Theater Box Berry 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Lemonhead_Chewy_Theater_Box_Berry.jpg?v=1579546486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>ferrara</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>lemonhead</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015376457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015147081</id>
+    <published>2019-01-24T16:09:42-08:00</published>
+    <updated>2019-01-24T16:09:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-mega-mix-sour-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Mega Mix Sour 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_Ike_Theater_Box_Mega_Mix_Sour_5oz.jpg?v=1579547057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015147081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032015016009</id>
+    <published>2019-01-24T16:09:40-08:00</published>
+    <updated>2019-01-24T16:09:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/trolli-theater-box-sour-brite-crawler-3-5oz-12ct"/>
+    <title>Trolli Theater Box Sour Brite Crawler 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Trolli_Theater_Box_Sour_Brite_Crawler_3.5oz.jpg?v=1579545462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummy</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>trolli</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032015016009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2032014917705</id>
+    <published>2019-01-24T16:09:39-08:00</published>
+    <updated>2019-01-24T16:09:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/charms-blow-pop-minis-theater-box-3-5oz-12ct"/>
+    <title>Charms Blow Pop Minis Theater Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Charms_Blow_Pop_Minis_Theater_Box_3.5oz_12ct.jpg?v=1555354763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>charms</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2032014917705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.83</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

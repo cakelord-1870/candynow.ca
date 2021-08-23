@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/huer.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-06-14T15:25:43-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/6590944706645</id>
+    <published>2021-06-14T15:25:43-07:00</published>
+    <updated>2021-06-14T15:25:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-allsorts-3kg"/>
+    <title>Huer Allsorts 3kg 1ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/allsorts.jpg?v=1627079129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6590944706645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.67</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574773370965</id>
+    <published>2021-04-29T19:42:55-07:00</published>
+    <updated>2021-04-29T19:42:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-sea-mix-1kg"/>
+    <title>Huer Sour Sea Mix 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huerseamix.jpg?v=1620859321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574773370965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574762917973</id>
+    <published>2021-04-29T19:30:23-07:00</published>
+    <updated>2021-04-29T19:30:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-cinnamon-gummi-bears-1kg"/>
+    <title>Huer Cinnamon Gummi Bears 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Huer-Cinnamon-Gummy-Bears-1kg-300x300.png?v=1619749751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574762917973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6535487357013</id>
+    <published>2021-02-24T17:08:18-08:00</published>
+    <updated>2021-02-24T17:08:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-groovy-mix-1kg"/>
+    <title>Huer Groovy Mix 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/groovymix.jpg?v=1614215142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6535487357013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/4684081266773</id>
+    <published>2020-06-01T15:02:34-07:00</published>
+    <updated>2020-06-01T15:02:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-wine-gums-3kg"/>
+    <title>Huer Natural Wine Gums 3kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huerwinegums.jpg?v=1596760150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/4684081266773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2246217564233</id>
+    <published>2019-09-09T08:45:11-07:00</published>
+    <updated>2019-09-09T08:45:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-ice-pop-gummy-1kg"/>
+    <title>Huer Ice Pop Gummy 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_ice_pop.jpg?v=1579544920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gumm</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2246217564233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2215965982793</id>
+    <published>2019-07-18T12:34:56-07:00</published>
+    <updated>2019-07-18T12:34:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-orange-swirls-1kg"/>
+    <title>Huer Sour Orange Swirls 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_orange_swirl.png?v=1579544927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2215965982793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130458378313</id>
+    <published>2019-03-21T12:08:15-07:00</published>
+    <updated>2019-03-21T12:08:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-strawberry-creme-whips-300ct"/>
+    <title>Huer Strawberry Creme Whips 300ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_creme_whip_strawberry.jpg?v=1579544928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>livewire</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130458378313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130456313929</id>
+    <published>2019-03-21T12:05:09-07:00</published>
+    <updated>2019-03-21T12:05:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-blue-raspberry-creme-whips-300ct"/>
+    <title>Huer Blue Raspberry Creme Whips 300ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_creme_whip_raspberry.jpg?v=1555354876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>livewire</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130456313929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130453332041</id>
+    <published>2019-03-21T12:02:37-07:00</published>
+    <updated>2019-03-21T12:02:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-small-blue-sharks-1kg"/>
+    <title>Huer Small Blue Sharks 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_small_blue_sharks.png?v=1579544921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130453332041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130448449609</id>
+    <published>2019-03-21T12:00:04-07:00</published>
+    <updated>2019-03-21T12:00:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-peach-penguins-1kg"/>
+    <title>Huer Peach Penguins 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_peach_penguin.png?v=1579544920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>peach</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130448449609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130444288073</id>
+    <published>2019-03-21T11:49:47-07:00</published>
+    <updated>2019-03-21T11:49:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-strawberry-swirls-1kg"/>
+    <title>Huer Sour Strawberry Swirls 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_strawberry_swirls.png?v=1579544928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130444288073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130423545929</id>
+    <published>2019-03-21T11:43:15-07:00</published>
+    <updated>2019-03-21T11:43:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-blue-raspberry-swirls-1kg"/>
+    <title>Huer Sour Blue Raspberry Swirls 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Huer_Sour_blue_raspberry_swirls.png?v=1579544923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130423545929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130414993481</id>
+    <published>2019-03-21T11:37:56-07:00</published>
+    <updated>2019-03-21T11:37:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-suckers-1kg"/>
+    <title>Huer Small Sour Suckers 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/HUER_SOUR_SUCKERS.png?v=1579544922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>key</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130414993481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2130411454537</id>
+    <published>2019-03-21T11:31:34-07:00</published>
+    <updated>2019-03-21T11:31:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-strawberries-1kg"/>
+    <title>Huer Sour Strawberries 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_strawberry.png?v=1579544927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2130411454537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062140506185</id>
+    <published>2019-02-11T21:00:25-08:00</published>
+    <updated>2019-02-11T21:00:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-3d-gummy-blocks-500g"/>
+    <title>Huer 3D Gummy Blocks 500g</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_3d_blocks.jpg?v=1555354876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062140506185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062138409033</id>
+    <published>2019-02-11T20:54:01-08:00</published>
+    <updated>2019-02-11T20:54:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-orange-slices-1kg"/>
+    <title>Huer Orange Slices 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_orange_slice.jpg?v=1555354878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062138409033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062138015817</id>
+    <published>2019-02-11T20:51:55-08:00</published>
+    <updated>2019-02-11T20:51:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-gummy-fried-eggs-1kg"/>
+    <title>Huer Gummy Fried Eggs 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_fried_eggs.jpg?v=1555354877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062138015817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062137032777</id>
+    <published>2019-02-11T20:49:47-08:00</published>
+    <updated>2019-02-11T20:49:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-gummy-cup-cakes-1kg"/>
+    <title>Huer Gummy Cupcakes 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_cupcake.jpg?v=1555354877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062137032777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062134771785</id>
+    <published>2019-02-11T20:44:04-08:00</published>
+    <updated>2019-02-11T20:44:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-watermelon-wedges-1kg"/>
+    <title>Huer Sour Watermelon Wedges 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_watermelon_wedge.jpg?v=1579544928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062134771785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062133887049</id>
+    <published>2019-02-11T20:42:41-08:00</published>
+    <updated>2019-02-11T20:42:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-octopus-1kg"/>
+    <title>Huer Sour Octopus 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_octopus.jpg?v=1579544926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062133887049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062133329993</id>
+    <published>2019-02-11T20:40:28-08:00</published>
+    <updated>2019-02-11T20:40:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-bubblegum-bottles-1kg"/>
+    <title>Huer Sour Bubblegum Bottles 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_bubble_gum_bottles.jpg?v=1579544925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062133329993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062119305289</id>
+    <published>2019-02-11T20:09:40-08:00</published>
+    <updated>2019-02-11T20:09:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-blueberry-lemonade-bottle-1kg"/>
+    <title>Huer Sour Blueberry Lemonade Bottles 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_blueberry_lemonade_bottle.jpg?v=1579544924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blueberry</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062119305289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062114029641</id>
+    <published>2019-02-11T19:57:15-08:00</published>
+    <updated>2019-02-11T19:57:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-juice-berries-1kg"/>
+    <title>Huer Sour Juice Berries 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_juice_berries.jpg?v=1579544925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berry</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062114029641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2062112981065</id>
+    <published>2019-02-11T19:42:47-08:00</published>
+    <updated>2019-02-11T19:42:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/huer-sour-blue-razzberries-1kg"/>
+    <title>Huer Sour Blue Razzberries 1kg</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/huer_sour_blue_razzberries.jpg?v=1579544924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue raspberry</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>huer</s:tag>
+    <s:tag>sour</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2062112981065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

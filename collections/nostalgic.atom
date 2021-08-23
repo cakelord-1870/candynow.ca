@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candynow.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candynow.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candynow.ca/collections/nostalgic.atom"/>
+  <title>candynow.ca</title>
+  <updated>2021-08-04T22:32:00-07:00</updated>
+  <author>
+    <name>candynow.ca</name>
+  </author>
+  <entry>
+    <id>https://candynow.ca/products/1820867952713</id>
+    <published>2021-08-04T22:32:00-07:00</published>
+    <updated>2021-08-04T22:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-watermelon-cherry-1-65oz-36ct"/>
+    <title>Nerds Watermelon Cherry 1.65oz 36ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Nerds_Watermelon_Cherry.jpg?v=1542484523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/1820867952713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596473356373</id>
+    <published>2021-06-30T20:29:08-07:00</published>
+    <updated>2021-06-30T20:29:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-big-chewy-sour-theater-box-4-25oz-12ct"/>
+    <title>Nerds Big Chewy Sour Theater Box 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/71269.jpg?v=1625028809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596473356373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596459331669</id>
+    <published>2021-06-30T20:29:07-07:00</published>
+    <updated>2021-06-30T20:29:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/crunch-n-munch-caramel-with-peanuts-box-3-5oz-12ct"/>
+    <title>Crunch &apos;N Munch Caramel Popcorn With Peanuts Box 3.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/10626.jpg?v=1625026634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>popcorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596459331669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596454711381</id>
+    <published>2021-06-30T20:29:04-07:00</published>
+    <updated>2021-06-30T20:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dads-root-beer-candy-cannister-7oz-12ct"/>
+    <title>Dad&apos;s Root Beer Candy Cannister 7oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/ROOT_BEER_CANISTER.jpg?v=1625024951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>washburn</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596454711381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6596454482005</id>
+    <published>2021-06-30T20:29:03-07:00</published>
+    <updated>2021-06-30T20:29:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/dads-root-beer-6oz-pouch-12ct"/>
+    <title>Dad&apos;s Root Beer Candy 6oz Pouch 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/STAND_UP_BAG.jpg?v=1625024737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>washburn</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6596454482005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2106753646665</id>
+    <published>2021-06-19T21:25:49-07:00</published>
+    <updated>2021-06-19T21:25:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/yoo-hoo-chocolate-can-11oz-6pk"/>
+    <title>Yoo Hoo Chocolate Can 11oz 6pk</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Yoo_Hoo_Chocolate_Can_11oz_6pk.jpg?v=1579546070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>yoo hoo</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2106753646665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833814613</id>
+    <published>2021-06-19T21:20:35-07:00</published>
+    <updated>2021-06-19T21:20:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-kiwi-lime-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single  Kiwi Lime 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/KiwiLime.jpg?v=1624162782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833814613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833749077</id>
+    <published>2021-06-19T21:20:34-07:00</published>
+    <updated>2021-06-19T21:20:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-grape-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single Grape 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/94606.jpg?v=1624162686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833749077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833683541</id>
+    <published>2021-06-19T21:20:34-07:00</published>
+    <updated>2021-06-19T21:20:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-cherry-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single Cherry 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/95393.jpg?v=1624162595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833683541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592833585237</id>
+    <published>2021-06-19T21:20:33-07:00</published>
+    <updated>2021-06-19T21:20:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/kool-aid-ready-to-drink-bursts-single-berry-blue-6-75oz-12ct"/>
+    <title>Kool-Aid Ready to Drink Bursts Single Berry Blue 6.75oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Kool-AidReadytoDrinkBurstsSingleBerryBlue12ct.jpg?v=1624162455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beverage</s:tag>
+    <s:tag>drink</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>kool aid</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592833585237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592832372821</id>
+    <published>2021-06-19T21:07:15-07:00</published>
+    <updated>2021-06-19T21:07:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/crunch-n-munch-cookies-cream-popcorn-clusters-5-5oz-12ct"/>
+    <title>Crunch &apos;N Munch Cookies &amp; Cream Popcorn Clusters 5.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/0107.jpg?v=1624162003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>popcorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592832372821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592832241749</id>
+    <published>2021-06-19T21:07:15-07:00</published>
+    <updated>2021-06-19T21:07:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/crunch-n-munch-brownie-brittle-5-5oz-12ct"/>
+    <title>Crunch &apos;N Munch Brownie Brittle Crunch Popcorn Clusters 5.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/0109.jpg?v=1624161922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>popcorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592832241749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6592832143445</id>
+    <published>2021-06-19T21:07:14-07:00</published>
+    <updated>2021-06-19T21:07:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/crunch-n-munch-birthday-cake-5-5oz-12ct"/>
+    <title>Crunch &apos;N Munch Birthday Cake Popcorn Clusters 5.5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/0111.jpg?v=1624161717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>featured</s:tag>
+    <s:tag>nostlagic</s:tag>
+    <s:tag>popcorn</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6592832143445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/2171006976073</id>
+    <published>2021-06-19T18:56:25-07:00</published>
+    <updated>2021-06-19T18:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/candy-house-candy-buttons-0-50oz-24ct"/>
+    <title>Candy House Candy Buttons 0.50oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Candy_House_Candy_Buttons.jpg?v=1557772366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>buttons</s:tag>
+    <s:tag>Doscher&apos;s</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/2171006976073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588621062229</id>
+    <published>2021-06-08T16:15:48-07:00</published>
+    <updated>2021-06-08T16:15:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/maxilin-sour-flyers-75g-12ct-uk"/>
+    <title>Maxilin Sour Flyers 75g 12ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/MaxilinSourFlyers75g.jpg?v=1623194138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>frisia</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588621062229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6588618440789</id>
+    <published>2021-06-08T16:11:50-07:00</published>
+    <updated>2021-06-08T16:11:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/frys-turkish-delight-3-pack-153g-22ct-uk"/>
+    <title>Fry&apos;s Turkish Delight 3 Pack 153g 22ct (UK)</title>
+    <s:type></s:type>
+    <s:vendor>candynow.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Fry_sTurkishDelight3Pac.jpg?v=1623193900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow.ca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>british</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate bar</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>fry&apos;s</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>turkish delight</s:tag>
+    <s:tag>uk</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6588618440789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583910465621</id>
+    <published>2021-05-25T16:39:40-07:00</published>
+    <updated>2021-05-25T16:39:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/now-later-extreme-sour-assorted-peg-bag-4oz-12ct"/>
+    <title>Now &amp; Later Extreme Sour Assorted Peg Bag 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/02573.jpg?v=1621985923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>now&amp;later</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583910465621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583896506453</id>
+    <published>2021-05-25T15:14:19-07:00</published>
+    <updated>2021-05-25T15:14:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/now-later-original-mix-peg-bag-4oz-12ct"/>
+    <title>Now &amp; Later Original Mix Peg Bag 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/01473.jpg?v=1621980846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>now&amp;later</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583896506453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583896047701</id>
+    <published>2021-05-25T15:12:57-07:00</published>
+    <updated>2021-05-25T15:12:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/now-later-splits-2-44oz-24ct"/>
+    <title>Now &amp; Later Splits 2.44oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/splits.png?v=1621980759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>now&amp;later</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583896047701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583894179925</id>
+    <published>2021-05-25T15:02:48-07:00</published>
+    <updated>2021-05-25T15:02:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/now-later-morphs-2-44oz-24ct"/>
+    <title>Now &amp; Later Morphs 2.44oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Now_LaterMorphs.png?v=1622003561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>now&amp;later</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583894179925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583893459029</id>
+    <published>2021-05-25T14:57:48-07:00</published>
+    <updated>2021-05-25T14:57:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/now-later-morphs-peg-bag-4oz-12ct"/>
+    <title>Now &amp; Later Morphs Peg Bag 4oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Now_LaterMorphsPeg4oz.jpg?v=1621979792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>now&amp;later</s:tag>
+    <s:tag>original</s:tag>
+    <s:tag>peg</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583893459029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6583880319061</id>
+    <published>2021-05-25T13:26:16-07:00</published>
+    <updated>2021-05-25T13:26:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-necco-wafers-roll-chocolate-2oz-24ct"/>
+    <title>NECCO Wafers Roll Chocolate 2oz 24ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/neccochoc.jpg?v=1621974351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>necco</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wafer</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6583880319061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6574816788565</id>
+    <published>2021-04-29T22:51:31-07:00</published>
+    <updated>2021-04-29T22:51:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/nerds-big-chewy-theater-box-4-25oz-12ct"/>
+    <title>Nerds Big Chewy Theater Box 4.25oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/71844.png?v=1620859323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nerds</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:tag>wonka</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6574816788565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995337813</id>
+    <published>2021-04-18T21:27:40-07:00</published>
+    <updated>2021-04-18T21:27:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/mike-ike-theater-box-root-beer-float-5oz-12ct-1"/>
+    <title>Mike &amp; Ike Theater Box Root Beer Float 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_IkeTheaterBoxRootBeerFloat_d57ed5ca-31e7-412d-9517-5fdb625476d7.jpg?v=1618806399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>root beer</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995337813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candynow.ca/products/6569995173973</id>
+    <published>2021-04-18T21:25:34-07:00</published>
+    <updated>2021-04-18T21:25:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://candynow.ca/products/copy-of-mike-ike-theater-box-cotton-candy-5oz-12ct"/>
+    <title>Mike &amp; Ike Theater Box Cotton Candy 5oz 12ct</title>
+    <s:type></s:type>
+    <s:vendor>candynow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0071/6111/8793/products/Mike_IkeTheaterBoxCottonCandyLE5oz_b2627d32-b941-4228-b098-afc629c1acf3.jpg?v=1618806258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>candynow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>mike&amp;ike</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>theater box</s:tag>
+    <s:tag>usa</s:tag>
+    <s:variant>
+      <id>https://candynow.ca/products/6569995173973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
